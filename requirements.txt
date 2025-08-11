@@ -1,0 +1,8 @@
+pymupdf4llm
+numpy
+pandas
+openai
+langchain_text_splitters
+chromadb
+ollama
+pyserini
