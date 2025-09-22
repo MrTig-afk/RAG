@@ -1,65 +1,63 @@
-# MultiPDF Chat App
+# Chat with Multiple PDFs
 
-> You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
+A Streamlit app that allows you to chat with multiple PDF documents using vector embeddings and a large language model. The app processes PDFs, splits the text into chunks, stores them in a vector database, and answers your questions based on the uploaded documents.
 
-## Introduction
-------------
-The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
+---
 
-## How It Works
-------------
+## ✨ Features
 
-![MultiPDF Chat App Diagram](./docs/PDF-LangChain.jpg)
+-   **Multiple PDF Uploads**: Upload and process several PDF documents at once.
+-   **Text Processing**: Automatically extracts and splits PDF text into manageable chunks for efficient analysis.
+-   **Vector Storage**: Uses **FAISS** for a fast and efficient vector store.
+-   **State-of-the-Art Embeddings**: Employs the `sentence-transformers/all-MiniLM-L6-v2` model for generating text embeddings.
+-   **LLM Integration**: Leverages **OpenRouter's** free `openai/gpt-oss-20b:free` model for generating responses.
+-   **Conversation History**: Maintains the flow of conversation using LangChain's `ConversationBufferMemory`.
+-   **User-Friendly Interface**: Simple sidebar for uploading and processing your PDF files.
 
-The application follows these steps to provide responses to your questions:
+---
 
-1. PDF Loading: The app reads multiple PDF documents and extracts their text content.
+## 📋 Requirements
 
-2. Text Chunking: The extracted text is divided into smaller chunks that can be processed effectively.
+-   Python 3.10+
+-   `pip` or a virtual environment tool like `venv`.
+-   An [OpenRouter API key](https://openrouter.ai/) (the free tier supports a generous number of daily requests).
 
-3. Language Model: The application utilizes a language model to generate vector representations (embeddings) of the text chunks.
+---
 
-4. Similarity Matching: When you ask a question, the app compares it with the text chunks and identifies the most semantically similar ones.
+## 🚀 Getting Started
 
-5. Response Generation: The selected chunks are passed to the language model, which generates a response based on the relevant content of the PDFs.
+Follow these steps to set up and run the project on your local machine.
 
-## Dependencies and Installation
-----------------------------
-To install the MultiPDF Chat App, please follow these steps:
+### 1. Clone the Repository
 
-1. Clone the repository to your local machine.
-
-2. Install the required dependencies by running the following command:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Obtain an API key from OpenAI and add it to the `.env` file in the project directory.
-```commandline
-OPENAI_API_KEY=your_secrit_api_key
+```bash
+git clone https://github.com/MrTig-afk/RAG.git
+cd ask-multiple-pdfs
 ```
 
-## Usage
------
-To use the MultiPDF Chat App, follow these steps:
+### 2. Install Dependencies
 
-1. Ensure that you have installed the required dependencies and added the OpenAI API key to the `.env` file.
+Install all the required Python packages using the `requirements.txt` file.
 
-2. Run the `main.py` file using the Streamlit CLI. Execute the following command:
-   ```
-   streamlit run app.py
-   ```
+```bash
+pip install -r requirements.txt
+```
 
-3. The application will launch in your default web browser, displaying the user interface.
+### 3. Set Up Environment Variables
 
-4. Load multiple PDF documents into the app by following the provided instructions.
+You need to provide your OpenRouter API key. Create a file named `.env` in the root directory of the project and add your key to it.
 
-5. Ask questions in natural language about the loaded PDFs using the chat interface.
+```bash
+# .env
+OPENROUTER_API_KEY="or-your-openrouter-api-key"
+```
 
-## Contributing
-------------
-This repository is intended for educational purposes and does not accept further contributions. It serves as supporting material for a YouTube tutorial that demonstrates how to build this project. Feel free to utilize and enhance the app based on your own requirements.
+### 4. Running the App
 
-## License
--------
-The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
+Launch the Streamlit application with the following command:
+
+```bash
+streamlit run app.py
+```
+
+The application should now be open and running in your web browser.
