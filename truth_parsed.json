@@ -1406,5 +1406,615 @@
       "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
       "context": "Full analyses will be detailed in a statistical analysis plan (SAP), which will be finalised and made available before the end of data collection."
     }
+  ],
+  [
+    {
+      "q": "What is the main aim of the DIAMONDS programme?",
+      "a": "The DIAMONDS programme aims to evaluate a novel supported self-management intervention for people with severe mental illness and type 2 diabetes, focusing on feasibility and acceptability before a definitive randomized controlled trial."
+    },
+    {
+      "q": "Which mental health conditions are included under 'severe mental illness' in this study?",
+      "a": "The study includes schizophrenia, schizoaffective disorder, bipolar disorder, and psychosis not otherwise specified as severe mental illnesses."
+    },
+    {
+      "q": "Why is diabetes self-management particularly important for people with SMI?",
+      "a": "Diabetes is two to three times more common among people with SMI, and they experience worse outcomes compared to those with diabetes alone. Since over 99% of diabetes care is self-managed, effective self-management is critical to improving health outcomes in this group."
+    },
+    {
+      "q": "What are the key components of the DIAMONDS intervention?",
+      "a": "The intervention consists of weekly one-to-one sessions with a DIAMONDS Coach, a paper-based workbook, an optional digital app, and monthly peer-support group sessions."
+    },
+    {
+      "q": "Who will deliver the DIAMONDS intervention?",
+      "a": "The intervention will be delivered by trained healthcare staff called DIAMONDS Coaches, who have experience working in mental health services."
+    },
+    {
+      "q": "How long is the DIAMONDS intervention designed to last?",
+      "a": "The intervention runs over 16 weeks, with participants offered up to 16 weekly sessions."
+    },
+    {
+      "q": "What is the role of the 'Change One Thing' app in the intervention?",
+      "a": "The app supports daily self-management by allowing participants to focus on making one positive health change at a time, complementing the workbook and coaching sessions."
+    },
+    {
+      "q": "How many participants is the feasibility study aiming to recruit?",
+      "a": "The study aims to recruit 30 participants with SMI and type 2 diabetes."
+    },
+    {
+      "q": "What are the primary outcomes of the feasibility study?",
+      "a": "The primary outcomes are recruitment rate, attrition rate, and intervention delivery rate measured at five months from the start of recruitment."
+    },
+    {
+      "q": "What types of data will be collected at baseline?",
+      "a": "Baseline data include sociodemographics, physical health measures (height, weight, BMI, waist circumference, blood pressure), diabetes complications, smoking status, psychiatric rating scales, diabetes distress, physical activity, and health-related quality of life."
+    },
+    {
+      "q": "How will intervention acceptability be evaluated?",
+      "a": "Acceptability will be evaluated through a mixed-methods process, including semi-structured interviews with participants, carers, and coaches, as well as quantitative data on session attendance, satisfaction, and dropout rates."
+    },
+    {
+      "q": "What is the rationale for including continuous glucose monitoring in the study?",
+      "a": "The study explores the feasibility and acceptability of continuous glucose monitoring (CGM) for people with SMI and diabetes, as there is little existing evidence on CGM use in this population."
+    },
+    {
+      "q": "Which device will be used for continuous glucose monitoring in the study?",
+      "a": "The Abbott Freestyle Libre Pro sensor will be used, which provides blinded data without requiring calibration."
+    },
+    {
+      "q": "Why was a blinded CGM chosen instead of an unblinded one?",
+      "a": "A blinded CGM was chosen to avoid potential anxiety that participants might experience if they could see real-time glucose data."
+    },
+    {
+      "q": "What sample size is targeted for carer interviews?",
+      "a": "The study aims to recruit approximately seven informal carers for qualitative interviews."
+    },
+    {
+      "q": "What is the purpose of developing an intervention fidelity framework?",
+      "a": "The fidelity framework ensures that the intervention is delivered consistently and as intended, measuring adherence, dose, quality of delivery, duration, and participant responsiveness."
+    },
+    {
+      "q": "What progression criteria must be met to move from the feasibility study to the RCT?",
+      "a": "At least 20 participants recruited, 50% of intervention sessions delivered to 80% of participants, development of a coach training package, an intervention fidelity framework, and an acceptable and feasible intervention."
+    },
+    {
+      "q": "What role does DIAMONDS Voice play in the study?",
+      "a": "DIAMONDS Voice is a service-user and carer group that co-designed intervention materials, reviewed participant-facing documents, and contributed to study development and dissemination."
+    },
+    {
+      "q": "How will physical activity be measured in the study?",
+      "a": "Physical activity will be measured using self-reported questionnaires and a wrist-worn accelerometer."
+    },
+    {
+      "q": "What ethical approval was obtained for the study?",
+      "a": "The study received approval from the Research Ethics Committee Leeds West (reference: 21/YH/0059)."
+    },
+    {
+      "q": "Which theoretical frameworks informed the intervention design?",
+      "a": "The intervention design was guided by the Theoretical Domains Framework and the Mechanism of Action framework, which link behaviour change techniques to underlying processes."
+    },
+    {
+      "q": "What are some self-management activities targeted by the intervention?",
+      "a": "Activities include healthy eating, increasing physical activity, medication adherence, addressing sleep problems, and managing diabetes in the context of fluctuating moods."
+    },
+    {
+      "q": "What challenges make diabetes self-management difficult for people with SMI?",
+      "a": "Challenges include disturbances in thought, perception, affect, and motivation, which can affect self-efficacy, lifestyle behaviours, and ability to manage complex regimens."
+    },
+    {
+      "q": "Why is this feasibility study important before conducting a full RCT?",
+      "a": "It ensures that recruitment, retention, data collection, and intervention delivery are workable and acceptable, reducing risks of failure in a larger, costly trial."
+    },
+    {
+      "q": "How will interviews with carers be conducted?",
+      "a": "Carers will provide informed consent and participate in interviews, either individually or alongside participants in dyadic interviews, lasting about 45 minutes."
+    },
+    {
+      "q": "How will data on healthcare resource use be collected?",
+      "a": "Resource use will be recorded through a self-report questionnaire and review of medical records."
+    },
+    {
+      "q": "What analysis methods will be used for feasibility data?",
+      "a": "Descriptive statistics, including means, standard deviations, medians, and proportions, will summarize recruitment, attrition, and intervention delivery rates."
+    },
+    {
+      "q": "What are some examples of process evaluation measures?",
+      "a": "Process measures include session attendance, participant satisfaction, intervention content delivery, and engagement with the workbook and app."
+    },
+    {
+      "q": "What role will technology play in supporting self-management?",
+      "a": "Technology support includes the Change One Thing app and testing of continuous glucose monitors to complement traditional workbook and coaching methods."
+    },
+    {
+      "q": "What are some barriers to diabetes care for people with SMI mentioned in the paper?",
+      "a": "Barriers include fragmented healthcare, limited access to support, metabolic side effects of medication, and social determinants like unemployment and housing issues."
+    },
+    {
+      "q": "How is participant consent managed in the study?",
+      "a": "A staged consent process is used, starting with a leaflet, followed by detailed information, and then face-to-face or remote meetings to confirm understanding before written or verbal consent."
+    },
+    {
+      "q": "What is the expected role of peer-support group sessions?",
+      "a": "Peer groups are intended to provide social support, share experiences, and encourage mutual problem-solving among participants."
+    },
+    {
+      "q": "How long do initial and follow-up coaching sessions last?",
+      "a": "The first session lasts 60–90 minutes, while follow-up sessions last 30–60 minutes depending on participant needs."
+    },
+    {
+      "q": "How will intervention fidelity be measured during feasibility?",
+      "a": "By observing or recording sessions, using checklists, and rating adherence, quality, duration, and participant responsiveness."
+    },
+    {
+      "q": "Why was COVID-19 considered in the intervention design?",
+      "a": "COVID-19 restrictions necessitated flexibility, allowing sessions to be delivered remotely by phone or video if needed."
+    },
+    {
+      "q": "What is the planned recruitment target for the full DIAMONDS RCT?",
+      "a": "The definitive RCT aims to recruit more than 400 participants nationwide."
+    },
+    {
+      "q": "What dissemination strategies are planned for study findings?",
+      "a": "Findings will be shared through academic publications, conferences, social media, newsletters, and collaborations with DIAMONDS Voice."
+    },
+    {
+      "q": "What progression ‘stop-go’ criteria are used for recruitment?",
+      "a": "Recruitment of fewer than 20 participants is red, 20–25 is amber, and 26–30 is green."
+    },
+    {
+      "q": "What are some limitations acknowledged in the feasibility study?",
+      "a": "The small sample size limits generalisability, and the study is not designed to test clinical or cost-effectiveness."
+    },
+    {
+      "q": "How will data from continuous glucose monitors be analysed?",
+      "a": "Data will be summarized descriptively, including time-in-range, glycaemic variability, hypoglycaemia, and HbA1c values."
+    },
+    {
+      "q": "What is the role of qualitative analysis in the study?",
+      "a": "Thematic analysis using a Framework approach will explore experiences of participants, carers, and coaches, guided by the Theoretical Framework of Acceptability."
+    },
+    {
+      "q": "How will missing data be handled in feasibility analysis?",
+      "a": "The study will record and report proportions of missing questionnaire, medical record, and physical measurement data."
+    },
+    {
+      "q": "What types of professionals are expected to train as DIAMONDS Coaches?",
+      "a": "Healthcare staff with experience in mental health services will be trained through workshops, manuals, and mentoring."
+    },
+    {
+      "q": "What specific skills are Coaches expected to use?",
+      "a": "Coaches will apply behaviour change techniques, facilitation skills, self-reflection, and person-centred approaches tailored to participant needs."
+    },
+    {
+      "q": "Why is early inclusion of people with SMI in research emphasized?",
+      "a": "To prevent exclusion from innovations and ensure that interventions address their unique needs, avoiding widening health inequalities."
+    },
+    {
+      "q": "How will participant responsiveness be assessed?",
+      "a": "Responsiveness will be measured through interviews, engagement with materials, and whether participants understood and applied intervention strategies."
+    },
+    {
+      "q": "What health inequalities does the DIAMONDS programme aim to address?",
+      "a": "It targets the mortality gap, where people with SMI die 15–20 years earlier than the general population, largely due to preventable long-term conditions like diabetes."
+    },
+    {
+      "q": "How do antipsychotic medications complicate diabetes management?",
+      "a": "They can cause metabolic side effects that increase diabetes risk and complicate self-management of physical health."
+    },
+    {
+      "q": "What support is offered to participants after the 16-week intervention ends?",
+      "a": "During the final month, Coaches help participants set long-term goals and access ongoing support for continued self-management."
+    },
+    {
+      "q": "What is the role of informal carers in this study?",
+      "a": "Carers are interviewed to provide insights into participant experiences, their own support roles, and attitudes towards diabetes self-management and technology use."
+    }
+  ],
+  [
+    {
+      "q": "What was the main aim of the study?",
+      "a": "The study aimed to develop a tailored self-management intervention for people with severe mental illness (SMI) and type 2 diabetes, integrating theory, evidence, and co-design approaches to address unique needs and health inequalities."
+    },
+    {
+      "q": "Why is type 2 diabetes particularly concerning for people with SMI?",
+      "a": "People with SMI are two to three times more likely to develop type 2 diabetes and often experience worse clinical outcomes compared to the general population, partly due to lifestyle factors, medication side effects, and barriers to self-management."
+    },
+    {
+      "q": "What does the DIAMONDS acronym stand for?",
+      "a": "DIAMONDS stands for 'diabetes and mental illness, improving outcomes and self-management.'"
+    },
+    {
+      "q": "What framework underpinned the intervention development?",
+      "a": "The development was underpinned by the Mechanisms of Action (MoA) theoretical framework, linking determinants of behavior to behavior change techniques (BCTs)."
+    },
+    {
+      "q": "What role did the DIAMONDS Voice group play?",
+      "a": "DIAMONDS Voice, a service user and carer group, contributed to study design, attended research meetings, supported expert surveys, participated in workshops, and helped design intervention materials."
+    },
+    {
+      "q": "What were the four main steps in the intervention development process?",
+      "a": "The steps were: (1) prioritization of MoAs and BCTs, (2) expert consensus workshop, (3) development of trigger films, and (4) structured co-design workshops."
+    },
+    {
+      "q": "What challenges to self-management do people with SMI face?",
+      "a": "Challenges include psychiatric symptoms such as avolition or hallucinations, medication side effects like fatigue or hunger, social withdrawal, and difficulties engaging in structured programs."
+    },
+    {
+      "q": "What was identified as a gap in existing research?",
+      "a": "People with SMI are often excluded from diabetes self-management trials, leading to insufficient evidence about the effectiveness of interventions for this population."
+    },
+    {
+      "q": "How did digital exclusion affect this population?",
+      "a": "Many people with SMI have limited access to digital devices, Wi-Fi, or skills to use technology, which worsens health inequalities, particularly during the COVID-19 pandemic when healthcare shifted online."
+    },
+    {
+      "q": "What types of self-management activities are recommended for type 2 diabetes?",
+      "a": "Activities include healthy eating, physical activity, smoking cessation, stress management, blood glucose monitoring, and adherence to prescribed medication."
+    },
+    {
+      "q": "How many behavior change techniques (BCTs) were prioritized for the intervention?",
+      "a": "A total of 22 behavior change techniques (BCTs) were included in the intervention."
+    },
+    {
+      "q": "What is an example of a prioritized BCT?",
+      "a": "Examples include goal setting, action planning, problem-solving, prompts or cues, self-monitoring, and social support."
+    },
+    {
+      "q": "What were trigger films and their purpose?",
+      "a": "Trigger films were animated videos depicting the experiences of people with SMI and diabetes, designed to stimulate discussion in co-design workshops."
+    },
+    {
+      "q": "Who participated in the co-design workshops?",
+      "a": "Service users with SMI and type 2 diabetes, informal caregivers, and healthcare professionals participated in the workshops."
+    },
+    {
+      "q": "How many people were recruited for the co-design workshops?",
+      "a": "Twenty-four people were recruited, though not all could attend every session."
+    },
+    {
+      "q": "What were the top priority self-management behaviors identified by participants?",
+      "a": "Medication management and sleep were identified as the top priorities."
+    },
+    {
+      "q": "What was the purpose of the 'Change One Thing' prototype?",
+      "a": "The prototype app aimed to support small lifestyle changes, with daily prompts related to behaviors like sleep and medication adherence."
+    },
+    {
+      "q": "What design features were emphasized for the app and workbook?",
+      "a": "Participants emphasized person-centered content, clear language, visual accessibility, and options for personalization based on individual abilities and interests."
+    },
+    {
+      "q": "What concerns were raised about the digital app?",
+      "a": "Concerns included app crashes, data security, phone charging, and usability difficulties, highlighting the importance of offering a workbook alternative."
+    },
+    {
+      "q": "What support role is planned for DIAMONDS Coaches?",
+      "a": "DIAMONDS Coaches will provide weekly one-to-one sessions, assist with goal setting, facilitate group sessions, and support users with the app or workbook."
+    },
+    {
+      "q": "How long will participants receive coaching in the intervention?",
+      "a": "Participants will receive weekly sessions for up to 16 weeks, supplemented by daily workbook or app use and optional monthly group sessions."
+    },
+    {
+      "q": "What methods were used to ensure user priorities were included?",
+      "a": "User feedback was incorporated throughout workshops, with iterative prototype testing and synthesis sessions that balanced service user and clinician perspectives."
+    },
+    {
+      "q": "Why were both digital and paper formats included?",
+      "a": "To reduce digital exclusion and ensure all participants could engage, regardless of digital access or skills."
+    },
+    {
+      "q": "What role did healthcare professionals play in workshops?",
+      "a": "They provided input on clinical safety, training needs for facilitators, and processes for referrals and reporting risks during intervention delivery."
+    },
+    {
+      "q": "What were the five main priorities identified during synthesis?",
+      "a": "The priorities were motivation/daily routine, healthy eating, physical activity, stress management, and medication adherence."
+    },
+    {
+      "q": "How was clinical safety addressed in the intervention?",
+      "a": "Workshops evaluated potential risks such as app malfunction and participant well-being, recommending backup systems and onward referrals."
+    },
+    {
+      "q": "What did user testing of educational animations reveal?",
+      "a": "Users found the animations understandable and relevant but suggested improvements for clarity and usability."
+    },
+    {
+      "q": "How does the intervention integrate peer support?",
+      "a": "Optional monthly group sessions facilitated by coaches allow participants to share experiences and provide mutual support."
+    },
+    {
+      "q": "What outcomes is the intervention ultimately aiming to improve?",
+      "a": "It aims to improve self-management behaviors, reduce HbA1c levels, and address both physical and mental health needs in people with SMI and diabetes."
+    },
+    {
+      "q": "What challenge arises from aligning user and clinical priorities?",
+      "a": "Users prioritize mental health management, while clinicians emphasize HbA1c reduction; the intervention balances both by framing activities like exercise as mood-improving."
+    },
+    {
+      "q": "What is the planned next step for the DIAMONDS intervention?",
+      "a": "The intervention will undergo feasibility testing before being evaluated in a definitive randomized controlled trial."
+    },
+    {
+      "q": "What ethical approval was obtained for the study?",
+      "a": "Ethics approval was granted by the North West–Greater Manchester West Research Ethics Committee (reference: 19/NW/0356)."
+    },
+    {
+      "q": "How does the study address digital exclusion?",
+      "a": "By offering both app and workbook formats, providing onboarding support for app setup, and integrating accessibility options."
+    },
+    {
+      "q": "What are 'mechanisms of action' (MoAs) in this context?",
+      "a": "MoAs are theoretical constructs that explain how specific behavior change techniques influence self-management behaviors."
+    },
+    {
+      "q": "What evaluation framework was used for prioritizing BCTs?",
+      "a": "The APEASE framework, which assesses Affordability, Practicability, Effectiveness, Acceptability, Safety, and Equity."
+    },
+    {
+      "q": "How did participants describe barriers to physical activity?",
+      "a": "They reported intimidation in public spaces like gyms, variable motivation, and mental health symptoms as major barriers."
+    },
+    {
+      "q": "How was content for the app and workbook designed?",
+      "a": "Content was co-designed with participants, using animations, comic strips, and simple language to ensure accessibility."
+    },
+    {
+      "q": "What was the significance of the discovery day workshop?",
+      "a": "It allowed service users and healthcare professionals to map experiences, identify barriers, and co-create prototype components."
+    },
+    {
+      "q": "How does the intervention support personalization?",
+      "a": "Participants can choose their own goals, receive tailored coaching, and adapt content to their specific needs and capabilities."
+    },
+    {
+      "q": "What challenges were noted during app testing?",
+      "a": "Repeated app crashes, difficulty using sliders or time settings, and usability problems were common."
+    },
+    {
+      "q": "Why was one-to-one support emphasized?",
+      "a": "It was considered crucial to engagement, helping participants overcome barriers like anxiety and low motivation."
+    },
+    {
+      "q": "How does the intervention link behavior change techniques to user needs?",
+      "a": "BCTs like goal setting and prompts were selected to address MoAs identified as most relevant to SMI-related self-management challenges."
+    },
+    {
+      "q": "What role do informal caregivers have in the intervention?",
+      "a": "Caregivers participated in workshops, provided feedback, and may help support participants during self-management activities."
+    },
+    {
+      "q": "What were some risks considered during design?",
+      "a": "Risks included data privacy concerns, digital exclusion, and potential clinical deterioration of participants."
+    },
+    {
+      "q": "How will scalability of the intervention be explored?",
+      "a": "A process evaluation in the trial will assess barriers and facilitators to scaling, including workforce needs and caregiver involvement."
+    },
+    {
+      "q": "What principle guided the inclusion of group sessions?",
+      "a": "Group sessions were optional, designed to provide social support without creating barriers for those unable to attend."
+    },
+    {
+      "q": "How did preparatory research inform the design?",
+      "a": "Scoping reviews and workshops identified the need for both digital and non-digital options, one-to-one support, and tailoring for SMI-specific barriers."
+    },
+    {
+      "q": "What funding supported the study?",
+      "a": "It was funded by the National Institute for Health Research under its Programme Grants for Applied Research."
+    },
+    {
+      "q": "What limitations did the study acknowledge?",
+      "a": "The effectiveness of the intervention has yet to be demonstrated; feasibility and scalability remain to be tested in trials."
+    },
+    {
+      "q": "What is the potential policy relevance of the intervention?",
+      "a": "If effective, the DIAMONDS program could inform integrated care systems in the NHS to better support people with comorbid SMI and diabetes."
+    },
+    {
+      "q": "What broader lesson does this study highlight?",
+      "a": "The study demonstrates the value of combining behavioral theory, empirical evidence, and co-design with diverse stakeholders to create more effective and equitable health interventions."
+    }
+  ],
+  [
+    {
+      "q": "What is the main aim of the DIAMONDS trial?",
+      "a": "The DIAMONDS trial aims to investigate the clinical and cost-effectiveness of a co-designed diabetes self-management intervention for people with type 2 diabetes and severe mental illness, compared to usual care."
+    },
+    {
+      "q": "Which population is the DIAMONDS trial targeting?",
+      "a": "The trial targets adults aged 18 or older living in the community with diagnoses of schizophrenia, bipolar disorder, schizoaffective disorder, psychosis, or severe depression, who also have type 2 diabetes."
+    },
+    {
+      "q": "What is the primary outcome of the study?",
+      "a": "The primary outcome is the adjusted difference in glycated haemoglobin (HbA1c) levels between the intervention and control groups at 12 months post-randomisation."
+    },
+    {
+      "q": "How many participants will be recruited for the trial?",
+      "a": "The revised sample size is 380 participants, allowing the trial to maintain 88% power to detect a clinically meaningful difference in HbA1c."
+    },
+    {
+      "q": "What kind of study design is used in the DIAMONDS trial?",
+      "a": "It is a multicentre, two-armed, parallel, individually randomised controlled trial with embedded process and economic evaluations."
+    },
+    {
+      "q": "Which organisations are involved in delivering the DIAMONDS trial?",
+      "a": "The trial is delivered across NHS mental health trusts in England, with support from general practices, third-sector organisations, and the University of York coordinating the central trial management."
+    },
+    {
+      "q": "What is the main difference between the intervention and control groups?",
+      "a": "The intervention group receives six months of coaching with tailored self-management support, while the control group continues with usual care and access to standard diabetes education programmes if offered."
+    },
+    {
+      "q": "How is randomisation conducted in this trial?",
+      "a": "Randomisation is performed using computer-generated permuted blocks of varying size, with York Trials Unit providing a central web-based randomisation service."
+    },
+    {
+      "q": "What tools support the intervention alongside coaching?",
+      "a": "Participants are provided with a paper-based DIAMONDS Workbook and an optional digital app called 'Change One Thing' to support daily self-management practices."
+    },
+    {
+      "q": "Which checklist guides the reporting of this trial protocol?",
+      "a": "The protocol follows the SPIRIT (Standard Protocol Items: Recommendations for Interventional Trials) checklist."
+    },
+    {
+      "q": "What are some secondary outcomes measured in the DIAMONDS trial?",
+      "a": "Secondary outcomes include physical health measures (cholesterol, BMI, waist circumference, blood pressure, smoking status), physical activity, mental health, diabetes complications, and quality of life."
+    },
+    {
+      "q": "How is HbA1c measured to ensure consistency?",
+      "a": "All blood samples for HbA1c are analysed by a single UKAS-registered central laboratory, preventing variability across local laboratories."
+    },
+    {
+      "q": "Why was the sample size revised from the original plan?",
+      "a": "Slower-than-anticipated recruitment led to recalculation incorporating correlation between baseline and 12-month HbA1c, reducing the target to 380 while retaining statistical power."
+    },
+    {
+      "q": "What are the eligibility exclusion criteria?",
+      "a": "Exclusion criteria include cognitive impairments preventing participation, gestational diabetes, type 1 or secondary diabetes, lack of consent capacity, or current inpatient status."
+    },
+    {
+      "q": "How are participants recruited?",
+      "a": "Recruitment occurs via NHS mental health trusts, GP database screening, third-sector organisations, existing research cohorts, and self-referral."
+    },
+    {
+      "q": "What role does DIAMONDS Voice play in the study?",
+      "a": "DIAMONDS Voice, a service-user and carer group, co-designed materials, advised on intervention acceptability, recruitment strategies, and will support dissemination of findings."
+    },
+    {
+      "q": "What process evaluation methods are included?",
+      "a": "The process evaluation uses mixed-methods, including fidelity observations, session logs, app data, interviews with participants, carers, and Coaches, and triangulation with quantitative findings."
+    },
+    {
+      "q": "What is intervention fidelity assessed against?",
+      "a": "Fidelity is assessed on adherence, quality of delivery, duration of sessions, and dose using a framework developed with Leicester Diabetes Centre and refined through feasibility study insights."
+    },
+    {
+      "q": "How long does the intervention last for each participant?",
+      "a": "Each participant receives six months of one-to-one coaching, with ongoing access to the workbook and app beyond follow-up if desired."
+    },
+    {
+      "q": "What measures are used to track physical activity?",
+      "a": "Participants wear wrist-worn accelerometers for seven days at baseline and at six months, alongside completing self-report physical activity questionnaires."
+    },
+    {
+      "q": "What statistical method is used for analysing the primary outcome?",
+      "a": "HbA1c will be analysed using mixed-effects regression, including baseline values, treatment group, time, group-time interaction, and covariates, with Coach included as a random effect."
+    },
+    {
+      "q": "What type of subgroup analyses are planned?",
+      "a": "Exploratory subgroup analyses will be conducted based on baseline HbA1c levels, ethnicity, and insulin use, with results treated cautiously."
+    },
+    {
+      "q": "How will economic evaluation be conducted?",
+      "a": "A within-trial cost-utility analysis from an NHS and personal social services perspective will be performed over 12 months, following NICE guidance."
+    },
+    {
+      "q": "What ethical approvals has the study received?",
+      "a": "The study received ethics approval from the West of Scotland Research Ethics Committee 3 (22/WS/0117)."
+    },
+    {
+      "q": "How are adverse events defined in the trial?",
+      "a": "An adverse event is any unexpected or untoward clinical effect, which may be directly, possibly, or completely unrelated to the intervention."
+    },
+    {
+      "q": "Who reviews serious adverse events (SAEs)?",
+      "a": "SAEs are reported to the Chief Investigator and reviewed by an independent clinician, with reports sent to the Sponsor and Research Ethics Committee."
+    },
+    {
+      "q": "What protocol exists for suicide risk during the trial?",
+      "a": "A suicide risk protocol requires researchers to conduct risk assessments if participants express self-harm or suicidal thoughts, escalating concerns to clinical teams as necessary."
+    },
+    {
+      "q": "What oversight committees monitor the trial?",
+      "a": "A Trial Management Group handles day-to-day operations, while an independent Programme Steering Committee oversees trial conduct and serves as the Data Monitoring Committee."
+    },
+    {
+      "q": "What incentives are given to participants?",
+      "a": "Participants receive a £10 high street voucher at baseline, 6-month, and 12-month visits."
+    },
+    {
+      "q": "How is data confidentiality maintained?",
+      "a": "Participants are assigned unique IDs, data are anonymised, and records are stored according to GDPR and UK health research frameworks, archived securely for at least 10 years."
+    },
+    {
+      "q": "What patient pathway does the trial follow?",
+      "a": "Participants progress through staged consent, randomisation, intervention or usual care, and outcome assessments at baseline, 6, and 12 months, with fidelity monitoring embedded."
+    },
+    {
+      "q": "Why is self-management particularly challenging for people with SMI?",
+      "a": "SMI symptoms, medication side effects, reduced motivation, lower health literacy, and lifestyle barriers complicate adherence to diabetes self-management activities."
+    },
+    {
+      "q": "What gap in existing research does DIAMONDS address?",
+      "a": "Most diabetes self-management programmes exclude people with SMI, leaving a lack of evidence-based interventions tailored to this population."
+    },
+    {
+      "q": "What was the STEPWISE trial, and why is it relevant?",
+      "a": "STEPWISE tested structured lifestyle education for people with schizophrenia but was neither clinically nor cost-effective, highlighting challenges in addressing physical health in SMI populations."
+    },
+    {
+      "q": "How is blinding managed in the trial?",
+      "a": "Outcome assessors are blinded, but participants and Coaches cannot be blinded due to the nature of the intervention, which may affect self-reported outcomes."
+    },
+    {
+      "q": "What behavioural techniques are integrated into the DIAMONDS intervention?",
+      "a": "Behaviour Change Techniques (BCTs) are used to support goal setting, planning, medication adherence, healthy eating, physical activity, and coping with low mood."
+    },
+    {
+      "q": "What are the categories of participant withdrawal?",
+      "a": "Participants may withdraw from follow-ups, from the intervention itself, or fully from the trial, with data collected up until withdrawal retained for analysis."
+    },
+    {
+      "q": "What dissemination strategies are planned?",
+      "a": "Findings will be published in journals, presented at conferences, summarised for participants, shared via websites, social media, plain-language summaries, infographics, and audio formats."
+    },
+    {
+      "q": "What languages are materials provided in to increase inclusivity?",
+      "a": "In addition to English, Urdu-language materials are included to support inclusivity in participant recruitment and engagement."
+    },
+    {
+      "q": "What role do carers play in the evaluation?",
+      "a": "Carers of participants are interviewed to provide insights on intervention acceptability, participant experiences, and caregiving challenges."
+    },
+    {
+      "q": "What safety measures are in place for researchers?",
+      "a": "Researchers undergo lone working training, complete risk assessments, and follow University of York and YTU safety policies during fieldwork."
+    },
+    {
+      "q": "What limitations are noted about participant blinding?",
+      "a": "Participants know whether they receive the intervention, which may influence self-reported outcomes and engagement, introducing potential bias."
+    },
+    {
+      "q": "How is intervention engagement measured?",
+      "a": "Engagement is measured through Coach session logs, app usage data, workbook activity, and qualitative interviews assessing satisfaction and adherence."
+    },
+    {
+      "q": "What theoretical framework informs the process evaluation?",
+      "a": "The Theoretical Domains Framework (TDF) is used to structure evaluation of behaviour change mechanisms and implementation challenges."
+    },
+    {
+      "q": "What is the planned trial duration?",
+      "a": "The study began in September 2022, with recruitment ending September 2024, and overall trial completion expected by September 2025."
+    },
+    {
+      "q": "What makes this trial novel compared to existing diabetes programmes?",
+      "a": "It is one of the first large-scale RCTs testing a tailored, co-designed diabetes self-management intervention specifically for people with SMI."
+    },
+    {
+      "q": "How are accelerometer data processed?",
+      "a": "Accelerometer data are processed using the R-package GGIR, which calibrates, removes artefacts, and calculates activity metrics like dynamic acceleration."
+    },
+    {
+      "q": "What governance framework supports participant safety?",
+      "a": "Participant safety is supported by NHS indemnity, University of York public liability insurance, duty of care protocols, and REC oversight."
+    },
+    {
+      "q": "What is the trial’s registration number?",
+      "a": "The DIAMONDS trial is registered under ISRCTN22275538."
+    },
+    {
+      "q": "What is the funding source of the trial?",
+      "a": "The trial is funded by the National Institute for Health and Care Research (NIHR) Programme for Applied Research."
+    }
   ]
 ]

@@ -18,7 +18,6 @@ for i, array_str in enumerate(json_arrays, start=1):
         print(f"Error parsing array {i}: {e}")
 
 print(f"Loaded ground truth for {len(ground_truth_per_paper)} papers.")
-import json
 
 output_path = "truth_parsed.json"
 
