@@ -1,1408 +1,2364 @@
 [
   {
-    "q": "What is the primary reason for the reduced life expectancy in people with severe mental illness (SMI)?",
-    "a": "The shorter life expectancy of 15-20 years for people with SMI is mainly attributed to coexisting physical long-term conditions (LTCs). These physical illnesses are the principal contributors to the mortality gap when compared to the general population.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Their life expectancy is 15-20 years shorter [1–4] mainly due to coexisting physical long-term conditions (LTCs) [5–7]."
+    "q": "What was the primary aim of the systematic review by Coxon et al.?",
+    "a": "The primary aim of the review was to examine if evaluations of diabetes self-management education (DSME) programmes for the general population included people with severe mental illness (SMI) and, if they did, whether the interventions were beneficial for this specific population group.",
+    "title": "Primary Aim of the Systematic Review",
+    "summary": "The review sought to determine if standard diabetes self-management programmes include people with SMI and whether these programs are effective for them. This was driven by a lack of evidence for this vulnerable population.",
+    "context": "The paper's abstract and introduction clearly state this objective. It addresses the gap in knowledge regarding the applicability of general DSME programs to individuals who also have a co-existing severe mental illness."
   },
   {
-    "q": "How does the prevalence of diabetes in people with SMI compare to the general population?",
-    "a": "Diabetes is significantly more common among individuals with SMI, with a prevalence that is two to three times higher than in the general population. This disparity contributes to poorer health outcomes for this group.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Consequent health inequalities are exemplified by the experience of coexisting SMI and diabetes, where diabetes is two to three times more common [1, 10], and mental health and diabetes outcomes are poorer, than for individuals with diabetes alone [5–7]."
+    "q": "How many total randomised controlled trials (RCTs) were included in the final analysis of this systematic review?",
+    "a": "After an initial search yielded 52,265 titles and 885 full texts were assessed for eligibility, a final total of 410 randomised controlled trials (RCTs) were included in the review.",
+    "title": "Total Number of Included Trials",
+    "summary": "The systematic review included a final total of 410 RCTs in its analysis. This large number was distilled from an initial pool of over 52,000 potential articles.",
+    "context": "This information is provided in the 'Results' section of the paper and is visually represented in the PRISMA flow diagram (Fig. 1) referenced in the text."
   },
   {
-    "q": "What is the role of antipsychotic medications in the development of physical health problems for people with SMI?",
-    "a": "Antipsychotic medications, often prescribed to treat psychosis in people with SMI, are associated with metabolic side effects. These can lead to significant weight gain, glucose dysregulation, and hyperlipidaemia, which in turn contribute to the development of metabolic syndrome.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Antipsychotic medications are often used to treat psychosis in people with SMI and are associated with metabolic side effects. This can lead to significant weight gain, glucose dysregulation, hyperlipidaemia and as a result contribute to the development of metabolic syndrome [9]."
+    "q": "What were the PICOS criteria used to define the inclusion criteria for this systematic review?",
+    "a": "The PICOS criteria for the review were defined as follows:\n\n| PICOS Criterion | Description |\n|---|---|\n| **Population** | Adults aged 18 or over diagnosed with Type 2 Diabetes Mellitus (T2DM). |\n| **Intervention** | Structured education interventions targeted to improve self-management of T2DM. |\n| **Comparator** | Either another active intervention or usual care. |\n| **Outcomes** | Inclusion of people with SMI, the number of participants with SMI, and the clinical, behavioural, and psychosocial outcomes for this group. |\n| **Study design** | Randomised controlled trials (RCTs). |",
+    "title": "PICOS Framework for Inclusion Criteria",
+    "summary": "The review used the PICOS framework to systematically define its inclusion criteria. The framework specified the target population, intervention type, comparators, outcomes of interest (specifically focusing on SMI), and the required study design (RCTs).",
+    "context": "The 'Method' section explicitly outlines the PICOS criteria used to structure the research question and guide the selection of studies for the review."
   },
   {
-    "q": "What is 'self-management' in the context of long-term conditions?",
-    "a": "In the context of LTCs, self-management refers to the specific skills, practices, and behaviours a person actively engages in to protect and promote their own health. Consistent self-management is considered fundamental to improving clinical outcomes and preventing the deterioration of health.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Self-management of LTCs, the skills, practices, and behaviours that a person engages in to protect and promote their health, is fundamental to improving clinical outcomes [11–13]; and consistent self-management is essential for all LTCs to prevent worsening of symptoms and deteriorating health [14, 15]."
+    "q": "What percentage of the included trials were confirmed to have not recruited any participants with SMI?",
+    "a": "The review found that at least 172 of the 410 trials, which equates to 42%, did not recruit any participants with severe mental illness (SMI). The paper notes that SMI was explicitly listed as an exclusion criterion in 109 of these trials.",
+    "title": "Exclusion Rate of Participants with SMI",
+    "summary": "A significant portion of the trials, at least 42%, did not include any participants with SMI. This highlights a pattern of systematic exclusion in diabetes self-management research.",
+    "context": "This is a key finding from the 'Results' section and Table 1. It forms the basis of the paper's conclusion that people with SMI are often excluded from diabetes research."
   },
   {
-    "q": "Why are general diabetes self-management programs often unsuitable for people with SMI?",
-    "a": "Standard diabetes self-management programs are often unsuitable because they do not address the unique and significant barriers faced by people with SMI. These barriers include cognitive and motivational challenges stemming from the mental illness itself, as well as systemic issues like stigma, poverty, and housing insecurity.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "However, diabetes self-management programmes designed for the general population do not address these important barriers [30–32]."
+    "q": "What was the most significant barrier to assessing intervention effectiveness for people with SMI in the included trials?",
+    "a": "The most significant barrier was that none of the trials that confirmed the inclusion of people with SMI reported the outcomes separately for these participants. Without this specific data, it was impossible to conduct any analysis of treatment effects for the SMI subgroup.",
+    "title": "Primary Barrier to Assessing Effectiveness",
+    "summary": "The review could not assess program effectiveness for people with SMI because none of the trials reported outcomes for this specific subgroup. This complete lack of data was the most critical finding, creating a major knowledge gap.",
+    "context": "This core conclusion is stated in the abstract, results, and discussion. It highlights the central finding that efficacy for the SMI population could not be determined from the existing literature."
   },
   {
-    "q": "What was the outcome of the STEPWISE trial mentioned in the paper?",
-    "a": "The STEPWISE trial evaluated a lifestyle education program designed to support weight loss in people with SMI. Despite being tailored to this population, the intervention did not demonstrate a clinical benefit nor was it cost-effective compared to standard treatment, highlighting the difficulty of promoting sustainable lifestyle changes.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "However, despite being tailored to the needs of people with SMI and being co-designed by people with SMI, the STEPWISE intervention appeared to meet the needs of study participants, it did not demonstrate a clinical benefit nor was it cost effective in supporting weight loss compared with treatment as usual."
+    "q": "Across the six trials that provided specific data, what was the total number of participants with SMI identified?",
+    "a": "Across the six trials that provided exact numbers, a total of 1009 participants were recruited, of whom only 31 (3.1%) had a severe mental illness (SMI).",
+    "title": "Total Number of Identified SMI Participants",
+    "summary": "Only 31 individuals with SMI were identified across the six trials that provided exact participant counts. This small figure, representing just 3.1% of the participants in those specific trials, highlights the severe under-representation of this group in research.",
+    "context": "This statistic from the 'Results' section quantifies the minimal inclusion of people with SMI in the body of research that was reviewed, even in the few studies that did not explicitly exclude them."
   },
   {
-    "q": "What were the three main aims of this qualitative study?",
-    "a": "The study had three primary aims: to identify factors that promote or inhibit self-management behaviours in people with SMI and LTCs; to identify factors affecting their access to support interventions; and to explore the use and acceptability of digital technologies for self-management support.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "- identify and explore factors that promote or inhibit self-management behaviours in people with SMI and co-existing LTCs\n- identify factors that may affect access to and uptake of self-management support and interventions\n- explore use and acceptability of digital technologies for supporting self-management"
+    "q": "What action did the researchers take when an included article did not report information on the inclusion of people with SMI?",
+    "a": "If an article did not report information on SMI, the authors of that article were contacted directly by email to request the missing data. Despite this effort, authors of 177 trials (43.2%) did not respond to these requests.",
+    "title": "Method for Handling Missing Data",
+    "summary": "The review's authors actively tried to fill data gaps by emailing the original trial authors to ask about SMI inclusion. However, this method had limited success, as nearly half of the contacted authors did not reply.",
+    "context": "This methodological detail, found in the 'Methods' and 'Results' sections, shows the researchers' diligence in trying to obtain comprehensive data and also highlights a significant challenge in conducting such a review."
   },
   {
-    "q": "What data collection methods were employed in this study?",
-    "a": "The researchers used a qualitative approach with multiple methods for data collection. They conducted face-to-face semi-structured interviews and focused observations with service users, alongside telephone interviews and focus group discussions with informal carers and healthcare staff.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "We undertook a qualitative study using face-to-face semi-structured interviews and focused observations with people with SMI and co-existing LTCs, alongside telephone semi-structured interviews and focus group discussions with informal carers and healthcare staff."
+    "q": "According to the background, what were the outcomes of the DART (Diabetes Awareness and Rehabilitation Training) intervention?",
+    "a": "The DART intervention, which was specifically designed for people with SMI and T2DM, had the following outcomes:\n\n| Outcome Category | Result |\n|---|---|\n| **Physical Health** | Greater reduction in weight, body mass index (BMI), waist circumference, and plasma triglycerides than controls. |\n| **Clinical Markers** | **No** statistically significant changes in fasting glucose or glycosylated haemoglobin (HbA1C) levels. |\n| **Knowledge & Behaviour** | Significantly increased diabetes knowledge, diabetes self-efficacy, and self-reported physical activity. |\n| **Long-term (6-month follow-up)** | Effects on BMI, waist circumference, and diabetes knowledge were maintained. |",
+    "title": "Outcomes of the DART Intervention",
+    "summary": "The DART trial, a tailored intervention for people with SMI, showed positive lifestyle and knowledge changes but failed to improve key clinical markers like HbA1c. This suggests that achieving clinical improvements in this population is particularly challenging.",
+    "context": "The 'Background' section discusses the DART trial as one of the very few SMI-specific DSME interventions. Its mixed results provide a key rationale for the current review's investigation into general DSME programmes."
   },
   {
-    "q": "Who were the three groups of participants recruited for this research?",
-    "a": "The research included three distinct participant groups to gather comprehensive perspectives. These were service users (people with a diagnosed SMI and at least one LTC), their informal carers (such as family or friends), and healthcare staff who provide care for this population.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "People with SMI and co‑existing LTCs... Informal carers of people with SMI and co‑existing LTCs... Healthcare staff who provide care for people with SMI."
+    "q": "For how many trials was it unknown if people with SMI were included, and what were the reasons?",
+    "a": "It was unknown if people with SMI were recruited in 229 of the 410 trials (55.9%). The reasons for this were broken down as follows:\n\n| Reason for 'Unknown' Status | Number of Trials | Percentage of Total (410) |\n|---|---|---|\n| Authors did not collect data on SMI | 52 | 12.7% |\n| Authors did not respond to email request | 177 | 43.2% |\n| **Total Unknown** | **229** | **55.9%** |",
+    "title": "Trials with Unknown SMI Inclusion",
+    "summary": "In over half of the trials (55.9%), it was impossible to determine if people with SMI had been included. This was due to non-responsive authors or a failure to collect data on mental health diagnoses during the original studies.",
+    "context": "This statistic, found in the 'Results' section and detailed in Table 1, underscores the large evidence gap and the general lack of consideration for co-existing SMI in diabetes research."
   },
   {
-    "q": "What were the inclusion criteria for service users in the study?",
-    "a": "To be included, service users had to be over 18 years old, have a diagnosed SMI (such as schizophrenia, schizoaffective disorder, or bipolar disorder), and have at least one diagnosed physical LTC. The eligible LTCs included cardiovascular disease, metabolic disease, respiratory conditions, or chronic kidney disease.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "People were eligible for inclusion if they were over the age of 18, had a diagnosed SMI (defined as schizophrenia, schizoaffective disorder, bipolar disorder, or other non-organic psychosis;...), and had at least one of the following diagnosed co-existing physical LTCs..."
+    "q": "What databases were searched for the systematic literature review?",
+    "a": "The systematic literature search was undertaken in the following eight bibliographic databases:\n\n1.  Cochrane Library\n2.  Medline\n3.  Embase\n4.  PsychINFO\n5.  Allied and Complimentary Medicine Database\n6.  Health Technology Assessment\n7.  NHS Economic Evaluations Database\n8.  CINAHL",
+    "title": "Databases Searched",
+    "summary": "A comprehensive search was conducted across eight major health and medical databases. These included prominent sources like the Cochrane Library, Medline, Embase, and PsychINFO to ensure a wide-ranging retrieval of relevant trials.",
+    "context": "The 'Search strategy' part of the 'Method' section lists the databases used, demonstrating the comprehensive nature of the literature search performed for the review."
   },
   {
-    "q": "What was the purpose of using a visual storyboard during interviews with service users?",
-    "a": "A visual storyboard was used during interviews with service users as a prompting tool to help elicit richer and more detailed responses about their personal experiences with self-management. This method was developed with a patient involvement group to facilitate deeper and more nuanced discussions.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "In addition, a visual storyboard was used in the service user interviews to elicit further, more detailed responses about experiences of self-management (Appendix B)."
+    "q": "What time period did the systematic literature search cover?",
+    "a": "The systematic literature search covered a period from January 2004 to April 2018.",
+    "title": "Literature Search Time Period",
+    "summary": "The review's literature search included randomised controlled trials published over a 14-year period. The search window was set from January 2004 to April 2018.",
+    "context": "This detail is specified in the 'Search strategy' subsection within the 'Method' section, defining the temporal scope of the evidence base being reviewed."
   },
   {
-    "q": "How was the qualitative data from interviews and focus groups analyzed?",
-    "a": "The audio recordings were transcribed and imported into NVivo12 software for thematic analysis. The research team first coded transcripts inductively to generate initial codes, then mapped these onto a refined coding framework from a related study, allowing for a structured and systematic analysis.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Audio recordings of the interviews and focus group discussions were transcribed verbatim by a third-party transcription service. Transcripts were imported to NVivo12 [37] and anonymised prior to coding and analysis."
+    "q": "How did the review describe the mortality gap between people with and without SMI, citing Thornicroft?",
+    "a": "The paper cites Thornicroft, who described the mortality gap between people with SMI and the non-SMI population as 'at worst a form of lethal discrimination'.",
+    "title": "Thornicroft's Description of the Mortality Gap",
+    "summary": "The paper highlights the severity of health inequality by quoting Thornicroft's description of the mortality gap as a 'form of lethal discrimination'. This emphasizes the urgent need for effective, evidence-based interventions.",
+    "context": "This powerful quote is used in the 'Discussion' section to frame the exclusion of people with SMI from research as a critical issue of health equity and social justice."
   },
   {
-    "q": "What were the three core themes identified from the analysis of the data?",
-    "a": "The analysis revealed three core themes that captured the central challenges of self-management. These were: 1) the precarious nature of living with SMI, 2) the circularity of life with SMI and LTCs, and 3) the constellation of support for self-management.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Three themes were identified, 1) the precarious nature of living with SMI, 2) the circularity of life with SMI and LTCs, and 3) the constellation of support for self-management."
+    "q": "What was the main limitation of this systematic review as identified by the authors?",
+    "a": "The main limitation identified was that, despite attempts to contact all authors, the research team was unable to obtain data for a substantial number of trials (177 trials). This means the findings could potentially under- or over-estimate the true proportion of trials that do not include people with SMI.",
+    "title": "Primary Limitation of the Review",
+    "summary": "The key limitation of the review was the inability to get data from a large number of trial authors. This missing information means the reported 42% exclusion rate could be an under- or over-estimation of the actual figure.",
+    "context": "The 'Discussion' section contains a paragraph dedicated to the study's limitations, with the non-response from authors being the most significant one acknowledged."
   },
   {
-    "q": "In what way did service users describe their experience with SMI as 'inescapable'?",
-    "a": "Service users described SMI as an ever-present and relentless struggle that impacted all aspects of their lives, with no end or relief in sight. This feeling was reinforced by the enduring nature of the illness and the distress of psychotic symptoms, creating a sense that their mental illness was a constant, unavoidable presence.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "With no end or relief in sight, service user participants described how the presence of SMI was inescapable, “It’s upsetting knowing that it’s never gonna go away” (Service user, PLGP012), representing a relentless and never-ending struggle:"
+    "q": "Which country conducted the highest number of the 410 included trials?",
+    "a": "Studies conducted in the USA dominated the sample, accounting for 134 of the 410 trials, which is 33% of the total.",
+    "title": "Country with Most Trials",
+    "summary": "The United States conducted the most trials included in the review. With 134 studies, it accounted for one-third of the total RCTs.",
+    "context": "This geographical data point is provided in the 'Results' section, giving context to the body of literature that was reviewed."
   },
   {
-    "q": "Why did the study describe living with SMI as a 'rollercoaster disease'?",
-    "a": "The term 'rollercoaster disease' was used by a service user to capture the unpredictable nature of SMI, which is characterized by fluctuating periods of severe symptoms and relative wellness. This persistent precarity means that good days can be quickly followed by debilitating bouts of ill health, creating constant uncertainty for both service users and their carers.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "While many service users described periods of comparatively good mental health and reported being well when interviewed, there was a strong current in the data highlighting that SMI was “ …a rollercoaster disease… ” (Service user, PLYPT004), with unpredictable periods of exacerbation and amelioration:"
+    "q": "What specific challenge faced by people with SMI did the review say that generic DSME programmes fail to address?",
+    "a": "The review states that generic DSME programmes do not address the particular challenge of how people with SMI can maintain their diabetes control during periods of instability in their mental health.",
+    "title": "Unaddressed Challenge in Generic DSME",
+    "summary": "Generic diabetes programs fail to teach people with SMI how to manage their diabetes during episodes of poor mental health. This is a critical gap, as mental health instability can severely disrupt self-management routines.",
+    "context": "This point is raised in the 'Discussion' section as a key reason why simply referring people with SMI to standard programmes may be insufficient and why tailored interventions are likely needed."
   },
   {
-    "q": "How did the unpredictable nature of SMI lead to maladaptive coping strategies?",
-    "a": "The constant uncertainty and heavy burden associated with SMI symptoms led some service users to adopt maladaptive coping strategies, which were often detrimental to their physical health. For example, some participants reported using alcohol as a form of 'escapism' to manage their mental distress, particularly during periods of poor mental health.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "The uncertainty and burden associated with SMI symptoms meant service users were sometimes drawn to mal adaptive coping strategies, often to the detriment of their physical health."
+    "q": "What tool was used to assess the risk of bias in the trials that included people with SMI?",
+    "a": "The risk of bias was assessed using the Cochrane Collaboration tool. Two authors independently rated the trials as having a low, high, or unclear risk of bias across seven criteria.",
+    "title": "Risk of Bias Assessment Tool",
+    "summary": "The review used the standard Cochrane Collaboration tool to assess the risk of bias in the relevant trials. This involved two independent reviewers rating each study against seven criteria to ensure methodological rigor.",
+    "context": "The 'Method' section details the process for assessing risk of bias, indicating that the review followed established best practices for systematic reviews."
   },
   {
-    "q": "Why was physical health often considered of secondary importance by service users?",
-    "a": "Service users often considered their physical health a lower priority because they were preoccupied with managing distressing mental health symptoms. Healthcare professionals observed this, noting that when they attempted to conduct physical health assessments, patients would often question the importance of it compared to their immediate mental health concerns.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "… a lot of people I see don’t think their physical health’s really important, they’re more concerned about mental health, so when I ring them and say, we’re going to come out and do a physical health assessment they go well why do you need to do that?"
+    "q": "What future research direction is proposed as necessary in the paper's conclusion?",
+    "a": "The conclusion states it is necessary for future research to examine whether existing DSME programmes can meet the needs of people with SMI, can be adapted to do so, or if more tailored programmes need to be developed and evaluated.",
+    "title": "Proposed Future Research",
+    "summary": "The paper concludes by calling for future research to determine the best path forward. Researchers should investigate if existing programs can be adapted for people with SMI or if entirely new, tailored interventions are required.",
+    "context": "This final recommendation, presented in the 'Conclusion' section, directly addresses the evidence gap identified by the review and sets an agenda for subsequent studies."
   },
   {
-    "q": "How does the immediacy of mental health symptoms affect long-term self-management?",
-    "a": "The urgency and immediacy of mental health symptoms frequently cause service users to prioritize short-term needs and basic self-care over the long-term management of their physical health. The daily struggle to perform fundamental tasks like cooking or even getting out of bed often leaves no physical or mental capacity for more demanding health-promoting activities.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "A contributing factor to service users’ inability to recalibrate their focus was the immediacy of mental health symptoms underpinning the prioritisation of shortterm needs and goals over long-term self-management of physical health."
+    "q": "What two types of publications were explicitly excluded from the review?",
+    "a": "The review explicitly excluded publications that were written in languages other than English and those that were published as conference abstracts, editorials, or letters.",
+    "title": "Excluded Publication Types",
+    "summary": "The review's inclusion criteria were strict, excluding any publications not written in English. It also excluded non-peer-reviewed materials like conference abstracts and editorials.",
+    "context": "This information is found in the 'Method' section under the list of exclusion criteria. These criteria help define the scope and potential limitations of the review."
   },
   {
-    "q": "What is meant by 'sacrificing physical health to manage mental health'?",
-    "a": "This concept refers to the trade-off where treatments essential for managing mental health, particularly antipsychotic medications, lead to negative physical health outcomes. Service users reported that medications like Lithium caused kidney problems, while others led to significant weight gain, forcing a choice between mental stability and physical well-being.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Many service users shared a perception that the long-term management of their mental health problems had damaged their physical health: ... Kidney disease is something that’s ongoing because of my Lithium because I’ve taken Lithium for … 20 odd years."
+    "q": "Why were trials that recruited *only* people with both T2DM and SMI excluded from this review?",
+    "a": "Trials that recruited only people with T2DM and SMI were also excluded because a recent Cochrane review, conducted by members of the same authorship team, had already reviewed this specific literature. The current review aimed to investigate the inclusion of people with SMI in *general* population trials.",
+    "title": "Rationale for Excluding SMI-Specific Trials",
+    "summary": "The review deliberately excluded trials focusing solely on people with SMI and diabetes. This was to avoid duplicating the work of a recent Cochrane review and to maintain focus on whether *general* diabetes programs include this population.",
+    "context": "This important exclusion criterion is explained in the 'Method' section. It clarifies the review's unique contribution and distinguishes it from previous work like the DART trial review."
   },
   {
-    "q": "How did service users rationalize taking antipsychotic medication despite its negative side effects?",
-    "a": "Despite acknowledging negative side effects like weight gain, some service users adopted a pragmatic view of their medication. They rationalized taking it on the grounds that it was a necessary condition to remain in the community and, crucially, to avoid the traumatic experience of involuntary admission to a psychiatric hospital.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "I feel when I take the medication is, I don’t want to … ever go back into psychiatric hospital, so I take it’s a condition to keep me in the community and I… don’t ever want to go back into that."
-  },
-  {
-    "q": "How did carers perceive the dilemma of antipsychotic medication?",
-    "a": "Carers often felt trapped in a 'Catch-22' dilemma regarding antipsychotic medication. They struggled to balance the medication's benefits for mental stability against its detrimental physical side effects, such as weight gain, leaving them uncertain about how to best support their loved one's overall health.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Carers often struggled to balance the health benefits of antipsychotic medication with the negative consequences of such medication, leaving them in a quandary about how best to support service users: ... you’re in a Catch-22; if I stop that this happens, if I do that, you know.. - Carer, CKMPT002"
-  },
-  {
-    "q": "What is the main conclusion of the study regarding self-management for people with SMI?",
-    "a": "The study concludes that the demands of living with SMI present a substantial barrier to the self-management of co-existing LTCs. Therefore, it is crucial that people with SMI have access to person-centred, tailored support for their physical conditions that fully considers their individual circumstances and priorities.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "The demands of living with SMI present a substantial barrier to self-management for multiple co-existing LTCs. It is important that people with SMI can access person-centred, tailored support for their LTCs that takes into consideration individual circumstances and priorities."
-  },
-  {
-    "q": "What type of approach to healthcare was suggested to better meet the needs of service users and carers?",
-    "a": "To better meet the complex needs of service users and their carers, the study suggested implementing an integrated approach to healthcare. This would involve coordinating both mental and physical healthcare services, rather than treating these conditions in separate, isolated systems.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "An integrated approach to both mental and physical healthcare was suggested to meet service user and carer needs."
-  },
-  {
-    "q": "What was the timeframe for data collection in this study?",
-    "a": "All data for the study, including all semi-structured interviews and focus group discussions across the different participant groups, were collected over a five-month period. The data collection phase took place between December 2018 and April 2019.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "All semi-structured interviews and focus group discussions were conducted between December 2018 and April 2019."
-  },
-  {
-    "q": "How were informal carers recruited for the study?",
-    "a": "Informal carers were recruited using a multi-pronged approach. Service users participating in the study were asked to identify a relative or friend who supports them, and carers were also recruited directly from carer groups associated with participating health sites, mental health trusts, and third-sector organizations.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Service users who agreed to participate in the study were asked to identify a relative or friend who supports them. Informal carers were also recruited from carer groups that were linked to participating primary care sites (or were identified by GPs or care coordinators), mental health trusts, and third sector organisations."
-  },
-  {
-    "q": "Beyond diabetes, what other LTCs have a significantly higher prevalence among people with SMI?",
-    "a": "In addition to diabetes, several other common long-term conditions have a significantly higher prevalence in people with SMI. These include chronic obstructive pulmonary disease (COPD), ischaemic heart disease, and heart failure. It is common for individuals with SMI to experience multiple LTCs simultaneously.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Other common LTCs, including chronic obstructive pulmonary disease (COPD), ischaemic heart disease, and heart failure, all of which have a significantly higher prevalence among people with SMI [1]."
-  },
-  {
-    "q": "How did the researchers handle the analysis of data from different LTC groups?",
-    "a": "Initially, the researchers categorized service user data based on their primary LTC, such as metabolic or respiratory conditions. However, after reviewing the data, they found the lived experience did not significantly differ based on the specific LTC diagnosis, so they proceeded with a combined thematic analysis of all service user data.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "As such, we did not continue with a separate analysis for each case and instead proceeded with a thematic analysis of all service user data."
-  },
-  {
-    "q": "How did healthcare professionals and carers view the use of smoking as a coping mechanism?",
-    "a": "Both professionals and carers recognized that service users often used smoking to manage distressing mental health symptoms. A carer noted that smoking was viewed as 'medicinal' for calming a person during an acute episode, recalling an instance where even a doctor lit a cigarette for their relative to de-escalate a situation.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "… smoking is actually…medicinal rather, rather than anything else. – Carer, CKMPT002"
-  },
-  {
-    "q": "What does the paper mean when it says service users struggle with 'basic self-care'?",
-    "a": "The struggle with 'basic self-care' refers to the profound difficulty some service users have in performing fundamental activities of daily living. On difficult mental health days, tasks such as cooking, personal hygiene, or even getting out of bed and eating become immense challenges, leaving no capacity to manage their LTCs.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Indeed, rather than self-management, service users often talked about the struggle to engage in practices that were essentially about basic self-care. Undertaking activities of daily living was a goal in itself, often leaving no capacity or capability to apply themselves to more demanding tasks such as meal planning or cooking healthy food:"
-  },
-  {
-    "q": "How did the presence of LTCs compound the challenges faced by service users?",
-    "a": "For service users already managing the substantial burden of their SMI, the addition of physical LTCs further compounded their daily challenges. While their lived experience was primarily defined by their mental health symptoms, the presence of physical conditions added another layer of complexity and difficulty to their lives and health management.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "LTCs add to an already substantial burden"
-  },
-  {
-    "q": "What systemic issues, beyond symptoms of mental illness, can make self-management more difficult for people with SMI?",
-    "a": "Beyond the symptoms of the illness itself, self-management is made more difficult by several systemic issues. These include stigma, diagnostic overshadowing, and discrimination from others, as well as adverse social determinants of health such as housing insecurity and poverty.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "...and can be exacerbated further by more systemic issues such as stigma [27], diagnostic overshadowing, discrimination [28], housing insecurity, and poverty [29]."
-  },
-  {
-    "q": "What is the overarching aim of the DIAMONDS Research Programme?",
-    "a": "The main goal of the DIAMONDS Research Programme is to develop and test a diabetes self-management intervention that is specifically tailored for people with SMI. It also aims to create a framework of transferable intervention components that could be adapted to support people with SMI and other LTCs, like COPD.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "The present study forms part of the DIAMONDS Research Programme [34] which aims to develop and test a tailored diabetes self-management intervention for people with SMI."
-  },
-  {
-    "q": "What was the process for developing the coding framework for the qualitative analysis?",
-    "a": "The coding framework was created through an iterative, team-based process. Researchers first generated codes inductively from a small set of transcripts. These codes were then mapped onto an existing framework from a related study, which was subsequently refined through team discussions to add or remove codes as necessary for the current study's objectives.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "The coding framework was refined in several iterations through discussions within the team. Irrelevant codes were removed and new codes, particularly related to the use of digital technology, were added in order to address the objectives of the research."
-  },
-  {
-    "q": "How did carers' lives reflect the 'inescapable' nature of SMI?",
-    "a": "Carers' lives also reflected the inescapable hold of SMI, as they expressed being similarly preoccupied with the constant threat and challenges of their loved one's mental illness. This manifested as a persistent worry about the person's safety and well-being, demonstrating that the impact of SMI extends deeply into the lives of those providing support.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "The constant threat and challenges of mental health symptoms also intruded on the lives of carers who voiced that they were similarly preoccupied with the sense that SMI had an inescapable hold on their lives too:"
-  },
-  {
-    "q": "What specific side effect of the medication Aripiprazole was a major concern for one service user?",
-    "a": "A service user expressed significant concern over the 'severe weight increment issues' they experienced as a side effect of taking the antipsychotic medication Aripiprazole. This physical side effect was so distressing that the individual was considering stopping the medication, despite being on a low dose.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "I am on Aripiprazole for that …, which I don’t like at all because it’s given me severe weight increment issues… So I’m actually wanting to stop taking the Aripiprazole, I’m on a low dose but I still feel it’s high enough to cause me weight issues."
-  },
-  {
-    "q": "What knowledge gap did this study specifically aim to address?",
-    "a": "This study aimed to fill the knowledge gap related to a first-hand understanding of the lived experiences of people with SMI and a range of different LTCs. By incorporating perspectives from service users, carers, and healthcare professionals, it sought insights to inform the design of more effective self-management support interventions.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "There remains an important gap in knowledge which relates specifically to a first-hand understanding of the lived experience of people with SMI and a range of LTCs, as well as carers, and the healthcare professionals involved in their care."
-  },
-  {
-    "q": "What did a 'focused observation' session entail in this study?",
-    "a": "A focused observation was a two- to three-hour session where a researcher accompanied a participant during an activity relevant to self-management, such as food shopping or attending a medical appointment. The researcher would observe and ask clarifying questions, then take detailed field notes on how the activity related to managing their SMI and LTCs.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Focused observations involved a two to three-hour session where the researcher spent time with the participant doing an activity of their choice that may have had relevance to self-management, for example food shopping, cooking, walking in the park..."
-  },
-  {
-    "q": "What does the theme 'the circularity of life with SMI and LTCs' articulate?",
-    "a": "This theme articulates how efforts to manage health often create a negative feedback loop centered on mental well-being. Specifically, treatments for SMI (like medication) can cause or worsen physical LTCs, and the added burden of managing these LTCs reinforces the central and overwhelming nature of the mental illness.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Articulated how the efforts to manage physical LTCs often reinforced the centrality of mental health"
-  },
-  {
-    "q": "According to a healthcare professional, how did auditory hallucinations impact a patient's ability to self-manage?",
-    "a": "A healthcare professional provided an example of a patient with schizophrenia whose auditory hallucinations told them not to take their medication, claiming it was poison. This demonstrates how psychotic symptoms can directly sabotage treatment adherence and self-management by creating profound distrust, paranoia, and fear.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "…it was a patient with Schizophrenia who had real problems with partly cultural beliefs but also auditory hallucinations telling them not to take the medication, it’s poison and it doesn’t help and that the Nurse that comes is trying to poison you."
-  },
-  {
-    "q": "Who was responsible for developing and refining the interview topic guides?",
-    "a": "The topic guides and the visual storyboard used in interviews were developed and refined through a collaborative process. The research team worked with a patient and public involvement group called DIAMONDS Voice to ensure the questions were appropriate, relevant, and sensitive to the lived experiences of the participants.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "The topic guides and storyboard were developed and refined in collaboration with the patient and public involvement group DIAMONDS Voice [34]."
-  },
-  {
-    "q": "What key facilitator for managing health was identified in the study's results?",
-    "a": "The study's results identified social support, combined with person-centered professional care, as a key facilitator for health management. This highlights that effective support requires both strong personal networks and a healthcare approach that is tailored and empathetic to the individual's needs.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Social support, alongside person-centred professional care, is a key facilitator for managing health."
-  },
-  {
-    "q": "Why is research into diabetes self-management programs for people with SMI limited?",
-    "a": "The evidence base for these programs is limited because people with SMI are typically excluded from research trials on diabetes self-management. This systematic exclusion means the effectiveness of such programs for this specific population remains largely unknown, hindering the development of tailored interventions and widening health inequalities.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Moreover, the effectiveness of diabetes self-management programmes for this population is largely unknown as research typically excludes them [17–19]."
-  },
-  {
-    "q": "What does the theme 'The precarious nature of living with SMI' focus on?",
-    "a": "This theme focuses on how the constant unpredictability and overwhelming force of mental illness actively reduce opportunities for individuals to self-manage their long-term physical conditions. The daily, all-consuming struggle with SMI symptoms often leaves little room, energy, or motivation to attend to physical health needs.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Focused on how the constant unpredictability and overwhelming nature of mental illness lessens opportunities for self-management of LTCs."
-  },
-  {
-    "q": "What was a carer's perspective on their child's ability to live independently?",
-    "a": "A carer expressed significant reservations about their child with bipolar disorder living alone, fearing what might happen during a severe mood episode. This highlights the constant worry and sense of responsibility carers feel, which can act as a barrier to the service user's independence.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "And I went, … “She’s got severe mental health issues, … she’s bipolar, what if she’s in a really bad mood one day and she… does something… - Carer focus group 1"
-  },
-  {
-    "q": "Did the lived experience of self-management differ based on the type of LTC a service user had?",
-    "a": "No, the study found that the lived experience of self-management did not significantly differ based on a service user's specific LTC diagnosis. The challenges were overwhelmingly shaped by the presence of their SMI, rather than by whether they had a metabolic, respiratory, or cardiovascular condition.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "...reading codes across the cases revealed that the lived experience described by service users did not differ in ways directly related to the nature of their LTC diagnosis."
-  },
-  {
-    "q": "What was the range of LTCs included in the study's eligibility criteria for service users?",
-    "a": "The study included a broad range of diagnosed physical long-term conditions. These were categorized into four main groups: cardiovascular disease (e.g., heart failure), metabolic disease (e.g., diabetes), respiratory conditions (e.g., COPD), and chronic kidney disease.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "...had at least one of the following diagnosed co-existing physical LTCs: cardiovascular disease (e.g. heart failure, ischaemic heart disease and cerebrovascular disease); metabolic disease (e.g. diabetes (except gestational diabetes), metabolic syndrome, hypothyroidism); respiratory conditions (e.g. asthma, COPD, emphysema); or chronic kidney disease."
-  },
-  {
-    "q": "Who was excluded from participating in the study from the service user population?",
-    "a": "The study applied specific exclusion criteria to the service user population. Individuals who were admitted to an acute psychiatric inpatient ward during the recruitment period were excluded, as were those who were determined to lack the capacity to provide informed consent.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "People were excluded from the study if they were in an acute psychiatric inpatient ward during the recruitment period, or if they lacked capacity to consent."
-  },
-  {
-    "q": "How did a carer describe the fluctuating nature of their loved one's mental health around a holiday period?",
-    "a": "A carer described how their loved one experienced a good period over Christmas while engaged with family, but then 'crashed' immediately after on Boxing Day. This downturn lasted for two weeks, vividly illustrating the 'rollercoaster' nature of SMI, where periods of wellness can be abruptly followed by severe episodes.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Over Christmas, she had a good period where because it was Christmas, we were meeting all the family….. But then as soon as Christmas is over, Boxing Day, she crashed.[…] And she was bad then for probably two weeks. - Carer focus group 2"
-  },
-  {
-    "q": "How do the symptoms of SMI and LTCs interact to affect individuals?",
-    "a": "The symptoms of SMI and LTCs, along with their respective treatments, can interact with each other to increase the overall disease and treatment burden on an individual. This interaction creates a complex clinical picture that is challenging for both the person experiencing the conditions and the healthcare system providing their care.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Symptoms of SMI and LTCs and their treatments may interact to increase disease and treatment burden [8]."
-  },
-  {
-    "q": "According to the abstract, what often adds to the burden of self-management for people with SMI?",
-    "a": "The abstract states that having multiple long-term conditions significantly adds to the burden of self-management. This means that, in addition to managing the primary challenges of their SMI, these individuals must also cope with the demands of several concurrent physical health issues.",
-    "title": "The lived experience of severe mental illness and long‑term conditions: a qualitative exploration of service user, carer, and healthcare professional perspectives on self‑managing co‑existing mental and physical conditions",
-    "summary": "This qualitative study explores the challenges individuals with severe mental illness (SMI) face in managing co-existing long-term physical conditions (LTCs). Through interviews and focus groups with service users, carers, and healthcare professionals, the research identifies significant barriers to self-management, including the overwhelming nature of SMI and the detrimental side effects of psychiatric medications. The findings highlight the need for person-centered, integrated healthcare that addresses both mental and physical health needs simultaneously.",
-    "context": "Multiple long-term conditions add to the burden of self-management."
-  }
-]
-[
-  {
-    "q": "What was the primary aim of this systematic review?",
-    "a": "The review aimed to determine if evaluations of general diabetes self-management education programmes included people with severe mental illness (SMI). It also sought to find out whether these interventions were beneficial for this specific population by examining their outcomes.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "The aim of this review was to examine if evaluations of diabetes self-management education programmes included people with SMI, and if so, whether the interventions were beneficial for this population."
-  },
-  {
-    "q": "What was the main conclusion of the review regarding the evidence base for DSME in people with SMI?",
-    "a": "The review concluded that people with SMI are often excluded from trials of diabetes self-management education, which has resulted in a lack of an evidence base for their treatment. It cannot be assumed that programs for the general population meet their specific needs, necessitating future research into adapted or new programs.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "This systematic review confirms that people with SMI are often excluded from trials of diabetes self-management education, resulting in a lack of an evidence base on which to base treatment paths for this vulnerable population."
-  },
-  {
-    "q": "How many randomized controlled trials (RCTs) were ultimately included in the review?",
-    "a": "After screening an initial 52,265 titles and assessing 885 full texts for eligibility, a total of 410 RCTs were included in the final systematic review. These trials were conducted across 53 different countries.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "A total of 410 RCTs, conducted in 53 different countries, were included in the review."
-  },
-  {
-    "q": "What percentage of the included trials were found to have not recruited any participants with SMI?",
-    "a": "Based on the data the authors could obtain, at least 172 of the 410 trials, which accounts for 42%, did not recruit any participants with SMI. This represents 74% of the 233 trials for which this specific information was available.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Of the 410 trials, at least 172 (42%) RCTs did not recruit any participants with SMI; this was 74% of the 233 trials on which we were able to obtain data."
-  },
-  {
-    "q": "Why was it not possible for the review to assess the effectiveness of DSME interventions for people with SMI?",
-    "a": "It was impossible to assess intervention effectiveness because none of the trials that confirmed including participants with SMI reported any outcomes for these specific individuals. Although nine trials included people with SMI, none provided data on their clinical, behavioural, or psychosocial outcomes.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "It was not possible to assess intervention effectiveness for people with SMI as none of the trials reported outcomes for these participants."
-  },
-  {
-    "q": "How much higher is the estimated prevalence of diabetes in people with psychosis compared to the general population?",
-    "a": "The estimated prevalence of diabetes mellitus in individuals with psychosis is 13%. This rate is between two and five times higher than that observed in the general population, indicating a significant health disparity.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "The estimated prevalence of diabetes mellitus in people with psychosis is 13%, which is between two and five times higher than the general population [1]."
+    "q": "How much more prevalent is diabetes in people with psychosis compared to the general population?",
+    "a": "According to the paper's background, the estimated prevalence of diabetes mellitus in people with psychosis is 13%, which is between two and five times higher than in the general population.",
+    "title": "Diabetes Prevalence in Psychosis",
+    "summary": "Diabetes is significantly more common in people with psychosis, with a prevalence rate that is two to five times higher than that of the general population. This disparity underscores the importance of effective diabetes care for this group.",
+    "context": "This statistic is presented in the first paragraph of the 'Background' section to establish the scale of the problem and the rationale for the study."
   },
   {
     "q": "What factors are thought to contribute to the increased risk of diabetes in people with SMI?",
-    "a": "Several factors are believed to contribute to this increased risk. These include the metabolic side effects of anti-psychotic medications, the pathophysiology of the mental illness itself, and lifestyle factors such as poor diet, obesity, and physical inactivity.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Several factors are thought to contribute to this increased risk, including the effects of anti-psychotic medications, pathophysiology of SMI and lifestyle factors such as poor diet, obesity and physical inactivity [2]."
+    "a": "The paper states that several factors contribute to the increased risk, including the side effects of anti-psychotic medications, the pathophysiology of SMI itself, and lifestyle factors such as poor diet, obesity, and physical inactivity.",
+    "title": "Contributing Factors to Diabetes Risk in SMI",
+    "summary": "The higher risk of diabetes in people with SMI is multifactorial. It is linked to side effects from antipsychotic medication, the biological effects of mental illness, and associated lifestyle factors like poor diet and inactivity.",
+    "context": "This information is provided in the 'Background' section to explain why diabetes is so prevalent in this population, setting the context for the need for self-management support."
   },
   {
-    "q": "What specific study design was required for inclusion in this systematic review?",
-    "a": "The review's inclusion criteria strictly specified the study design. Only randomized controlled trials (RCTs) were included in the analysis to ensure a high level of evidence.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Study design - RCTs"
+    "q": "What was the TTIM (Targeted Training in Illness Management) intervention and what were its outcomes?",
+    "a": "The TTIM intervention was a 12-week group programme that combined the DART programme with the Life Goals Program. The trial resulted in significantly better mental health and diabetes knowledge in the intervention group, but no group differences were found in diabetes self-management behaviour or HbA1c levels.",
+    "title": "TTIM Intervention and Outcomes",
+    "summary": "The TTIM intervention, another program tailored for people with SMI, improved knowledge and mental health but failed to change self-management behaviours or clinical outcomes like HbA1c. This mirrors the findings of the DART trial.",
+    "context": "The 'Background' section discusses the TTIM trial to demonstrate that even tailored interventions have struggled to produce clinical improvements, further justifying the review's investigation."
   },
   {
-    "q": "What were the three main categories of outcomes of interest for this review?",
-    "a": "The review focused on three categories of outcomes for participants with SMI. These were clinical outcomes (like HbA1c and weight), behavioural outcomes (like medication adherence and diet), and psychosocial outcomes (like quality of life and self-efficacy).",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Outcomes – outcomes of interest were: ... plus clinical (HbA1c, body mass index, weight, blood pressure), behavioural (diabetes self-care behaviours such as blood glucose monitoring, medication adherence, diet and physical activity), and psychosocial (health-related quality of life, diabetes knowledge, self-efficacy) outcomes for participants with SMI."
+    "q": "What definition of Severe Mental Illness (SMI) was used for the review's outcome criteria?",
+    "a": "For the purposes of this review, SMI was defined as encompassing the following diagnoses:\n\n*   Psychosis\n*   Schizophrenia\n*   Schizoaffective disorder\n*   Bipolar disorder\n*   Depression with psychotic features\n*   Personality disorder",
+    "title": "Operational Definition of SMI",
+    "summary": "The review used a broad definition of Severe Mental Illness for its inclusion criteria. The definition included conditions such as psychosis, schizophrenia, bipolar disorder, and personality disorder.",
+    "context": "This definition is provided in the 'Outcomes' subsection of the PICOS criteria within the 'Method' section. It clarifies exactly which conditions the researchers were looking for in the trial populations."
   },
   {
-    "q": "What is the main implication of excluding people with SMI from clinical trials of DSME?",
-    "a": "Excluding this population from trials results in significant knowledge gaps that can be harmful when a treatment becomes generalized to all patients. It leaves clinicians without a clear, evidence-based pathway for intervention, potentially leading to suboptimal care for a vulnerable group.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Humphreys et al. argued that excluding this population results in knowledge gaps that may harm people with SMI when a treatment becomes generalised [31]."
+    "q": "What did the UK National Health Service (NHS) Long Term Plan stress regarding people with SMI?",
+    "a": "The paper states that the UK NHS Long Term Plan stresses the need for people with SMI to have their physical health needs met.",
+    "title": "UK NHS Long Term Plan",
+    "summary": "The UK's NHS Long Term Plan specifically emphasizes the importance of addressing the physical health needs of people with SMI. This aligns with the review's conclusion that current diabetes care is insufficient for this population.",
+    "context": "This point is raised in the 'Discussion' section to show that the review's findings are relevant to current national health policy priorities in the UK."
   },
   {
-    "q": "Among the trials that confirmed including people with SMI and provided numbers, what was the total number and percentage of participants with SMI?",
-    "a": "Six trials provided data on the number of participants with SMI they recruited. Across these six trials, there was a total of 1009 participants, of whom only 31 (3.1%) had a diagnosed SMI.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "These six trials recruited a total of 1009 participants, of whom 31 (3.1%) had SMI."
+    "q": "What would be required for future trials to achieve adequate statistical power for the SMI subgroup?",
+    "a": "The paper suggests that to achieve adequate statistical power, future trials would need to oversample people with SMI when recruiting participants. This is because the prevalence of SMI in the diabetes population is relatively low.",
+    "title": "Recruitment Strategy for Future Trials",
+    "summary": "To properly evaluate diabetes programs for people with SMI, future trials will need to deliberately oversample this population. A standard recruitment approach would not enroll enough participants with SMI to generate statistically meaningful results.",
+    "context": "This practical recommendation for future research is made in the 'Discussion' section. It addresses the challenge of recruiting a sufficient number of participants from a specific subgroup."
   },
   {
-    "q": "What was the Diabetes Awareness and Rehabilitation Training (DART) intervention?",
-    "a": "DART was a specific diabetes self-management education program designed for people with SMI. It used adapted materials and reinforced behaviour change to help overcome challenges like impaired motivation and insight in individuals with schizophrenia or schizoaffective disorder.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Diabetes Awareness and Rehabilitation Training (DART), which was evaluated in 64 people aged over 40 with T2DM and either schizophrenia or schizoaffective disorder. DART used adapted materials and reinforced behaviour change, to help overcome impaired motivation and insight."
+    "q": "How many trials were multinational?",
+    "a": "Of the 410 trials included in the review, six (1.5%) were multinational in scope.",
+    "title": "Number of Multinational Trials",
+    "summary": "A very small fraction of the included trials were multinational. Only six trials, representing 1.5% of the total, were conducted across multiple countries.",
+    "context": "This detail is provided in the 'Results' section, offering a glimpse into the geographical scope of the diabetes self-management research landscape."
   },
   {
-    "q": "Despite achieving some positive lifestyle changes, what key clinical outcome did the DART and TTIM interventions fail to change?",
-    "a": "Both the DART intervention and its successor, the TTIM intervention, failed to produce a statistically significant change in participants' glycosylated haemoglobin (HbA1c) levels. This indicates that while they improved knowledge and some behaviours, they did not improve this key marker of long-term glycaemic control.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "There were however no statistically significant changes in fasting glucose or glycosylated haemoglobin (HbA1 C ) levels."
+    "q": "What was the second most common country for trials after the USA?",
+    "a": "After the USA, which had 134 trials, the second most common country was the UK, with 32 trials (8% of the total).",
+    "title": "Second Most Prolific Country for Trials",
+    "summary": "The United Kingdom was the second most frequent location for the trials included in the review. It contributed 32 studies, or 8% of the total.",
+    "context": "This information is found in the 'Results' section and provides further context on the origins of the evidence base being reviewed."
   },
   {
-    "q": "What steps were taken when an article did not report information on SMI inclusion?",
-    "a": "If a publication did not explicitly state whether it included or excluded people with SMI, the review authors made a direct effort to obtain the missing information. They contacted the original study authors by email to inquire about the inclusion of this population and their outcomes.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "If the article did not report this information on SMI, authors were contacted by email for missing data."
+    "q": "What process was used for study selection and screening?",
+    "a": "A multi-stage, independent review process was used:\n\n| Stage | Process |\n|---|---|\n| **1. Import & Deduplication** | Articles were imported into Reference Manager software and duplicates were removed. |\n| **2. Title/Abstract Screening** | Titles and abstracts were independently screened against inclusion criteria by two reviewers. |\n| **3. Full-Text Screening** | Full texts of the remaining articles were also independently screened by two reviewers. |\n| **4. Disagreement Resolution** | Any disagreements at any stage were discussed with a third reviewer to reach consensus. |",
+    "title": "Study Selection Process",
+    "summary": "The review employed a rigorous, multi-stage screening process to select studies. This involved independent screening of titles, abstracts, and full texts by two reviewers, with a third available to resolve any disagreements.",
+    "context": "This methodological detail, described in the 'Study selection' subsection, highlights the systematic and robust approach taken to minimize bias in the selection of trials for the review."
   },
   {
-    "q": "Why were trials that recruited only people with T2DM and SMI excluded from this review?",
-    "a": "Trials focusing exclusively on people with both T2DM and SMI were excluded because a recent Cochrane review had already systematically reviewed these specific interventions. This review aimed to investigate the applicability of general DSME programs, not SMI-specific ones.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Trials that recruited only people with T2DM and SMI were also excluded as the recent Cochrane review [12] had already reviewed these."
+    "q": "What was the risk of bias for 'blinding of participants and personnel' in the nine trials that included people with SMI?",
+    "a": "All nine trials that included people with SMI were rated as having a high risk of bias for the 'blinding of participants and personnel'. The paper notes that this is unavoidable given the type of intervention (i.e., educational programmes) being studied.",
+    "title": "Risk of Bias for Blinding",
+    "summary": "All nine trials including people with SMI were rated at high risk of bias for blinding. This is because it is impossible to blind participants or staff to whether they are receiving an educational intervention.",
+    "context": "This information comes from the 'Assessment of Risk of Bias' subsection and the corresponding Figure 2. It highlights a common methodological challenge in behavioural intervention research."
   },
   {
-    "q": "What is a key limitation of this review regarding data acquisition?",
-    "a": "A significant limitation is that the authors were unable to obtain data for a substantial number of the included trials, despite their attempts to contact all authors. This means the findings could potentially under- or overestimate the true proportion of trials that exclude people with SMI.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "A limitation of this review is that, in spite of our attempts to contact all authors, we were unable to obtain data for a substantial number of trials."
+    "q": "What did the authors suggest would happen if the pattern of non-inclusion was similar in the non-responding trials?",
+    "a": "The authors suggest that if the pattern of non-inclusion was repeated for the trials on which they were unable to obtain data, it would raise the proportion of trials that have not included SMI above the reported 42%. They note that of the authors who did respond, 51% confirmed they had no participants with SMI.",
+    "title": "Potential Underestimation of Exclusion",
+    "summary": "The paper speculates that the already high 42% exclusion rate is likely an underestimate. If the non-responding trials followed the same pattern as the responding ones, the true rate of exclusion would be even higher.",
+    "context": "This point is made in the 'Limitations' section. It uses the data they *did* receive from authors (where 51% had no participants with SMI) to extrapolate about the data they were missing."
   },
   {
-    "q": "How many of the 410 included trials listed SMI in their inclusion or exclusion criteria?",
-    "a": "Of the 410 trials included in the review, 110 (26.8%) explicitly mentioned severe mental illness in their publication's inclusion or exclusion criteria. Of these, the vast majority (109 out of 110) listed SMI as a reason for exclusion.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Of 410 included trials, 110 (26.8%) listed SMI in the publication inclusion/exclusion criteria (of which 109 excluded SMI)..."
+    "q": "What specific interventions were excluded from the review's scope?",
+    "a": "Interventions that focused solely on the management of SMI without including any diabetes education were excluded. The intervention had to be targeted to improve the self-management of T2DM.",
+    "title": "Excluded Intervention Types",
+    "summary": "The review excluded any intervention that did not have a diabetes education component. Programs that only focused on managing mental health were not considered, as the focus was on diabetes self-management.",
+    "context": "This criterion is defined under the 'Intervention' part of the PICOS framework in the 'Method' section. It ensures that only relevant DSME programmes were included in the analysis."
   },
   {
-    "q": "For a large portion of the trials (229), it was unknown if people with SMI were recruited. What were the two reasons for this uncertainty?",
-    "a": "The uncertainty arose from two main issues. First, the authors of 177 trials (43.2%) did not respond to email requests for information. Second, the authors of another 52 trials (12.7%) responded but were unaware if they had recruited people with SMI because they had not collected that specific data.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "...it is unknown if people with SMI were recruited, either because the authors did not respond to our request for information (n = 177, 43.2%) or because the authors were unaware if they had recruited any participants with SMI as this data was not collected (n = 52, 12.7%)."
+    "q": "What is the role of psychiatrists in managing physical health, according to international psychiatric associations?",
+    "a": "The paper notes that psychiatric associations internationally [39–41] consider the role of psychiatrists to include improving the physical as well as the mental health of their patients.",
+    "title": "Role of Psychiatrists in Physical Health",
+    "summary": "International psychiatric bodies agree that the role of a psychiatrist extends beyond mental health to include the physical well-being of their patients. This supports the need for better integration of mental and physical healthcare.",
+    "context": "This point is made in the 'Discussion' section to argue that clinicians, including psychiatrists, need an evidence base to help them address the physical health needs of their patients, but the current lack of research makes this difficult."
   },
   {
-    "q": "According to the paper, why might future trials need to oversample people with SMI?",
-    "a": "Future trials would need to oversample people with SMI to recruit a sufficient number to achieve adequate statistical power. Given the relatively low population prevalence of SMI among people with diabetes, standard recruitment would likely result in numbers too small to draw meaningful conclusions about intervention effectiveness for this subgroup.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Given the population prevalence of SMI in people with diabetes, recruitment of sufficient people with SMI to achieve adequate statistical power would require trials that oversample people with SMI when recruiting."
+    "q": "What was the intended method for data analysis if outcomes for participants with SMI had been reported?",
+    "a": "The paper states that if trials had reported outcomes for participants with SMI, the authors planned to assess treatment effects using a random-effects meta-analysis. However, this could not be done due to the complete lack of data.",
+    "title": "Planned Data Analysis Method",
+    "summary": "The researchers had planned to perform a random-effects meta-analysis to synthesize the results for people with SMI. This plan was thwarted because none of the trials provided the necessary outcome data.",
+    "context": "The 'Data analysis' section outlines this planned statistical method. The fact that it could not be implemented is a direct consequence of the review's main finding: the complete absence of reported outcomes for this subgroup."
   },
   {
-    "q": "How does the NHS Long Term Plan relate to the findings of this review?",
-    "a": "The UK's NHS Long Term Plan emphasizes the need for people with SMI to have their physical health needs met. This review's findings, which highlight a major evidence gap and inequity in diabetes research for this population, run counter to this policy goal, showing that their physical health needs are not being adequately addressed in research.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "the UK National Health Service (NHS) Long Term Plan [35] stresses the need for people with SMI to have their physical health needs met."
+    "q": "How does the identified prevalence of SMI in the trials (3.1%) compare to the general population with type 2 diabetes?",
+    "a": "The paper states that the 3.1% prevalence of SMI found in the six trials is 'in line with population prevalence,' noting that approximately 2% of people with type 2 diabetes have SMI.",
+    "title": "SMI Prevalence in Trials vs. Population",
+    "summary": "The prevalence of SMI in the few trials that included this group (3.1%) was roughly consistent with the estimated prevalence in the wider population of people with diabetes (around 2%). This suggests the low numbers were due to exclusion, not a failure to find participants.",
+    "context": "This comparison is made in the 'Results' section to contextualize the finding of only 31 participants. It implies that the small number is not an anomaly but reflects the low base rate, which is why oversampling is needed for future trials."
   },
   {
-    "q": "What bibliographic databases were searched for this systematic review?",
-    "a": "A comprehensive search was conducted across eight bibliographic databases. These were the Cochrane Library, Medline, Embase, PsychINFO, Allied and Complimentary Medicine Database, Health Technology Assessment, NHS Economic Evaluations Database, and CINAHL.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "The following bibliographic databases were searched from January 2004 to April 2018: Cochrane Library, Medline, Embase, PsychINFO, Allied and Complimentary Medicine Database, Health Technology Assessment, NHS Economic Evaluations Database and CINAHL."
+    "q": "Were the interventions in the nine trials that included people with SMI specifically tailored to address mental health issues?",
+    "a": "No. The review states that none of the interventions in these nine trials incorporated components that specifically targeted issues around managing SMI or other mental health issues that may affect diabetes self-management.",
+    "title": "Lack of Tailoring in Interventions",
+    "summary": "Even in the few trials that did not exclude people with SMI, the diabetes interventions themselves were generic. They contained no specific components designed to address the unique challenges related to mental health.",
+    "context": "This crucial finding is highlighted in both the 'Results' and 'Discussion' sections. It means that even if outcomes had been reported, they would have been for a generic intervention, not one adapted for the SMI population."
   },
   {
-    "q": "Did the interventions in the trials that included people with SMI have any components specifically targeting mental health?",
-    "a": "No, none of the interventions evaluated in the trials that included people with SMI incorporated any components that specifically targeted mental health issues. The programs were generic diabetes self-management interventions, not adapted for the unique challenges of co-occurring SMI.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "None of these interventions incorporated components that specifically targeted issues around managing SMI."
+    "q": "What funding did this systematic review receive?",
+    "a": "According to the 'Funding' section of the paper, this research was unfunded.",
+    "title": "Study Funding",
+    "summary": "The systematic review was conducted without any specific funding. The work was unfunded research.",
+    "context": "This is a standard disclosure found near the end of the paper, under the 'Declarations' section."
   },
   {
-    "q": "What is the recommendation from clinical guidelines regarding structured education for patients with T2DM?",
-    "a": "To help patients successfully self-manage the complexities of type 2 diabetes, major clinical guidelines universally recommend that all patients should be offered structured education. This education is seen as a cornerstone of effective diabetes care.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Self-management of type 2 diabetes mellitus (T2DM) is complex, and to achieve this successfully, diabetes clinical guidelines [5–9] recommend structured education for all patients."
+    "q": "What were the results of the Egger's test for publication bias?",
+    "a": "The result of the Egger’s test for asymmetry of the funnel plot was non-significant (p = 0.47). This suggests a low risk of publication bias, however, the authors state this finding should be interpreted with caution because only five trials could be included in the analysis.",
+    "title": "Publication Bias Assessment",
+    "summary": "The Egger's test suggested a low risk of publication bias, but this result is unreliable. The conclusion is based on data from only five trials, which is too small a number for a robust assessment.",
+    "context": "This detail is in the 'Results' section. It shows a rigorous methodological step while also honestly reporting its limitations."
   },
   {
-    "q": "What did previous research by Humphreys et al. find regarding psychiatric exclusion criteria in diabetes trials?",
-    "a": "The findings of this review echo previous research by Humphreys et al., who analyzed highly cited trials for common chronic conditions. They found that 55% of the papers describing diabetes research had psychiatric exclusion criteria, confirming a pattern of excluding people with mental illness from these important studies.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Of 400 highly cited trials across 20 common chronic health conditions published between 2002 and 2010, 55% of the papers that described diabetes research had psychiatric exclusion criteria [31]."
+    "q": "What were the seven criteria used for the Cochrane Collaboration risk of bias tool?",
+    "a": "The seven criteria for the risk of bias assessment were:\n\n| # | Criterion |\n|---|---|\n| 1 | Sequence generation |\n| 2 | Allocation concealment |\n| 3 | Blinding of participants or personnel |\n| 4 | Blinding of outcome assessors |\n| 5 | Incomplete outcome data |\n| 6 | Selective reporting |\n| 7 | Other bias |",
+    "title": "Cochrane Risk of Bias Criteria",
+    "summary": "The risk of bias was assessed against seven standard criteria from the Cochrane Collaboration tool. These criteria cover potential biases arising from the trial's design, conduct, and reporting.",
+    "context": "These seven criteria are listed in the 'Methods' section and the results are summarised in Figure 2. This structured assessment is a core component of a high-quality systematic review."
   },
   {
-    "q": "How was the risk of bias assessed for the trials that included people with SMI?",
-    "a": "The risk of bias for these trials was independently assessed by two authors using the Cochrane Collaboration tool. Trials were rated as having a low, high, or unclear risk of bias across seven different criteria, including sequence generation, allocation concealment, and blinding.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Risk of bias in those trials that reported inclusion of people with SMI was independently assessed by two authors (KM and HM) using the Cochrane Collaboration tool [20]."
+    "q": "What did research by Humphreys et al. find regarding psychiatric exclusion criteria in highly cited diabetes trials?",
+    "a": "The review cites research by Humphreys et al., which found that of 400 highly cited trials across 20 chronic health conditions, 55% of the papers that described diabetes research had psychiatric exclusion criteria.",
+    "title": "Psychiatric Exclusion in Diabetes Research",
+    "summary": "Citing Humphreys et al., the paper notes that 55% of highly cited diabetes research studies had psychiatric exclusion criteria. This historical data reinforces the review's finding that excluding people with SMI is a common practice.",
+    "context": "This statistic is used in the 'Discussion' to show that the review's findings are consistent with previous research that has highlighted the widespread exclusion of people with psychiatric disorders from medical trials."
   },
   {
-    "q": "What was the most common rating for risk of bias regarding 'blinding of participants and personnel' in the trials including people with SMI?",
-    "a": "All trials that included people with SMI were rated as having a high risk of bias for the 'blinding of participants and personnel' criterion. The paper notes that this is unavoidable given that the interventions are educational and behavioural in nature, making it impossible to blind participants to which group they are in.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "All trials were rated high risk of bias for blinding of participants and personnel, which is unavoidable given the type of intervention."
+    "q": "What specific SMI diagnoses were represented among the 31 participants identified in the six trials?",
+    "a": "The diagnoses mentioned for the 31 participants with SMI included:\n\n*   Schizophrenia\n*   Schizoaffective disorder\n*   Bipolar disorder\n*   Depression with psychotic features\n*   Other psychosis\n*   Personality disorder",
+    "title": "SMI Diagnoses in Included Participants",
+    "summary": "The few participants with SMI who were included in the trials had a range of diagnoses. These included schizophrenia, bipolar disorder, and personality disorder, among others.",
+    "context": "The 'Results' section provides a detailed breakdown of the participants in the six trials that shared this information, illustrating the diversity of conditions that fall under the SMI umbrella."
   },
   {
-    "q": "What is the review's final recommendation for future research?",
-    "a": "The review concludes that future research must urgently address the evidence gap. Researchers need to examine whether existing DSME programs can be adapted to meet the needs of people with SMI, or if entirely new, more tailored programs need to be developed and evaluated for this population.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "It is necessary for future research to examine whether existing programmes can meet the needs of people with SMI, or be adapted to do so, or if more tailored programmes need to be developed and evaluated."
+    "q": "How was the data extracted from the included articles?",
+    "a": "Data were extracted by three members of the review team (AC, NP, HR) using an adapted Cochrane data extraction form. This form included fields for study characteristics, inclusion/exclusion criteria, participant characteristics, and intervention details.",
+    "title": "Data Extraction Process",
+    "summary": "A team of three reviewers extracted data using a standardized form adapted from Cochrane guidelines. This systematic process ensured that consistent information was collected from every included trial.",
+    "context": "This process is described in the 'Method' section. Using a structured form and multiple extractors is a key step for ensuring accuracy and reliability in a systematic review."
   },
   {
-    "q": "What positive outcomes were achieved in the DART intervention trial?",
-    "a": "At the end of the 24-week trial, the DART group showed a greater reduction in weight, BMI, waist circumference, and plasma triglycerides compared to controls. They also significantly increased their diabetes knowledge, self-efficacy, and self-reported physical activity.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "At the end of the 24-week trial, the DART group experienced a greater reduction in weight, body mass index (BMI), waist circumference and plasma triglycerides than controls, and had significantly increased their diabetes knowledge, diabetes self-efficacy and self-reported physical activity."
+    "q": "What was the breakdown of trial results regarding the inclusion of people with SMI?",
+    "a": "The review of 410 RCTs found the following breakdown for SMI inclusion:\n\n| Status | Number of Trials | Percentage of Total |\n|---|---|---|\n| **Included SMI** | **9** | **2.2%** |\n| Did not include SMI | 172 | 42.0% |\n| Unknown if SMI included | 229 | 55.9% |\n| **Total** | **410** | **100%** |",
+    "title": "Breakdown of SMI Inclusion in Trials",
+    "summary": "The vast majority of trials either explicitly excluded people with SMI (42%) or it was unknown if they were included (56%). Only a tiny fraction, just 2.2% of trials, confirmed that they had included participants with SMI.",
+    "context": "This data is presented in the 'Results' section and summarised in Table 1. It provides a clear, quantitative picture of the widespread exclusion and lack of data regarding this population."
   },
   {
-    "q": "What were the five components of the PICOS criteria used to define inclusion for this review?",
-    "a": "The review used the standard PICOS framework to define its inclusion criteria. The components were Population (adults with T2DM), Intervention (structured self-management education), Comparator (another active intervention or usual care), Outcomes (inclusion of SMI and their outcomes), and Study design (RCTs).",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Inclusion criteria, defined by Population, Intervention, Comparator, Outcome, and Study design (PICOS) [18] were:..."
+    "q": "What were the primary findings from the risk of bias assessment for the nine trials that included people with SMI?",
+    "a": "The risk of bias assessment revealed several key issues:\n\n| Bias Category | Finding |\n|---|---|\n| **Random Sequence & Allocation** | Mostly rated as 'unclear' risk. |\n| **Blinding of Participants/Personnel** | Rated 'high' risk for all nine trials, as it is unavoidable in this type of intervention. |\n| **Incomplete Outcomes Data** | Rated 'high' risk in four trials, often due to differential dropout rates. |\n| **Selective Reporting** | Rated 'high' or 'unclear' risk in most studies, often due to lack of a registered trial protocol. |",
+    "title": "Risk of Bias Summary",
+    "summary": "The risk of bias assessment for the few relevant trials showed significant methodological concerns. Key issues included an unavoidable high risk of bias from lack of blinding, as well as high or unclear risk related to incomplete data and selective reporting.",
+    "context": "These findings are detailed in the 'Results' section and visually represented in Figure 2. They indicate that even if outcome data had been available, the quality of the evidence would have been questionable."
   },
   {
-    "q": "What critical issue regarding mental health fluctuations is not addressed by generic DSME programmes?",
-    "a": "Generic DSME programmes do not address the crucial issue of how a person can maintain their diabetes control during periods of instability in their mental health. This is a key challenge faced by this population and a significant gap in the content of standard diabetes education.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "...learning how to maintain diabetes control during periods of instability in mental health would be an important aspect of DSME for people with SMI. As generic DSME programmes do not address this crucial issue..."
+    "q": "What types of interventions were evaluated in the six trials that provided SMI participant numbers?",
+    "a": "The interventions were varied and included:\n\n*   A culturally sensitive group intervention with education on diabetes, healthy eating, and exercise.\n*   An individual programme with education, blood glucose monitoring, and pharmacotherapy adjustment.\n*   The DECIDE education and problem-solving training programme (evaluated in two trials).\n*   Nurse-led education combined with Acceptance and Commitment Therapy (ACT).\n*   Multidisciplinary care plus education at different levels of intensity.\n*   Telemedicine plus education compared with usual care.",
+    "title": "Types of Interventions in Key Trials",
+    "summary": "The six trials that included and counted participants with SMI tested a diverse range of interventions. These included group education, individual programmes, telemedicine, and psychological therapies like ACT, but none were tailored for SMI.",
+    "context": "The 'Results' section provides a descriptive summary of the interventions used in these specific trials. This highlights that people with SMI were included in trials of various standard DSME approaches."
   },
   {
-    "q": "What was the result of the Egger's test for publication bias?",
-    "a": "The Egger's test for asymmetry of the funnel plot was non-significant, which suggests a low risk of publication bias. However, the authors caution that this finding should be interpreted with care due to the very small number of trials (only five) that could be included in the plot.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "The result of the Egger’s test for asymmetry of the funnel plot was non–significant (β 0.54, SE 0.17 (95% CI 0.08 1.01), p = 0.47), which suggests a low risk of publication bias, however this finding should be interpreted with caution in view of the small number of included trials."
+    "q": "How was the 'Comparator' defined in the PICOS criteria?",
+    "a": "The 'Comparator' for an included trial could be either another active intervention or usual care.",
+    "title": "Definition of Comparator",
+    "summary": "The review included trials with two types of comparison groups. A trial's intervention could be compared against either the standard care a patient would normally receive or against another different, active intervention.",
+    "context": "This is specified in the 'Method' section as part of the PICOS framework. This broad definition of the comparator allowed for the inclusion of a wider range of RCT designs."
   },
   {
-    "q": "What has the Royal College of Psychiatrists recommended for its members regarding the physical health of patients with SMI?",
-    "a": "The Royal College of Psychiatrists has recommended that its members should feel competent to address the physical health needs of people with SMI, not just their mental health needs. This highlights a professional expectation that psychiatrists play an integrated role in their patients' overall health.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Furthermore, the Royal College of Psychiatrists [38] has recommended that their members should feel competent to address the physical as well as the mental health needs of people with SMI."
+    "q": "In which five countries were the six trials that provided specific SMI participant data conducted?",
+    "a": "The six trials that provided specific data on the number of participants with SMI were conducted in:\n\n1.  Brazil\n2.  New Zealand\n3.  Qatar\n4.  Slovenia\n5.  The United States (hosted two of the trials)",
+    "title": "Geographical Location of Key Trials",
+    "summary": "The six trials that provided the most detailed data on SMI inclusion were geographically diverse. They were conducted across five different countries, with two taking place in the USA.",
+    "context": "The 'Results' section details the characteristics of the few trials that included people with SMI, providing this geographical information."
   },
   {
-    "q": "What types of publications were explicitly excluded from the review?",
-    "a": "The review excluded several types of publications to maintain a focus on high-quality, peer-reviewed evidence. Excluded items included conference abstracts, editorials, letters, publications not written in English, and any studies that had not undergone formal peer review.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Publications were excluded if they: ... were written in languages other than English; were published as conference abstracts, editorials, or letters; had not undergone formal peer review."
+    "q": "What recommendations from prominent health organisations are mentioned in the discussion?",
+    "a": "The discussion mentions recommendations from several key organisations:\n\n| Organisation | Recommendation |\n|---|---|\n| **The King's Fund** | People with SMI should be seen as a priority target group for public health interventions. |\n| **UK NHS Long Term Plan** | Stresses the need for people with SMI to have their physical health needs met. |\n| **Royal College of Psychiatrists** | Members should feel competent to address the physical as well as the mental health needs of people with SMI. |\n| **International Psychiatric Associations** | Consider the role of psychiatrists to include improving physical as well as mental health. |",
+    "title": "Recommendations from Health Organisations",
+    "summary": "The paper cites recommendations from major health bodies like The King's Fund and the NHS, all of which emphasize the need to prioritize the physical health of people with SMI. It also notes that psychiatric associations expect their members to be competent in this area, yet the evidence base is lacking.",
+    "context": "These points are raised in the 'Discussion' section to provide policy-level and professional context, strengthening the argument that the identified evidence gap is a critical problem."
   },
   {
-    "q": "In which country were the most trials in this review conducted?",
-    "a": "The United States was the most frequent location for the trials included in this review. Studies conducted in the USA accounted for 134 out of the 410 trials, representing 33% of the total.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Studies conducted in the USA dominated (n = 134, 33%)..."
+    "q": "What did the authors conclude about the applicability of generic DSME programmes to people with SMI?",
+    "a": "The authors concluded that it cannot be assumed that programmes developed for the general diabetes population meet the specific needs of people with SMI. They state that the evidence base is lacking, and generic programmes do not address crucial issues like managing diabetes during periods of mental health instability.",
+    "title": "Conclusion on Applicability of Generic Programmes",
+    "summary": "The review strongly concludes that the effectiveness of standard diabetes programs cannot be assumed for people with SMI. This is because these programs do not address the unique challenges this population faces, and there is no trial evidence to support their use.",
+    "context": "This is a central message of the paper, stated clearly in the abstract, discussion, and conclusion sections. It challenges the practice of referring people with SMI to generic programmes without evidence of their efficacy for this group."
   },
   {
-    "q": "What types of interventions were considered for inclusion in the review?",
-    "a": "The review included interventions that provided structured education to improve the self-management of type 2 diabetes. This could include programs targeting behaviours like blood glucose self-monitoring, medication adherence, foot care, diet, or physical activity, and could be delivered individually, in groups, or remotely.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Intervention - Interventions that were targeted to improve the self-management of T2DM by providing structured education. This could include interventions that targeted diabetes self-management behaviours such as self-monitoring of blood glucose, medication adherence, foot care, diet or physical activity."
+    "q": "Who was acknowledged for assisting with literature searches and title screening?",
+    "a": "Reesha Solanki was acknowledged for helping with conducting the literature searches and screening of study titles for inclusion in the review. The paper clarifies that this contribution did not meet the journal criteria for authorship.",
+    "title": "Acknowledgement for Research Assistance",
+    "summary": "A researcher named Reesha Solanki was formally acknowledged for their contribution to the initial stages of the systematic review. Their work involved assisting with the literature search and the preliminary screening of titles.",
+    "context": "This information is provided in the 'Acknowledgements' section at the end of the paper. It is standard practice to acknowledge contributions that are important but do not meet formal authorship criteria."
   },
   {
-    "q": "What is the TTIM intervention and what were its results?",
-    "a": "The Targeted Training in Illness Management (TTIM) intervention combined the DART program with a mental health-focused program. An RCT of TTIM found it resulted in significantly better mental health and diabetes knowledge, but it did not lead to improvements in diabetes self-management behaviour or HbA1c levels.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "The DART programme has since been combined with the Life Goals Program [15]... to form the Targeted Training in Illness Management (TTIM) intervention... This 12-week group programme resulted in significantly better mental health and diabetes knowledge in the intervention group but no group differences were found in diabetes self-management behaviour or HbA1c."
+    "q": "What were the inclusion criteria for the 'Intervention' in the PICOS framework?",
+    "a": "The intervention had to be a structured education program targeted at improving the self-management of T2DM. It could include components focused on behaviours like blood glucose monitoring, medication adherence, foot care, diet, or physical activity. Interventions could be delivered individually or in groups, in-person or remotely.",
+    "title": "Intervention Inclusion Criteria",
+    "summary": "The review included trials of structured educational interventions for Type 2 Diabetes self-management. The delivery method could be flexible (group or individual, remote or in-person), but the core focus had to be on diabetes education.",
+    "context": "This is defined in the 'Method' section under the PICOS criteria. It clearly specifies the type of intervention that was the focus of the review."
   },
   {
-    "q": "What was the process for study selection and screening?",
-    "a": "Retrieved articles were imported into bibliographic software, and duplicates were removed. Two reviewers independently screened titles and abstracts, and then the full texts of remaining articles were also independently screened by two reviewers, with any disagreements resolved by a third reviewer.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Titles and abstracts were independently screened against inclusion criteria by two reviewers... Full texts of the remaining articles were then obtained and independently screened for inclusion by two reviewers... Any disagreements were discussed with a third reviewer"
-  },
-  {
-    "q": "What types of SMI diagnoses were present among the 31 participants identified in the six trials?",
-    "a": "The participants had a range of SMI diagnoses. These included schizophrenia, schizoaffective disorder, bipolar disorder, depression with psychotic features, and personality disorder, reflecting the broad definition of SMI used in the review.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "The first [21] compared intensive and condensed versions and included one participant with schizophrenia, two with bipolar disorder and one participant with other psychosis. The second [25] compared self-study, individual and group versions of DECIDE and recruited eight people with SMI, six with schizophrenia, one with bipolar disorder and one who had depression with psychotic features."
-  },
-  {
-    "q": "How has the mortality gap for people with SMI been described by Thornicroft?",
-    "a": "Thornicroft has described the mortality gap between people with SMI and the general population in stark terms, calling it 'at worst a form of lethal discrimination.' This highlights the severity of the health inequity and frames it as a critical issue of social justice.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Thornicroft [37] has described the mortality gap between people with SMI and the non-SMI population as “at worst a form of lethal discrimination” and calls for evidence-based interventions to address it."
-  },
-  {
-    "q": "Why don't we know if general DSME programmes are effective for people with SMI?",
-    "a": "We lack this knowledge because trials of these generic programs often exclude people with SMI. Even in the rare cases where they are included, the trials do not test or report on the efficacy of the intervention specifically for this sub-population, leaving a complete gap in the evidence.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "This systematic review has shown that trials of generic DSME programmes often exclude people with SMI and where they do include people with SMI, efficacy in this population is not tested. We therefore do not know if the DSME programmes to which people with T2DM are referred are effective for people with SMI."
-  },
-  {
-    "q": "What definition of SMI was used for the 'Outcomes' part of the PICOS criteria?",
-    "a": "The review defined severe mental illness broadly for its outcome criteria. It included psychosis, schizophrenia, schizoaffective disorder, bipolar disorder, depression with psychotic features, or personality disorder.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Outcomes – outcomes of interest were: inclusion of people with SMI (defined as psychosis, schizophrenia, schizoaffective disorder, bipolar disorder, depression with psychotic features or personality disorder)..."
-  },
-  {
-    "q": "What was the range of countries where the six trials that provided data on participants with SMI were conducted?",
-    "a": "The six trials that provided specific numbers on participants with SMI were geographically diverse. They were conducted in Brazil, New Zealand, Qatar, Slovenia, and the United States, indicating this is an international issue.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "The six trials that provided data on participants with SMI were conducted in Brazil [23], New Zealand [28], Qatar [22], Slovenia [29] and the United States [21, 25]."
-  },
-  {
-    "q": "What does the 'plethora of data' on general DSME trials represent an opportunity for?",
-    "a": "The large number of existing RCTs on DSME for the general population represents a potential source of valuable information. The authors hoped this data might provide insight into whether and how these programs have been used for people with SMI and if they have been successful.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "This plethora of data may provide insight into whether and how DSME programmes for the general population have been implemented for people with SMI, and if they have been successful."
-  },
-  {
-    "q": "Does research indicate that people with SMI in the US are more or less likely to receive diabetes education?",
-    "a": "Research conducted in the United States has found that people with SMI are less likely to receive diabetes education compared to those without SMI. This suggests that the underrepresentation seen in research trials may also be reflected in clinical care practices.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Research in the US has found that people with SMI are less likely than those without SMI to receive diabetes education [36] but this may not be the case in the UK [33]."
-  },
-  {
-    "q": "What was the date range for the literature search?",
-    "a": "The systematic literature search covered a period of over 14 years. The search included articles published from January 2004 to April 2018.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "A systematic literature search was undertaken in the following databases: ... from January 2004 to April 2018."
-  },
-  {
-    "q": "For how many trials did the authors fail to get a response to their email requests for information?",
-    "a": "The authors did not receive a response to their email inquiries for 177 of the included trials. This lack of response accounted for 43.2% of the total trials and was a major reason why it was unknown if people with SMI were included.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "authors of 177 (43.2%) trials did not respond to our email requests for information."
-  },
-  {
-    "q": "What type of data analysis was planned if trials had reported outcomes for participants with SMI?",
-    "a": "The authors had a plan for quantitative data synthesis if the data had been available. They intended to assess the treatment effects for participants with SMI by conducting a random-effects meta-analysis.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Where trials reported outcomes for participants with SMI, we planned to assess treatment effects using a random-effects meta-analysis."
-  },
-  {
-    "q": "What does the lack of research into the effectiveness of DSME programmes mean for clinicians?",
-    "a": "The absence of research on the effectiveness of DSME for this group leaves clinicians without a clear, evidence-based pathway for intervention. This makes it difficult for them to provide the best possible care and adhere to professional guidelines calling for them to address patients' physical health needs.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "However, the lack of research into the effectiveness of DSME programmes in this vulnerable group leaves clinicians without a clear pathway for intervention."
-  },
-  {
-    "q": "Which patient populations were explicitly excluded based on their type of diabetes?",
-    "a": "The review's inclusion criteria specifically targeted type 2 diabetes in adults. Therefore, publications that included only participants with type 1 diabetes or gestational diabetes were explicitly excluded from the analysis.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Publications were excluded if they: – included only participants with type 1 diabetes or gestational diabetes"
-  },
-  {
-    "q": "How many trials in the review confirmed inclusion of participants with SMI?",
-    "a": "Out of the 410 trials included in the systematic review, only a very small number confirmed that they had included participants with SMI. Just nine trials in total confirmed the inclusion of this patient group.",
-    "title": "Are diabetes self-management programmes for the general diabetes population effective for people with severe mental illness?: a systematic review",
-    "summary": "This systematic review investigates whether people with severe mental illness (SMI) are included in and benefit from diabetes self-management education (DSME) programs designed for the general population. The authors analyzed 410 randomized controlled trials and found that people with SMI are frequently excluded, and even when included, their specific outcomes are never reported. This creates a critical evidence gap, making it impossible to know if current DSME programs are effective for this vulnerable group and highlighting the need for tailored interventions or adapted research.",
-    "context": "Only nine confirmed inclusion of participants with SMI, of which six provided data on the number recruited."
+    "q": "What was the result of the Cochrane review on DSME specifically for people with SMI?",
+    "a": "The paper cites a recent Cochrane review which identified only one tailored intervention, called Diabetes Awareness and Rehabilitation Training (DART). This highlights the extreme scarcity of evidence for DSME programmes designed specifically for this population.",
+    "title": "Result of Cochrane Review on Tailored DSME",
+    "summary": "A prior Cochrane review found only a single intervention, DART, that was specifically designed and evaluated for people with both SMI and diabetes. This finding demonstrates that the evidence base for tailored interventions is almost non-existent.",
+    "context": "This is mentioned in the 'Background' section. It provides the rationale for the current review's shift in focus: if there are no tailored programmes, are people with SMI being included in generic ones?"
   }
 ]
 [
   {
-    "q": "What was the primary objective of the study described in the paper?",
-    "a": "The study's main objective was to develop a type 2 diabetes self-management intervention specifically for people with severe mental illness (SMI). The development process aimed to combine theory, empirical evidence, and co-design approaches to ensure the intervention met the unique needs of this population.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "We combined theory, empirical evidence, and co-design approaches to develop a type 2 diabetes self-management intervention for people with SMI."
+    "q": "What were the three core themes identified in the qualitative study by Carswell et al.?",
+    "a": "The thematic analysis of data from service users, carers, and healthcare professionals revealed three core themes:\n\n| Theme | Description |\n|---|---|\n| **1. The precarious nature of living with SMI** | Focused on how the constant unpredictability and overwhelming nature of mental illness lessens opportunities for self-management of Long-Term Conditions (LTCs). |\n| **2. The circularity of life with SMI and LTCs** | Articulated how efforts to manage physical LTCs often reinforced the centrality of mental health, and vice-versa, creating a compounding cycle. |\n| **3. The constellation of support for self-management** | Centred on understanding the multiplicity of care structures (formal, informal, social) that are needed to help people with SMI manage their health. |",
+    "title": "Core Study Themes",
+    "summary": "The study identified three main themes: the overwhelming precarity of living with SMI, the circular and compounding relationship between mental and physical health, and the need for a comprehensive 'constellation of support' for self-management.",
+    "context": "This information is stated in the abstract and detailed in the 'Results' section of the paper (Table 1). These themes emerged from a thematic analysis of interviews and focus groups with all participant groups."
   },
   {
-    "q": "What is the name of the intervention developed, and what are its main components?",
-    "a": "The developed intervention is named DIAMONDS, which stands for Diabetes and Mental Illness, Improving Outcomes and Self-Management. It is a tailored self-management intervention that incorporates three main components: a digital app, a paper-based workbook, and one-to-one coaching.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Upon the completion of the 4-step process, we developed the DIAMONDS (diabetes and mental illness, improving outcomes and self-management) intervention. ... The intervention incorporates a digital app, a paper-based workbook, and one-to-one coaching designed to meet the needs of people with SMI and coexisting type 2 diabetes."
+    "q": "How much shorter is the life expectancy for people with Severe Mental Illness (SMI) compared to the general population?",
+    "a": "The life expectancy for people with SMI is 15-20 years shorter than that of the general population. This is mainly attributed to coexisting physical long-term conditions (LTCs).",
+    "title": "SMI and Life Expectancy",
+    "summary": "People with SMI face a significantly shorter life expectancy, dying 15-20 years earlier than the general population. This health inequality is primarily driven by a higher burden of preventable physical illnesses.",
+    "context": "This statistic is presented in the 'Introduction' to establish the severity of the health inequalities experienced by people with SMI and provides the core rationale for the research."
   },
   {
-    "q": "How much more common is type 2 diabetes in people with severe mental illness (SMI) compared to the general population?",
-    "a": "Type 2 diabetes is significantly more prevalent among people with SMI, occurring two to three times more frequently than in the general population. This disparity highlights a major health inequality faced by this group.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Type 2 diabetes is 2 to 3 times more common among people with severe mental illness (SMI)."
+    "q": "How many participants from each group were involved in the data collection?",
+    "a": "The study involved three distinct participant groups. The breakdown is as follows:\n\n| Participant Group | Data Collection Method | Number of Participants |\n|---|---|---|\n| **Service Users (SMI & LTCs)** | One-to-one semi-structured interviews | 32 |\n| **Informal Carers** | Two focus groups & five telephone interviews | 12 total (4+3 in focus groups, 5 in interviews) |\n| **Healthcare Professionals** | Three focus groups & four interviews | 18 total (4+4+6 in focus groups, 4 in interviews) |",
+    "title": "Participant Group Demographics",
+    "summary": "The study collected data from 32 service users, 12 informal carers, and 18 healthcare professionals. A mix of interviews and focus groups was used to gather perspectives from all three cohorts.",
+    "context": "This specific data is provided in the 'Data collection' subsection of the 'Methods' section. This multi-perspective approach is a key strength of the study design."
   },
   {
-    "q": "By how much is the life expectancy for people with SMI reduced compared to the general population?",
-    "a": "The life expectancy for individuals with SMI is substantially reduced. On average, it is 15 to 20 years shorter than that of the general population, largely due to the higher prevalence of long-term physical conditions like diabetes.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Life expectancy is substantially reduced by 15 to 20 years among people with SMI [4,5]."
+    "q": "What is meant by describing SMI as a 'rollercoaster disease'?",
+    "a": "The term 'rollercoaster disease', used by a service user, referred to the unpredictable nature of SMI, which is characterised by fluctuating periods of exacerbation and relative wellness. This unpredictability creates a persistent sense of precarity for both service users and their carers, as good days can be swiftly followed by bouts of ill health.",
+    "title": "SMI as a 'Rollercoaster Disease'",
+    "summary": "SMI was described as a 'rollercoaster disease' to capture its unpredictable and fluctuating nature. This creates constant uncertainty for individuals and their families, as periods of good health can be swiftly followed by acute illness.",
+    "context": "This quote and concept are central to Theme 1, 'The precarious nature of living with SMI'. It highlights how the episodic nature of symptoms makes long-term planning and consistent self-management incredibly difficult."
   },
   {
-    "q": "What are some symptoms of SMI or side effects of medication that make diabetes self-management difficult?",
-    "a": "People with SMI can experience symptoms like avolition (lack of motivation) and social withdrawal, as well as side effects from psychiatric medication such as fatigue and excessive hunger. These challenges can make it very difficult to effectively engage in necessary self-management activities for diabetes.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "People with SMI can experience symptoms such as avolition, social withdrawal, or hallucinations, as well as side effects from psychiatric medication, such as fatigue and excessive hunger [23], making it difficult for them to effectively engage in self-management activities."
+    "q": "What methods of data collection were used in this study?",
+    "a": "The study employed a qualitative design using three main methods: face-to-face semi-structured interviews, focused observations with people with SMI and LTCs, and focus group discussions with informal carers and healthcare staff.",
+    "title": "Data Collection Methods",
+    "summary": "Researchers used three primary qualitative methods to gather data. These included semi-structured interviews, focused observations of daily activities, and focus groups with different participant cohorts.",
+    "context": "The 'Methods' section of the paper outlines the study design and the specific techniques used for each participant group. This multi-method approach allowed for a rich and triangulated understanding of the topic."
   },
   {
-    "q": "What was the four-step process used to develop the intervention?",
-    "a": "The development process involved four main steps. Step 1 prioritized mechanisms of action (MoAs) and behavior change techniques (BCTs). Step 2 involved an expert consensus workshop. Step 3 was the development of animated trigger films, and Step 4 used these films in a series of co-design workshops with stakeholders.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The development process encompassed 4 steps: step 1 involved prioritizing the mechanisms of action (MoAs) and behavior change techniques (BCTs) for the intervention...During step 2, we presented the survey results to an expert consensus workshop...Step 3 involved the development of trigger films...These films were used in step 4, where we used a stakeholder co-design approach."
+    "q": "What metabolic side effects are associated with the antipsychotic medications used to treat SMI?",
+    "a": "Antipsychotic medications are associated with metabolic side effects that can lead to significant weight gain, glucose dysregulation, and hyperlipidaemia. These effects can in turn contribute to the development of metabolic syndrome.",
+    "title": "Side Effects of Antipsychotic Medication",
+    "summary": "Antipsychotics, while treating mental illness, can cause serious metabolic side effects. These include weight gain and changes in blood sugar and fat levels, which increase the risk of developing conditions like metabolic syndrome.",
+    "context": "This information is detailed in the 'Introduction' to explain one of the key mechanisms through which SMI and its treatment can directly lead to poor physical health outcomes."
   },
   {
-    "q": "What is 'digital exclusion' and how does it affect people with SMI?",
-    "a": "Digital exclusion refers to the disadvantage people face due to a lack of access to or skills for using digital technologies. For people with SMI, this is a significant issue as health care services increasingly move to digital platforms, which can exacerbate existing health inequalities for those who cannot engage with these technologies.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Digital exclusion will likely further exacerbate health inequality among people with SMI [27]."
+    "q": "What 'Catch-22' situation did carers describe regarding antipsychotic medication?",
+    "a": "Carers described a 'Catch-22' situation where antipsychotic medications are necessary to manage a service user's mental health, but the same medications cause side effects like weight gain that damage physical health. They felt trapped because stopping the medication could lead to a mental health crisis, while continuing it contributed to physical illness.",
+    "title": "The 'Catch-22' of Antipsychotic Medication",
+    "summary": "Carers reported being in a 'Catch-22' with antipsychotic drugs. These medications are vital for mental stability but often cause physical health problems like weight gain, leaving carers and service users with a difficult trade-off.",
+    "context": "This concept is part of Theme 2, 'The circularity of life with SMI and LTCs', and illustrates the direct conflict between treatments for mental and physical health."
   },
   {
-    "q": "What is the theoretical framework that structured the intervention development process?",
-    "a": "The intervention development was structured around the concept of mechanisms of action (MoAs). MoAs are theoretical constructs used to explain the process through which specific behavior change techniques (BCTs) influence and affect a person's self-management behaviors.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The intervention development process was structured around understanding the mechanisms of action (MoAs) for the self-management behaviors of people with SMI and coexisting LTCs [35]."
+    "q": "What were the three primary aims of the study?",
+    "a": "The study had three main aims to address the knowledge gap regarding the lived experience of co-existing SMI and LTCs:\n\n| Aim | Description |\n|---|---|\n| **1** | To identify and explore factors that promote or inhibit self-management behaviours in people with SMI and co-existing LTCs. |\n| **2** | To identify factors that may affect access to and uptake of self-management support and interventions. |\n| **3** | To explore the use and acceptability of digital technologies for supporting self-management. |",
+    "title": "Primary Study Aims",
+    "summary": "The study aimed to explore the barriers and facilitators to self-management, identify factors affecting access to support, and investigate the potential role of digital technologies for this population. These aims guided the qualitative data collection and analysis.",
+    "context": "These aims are explicitly listed in the 'Study aims' section of the paper. They provide the framework for the entire research project."
   },
   {
-    "q": "What is DIAMONDS Voice and what was its role in the study?",
-    "a": "DIAMONDS Voice is a service user and carer group that has contributed to the broader DIAMONDS research program since 2015. In this study, the group was involved in developing the protocol, providing input on surveys, participating in workshops, and helping to design the final intervention materials.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "DIAMONDS Voice is a service user and carer group that has contributed to the DIAMONDS (diabetes and mental illness, improving outcomes and self-management) program since 2015. ... DIAMONDS Voice contributed to the development of the co-design study protocol, attended DIAMONDS research team meetings, and supported the delivery of the study..."
+    "q": "What is the 'constellation of support' described in Theme 3?",
+    "a": "The 'constellation of support' refers to the holistic, multifaceted support model required by people with SMI to manage their health. This includes formal support (from primary and secondary care), informal support (from family and friends), social support (from peers), and dedicated support for carers themselves.",
+    "title": "The 'Constellation of Support'",
+    "summary": "The study found that effective self-management requires a 'constellation of support'. This is not a single intervention but a network of formal, informal, social, and structural supports that work together to help the individual and their carer.",
+    "context": "This is the core concept of Theme 3. It emphasizes that a single service or person is insufficient; rather, a comprehensive and interconnected system of support is necessary."
   },
   {
-    "q": "What are 'trigger films' and how were they used in this study?",
-    "a": "Trigger films are short films, in this case animations, designed to generate discussion on a specific topic. They were based on qualitative research about the lived experiences of people with SMI and diabetes and were used in the co-design workshops (stage 4) to stimulate discussion and inform the intervention's development.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Trigger films, also known as catalyst films, are films designed to generate discussion on a specific topic [32]. ... Subsequently, we used these trigger films and the personas we developed in stage 4 as part of the co-design process."
+    "q": "Why are short-term needs often prioritised over long-term self-management for people with SMI?",
+    "a": "The immediacy and overwhelming nature of mental health symptoms mean that service users often struggle with basic self-care activities like cooking or washing. Undertaking these daily tasks becomes a goal in itself, leaving no capacity or capability for more demanding, long-term self-management of physical health conditions. One service user stated they \"live on things that are straight from the fridge\" because cooking is too hard.",
+    "title": "Prioritisation of Short-Term Needs",
+    "summary": "People with SMI often prioritise immediate, short-term needs over long-term health management. The daily struggle with severe mental health symptoms can make even basic self-care a major challenge, leaving no energy for managing chronic physical conditions.",
+    "context": "This is a key subtheme within Theme 1, explaining why self-management of LTCs is so difficult. The paper provides quotes from service users who struggle with basic activities of daily living."
   },
   {
-    "q": "Why is it unclear if existing diabetes self-management programs are effective for people with SMI?",
-    "a": "The effectiveness of existing programs is unclear because people with SMI are typically excluded from the research and clinical trials that evaluate these programs. A Cochrane review on the topic found insufficient evidence, with only one trial included, highlighting a major gap in knowledge.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Moreover, it is unclear whether existing diabetes self-management education programs are effective for people with SMI, as they are typically excluded from research on these programs [24]."
+    "q": "How do past traumatic experiences with mental health services affect engagement with all healthcare?",
+    "a": "Prior traumatic experiences within mental healthcare, such as being treated 'like a criminal' or being detained under the Mental Health Act, resulted in some service users avoiding all healthcare professionals. This fear of mistreatment and stigma reduced their willingness to seek help for any condition, including physical ones.",
+    "title": "Impact of Healthcare Trauma",
+    "summary": "Past traumatic experiences with mental health services can lead individuals to avoid all forms of healthcare. This fear of being mistreated creates a significant barrier to seeking help for both mental and physical health problems.",
+    "context": "This finding, part of Theme 2, highlights how negative encounters with one part of the health system can have far-reaching consequences, leading to disengagement from necessary care across the board."
   },
   {
-    "q": "What was the purpose of the 2-phase survey in stage 2 of the development process?",
-    "a": "The 2-phase survey was used to prioritize and select candidate BCTs and MoAs for the intervention. In the first phase, expert stakeholders ranked MoAs based on their perceived association with self-management, and in the second phase, they judged the acceptability and practicality of specific MoA-BCT links using the APEASE criteria.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Stage 2 involved a 2-phase survey and consultation with expert stakeholders...to prioritize and select candidate BCTs based on established theoretical and empirical evidence about behavior change interventions."
+    "q": "What barriers made it difficult to roll out the 'My COPD app' to people with SMI?",
+    "a": "Healthcare professionals reported that it was hard to roll out the 'My COPD app' because many patients in this population faced digital exclusion. Specific barriers identified were:\n\n| Barrier Type | Example |\n|---|---|\n| **Economic** | Cannot afford a smartphone. |\n| **Skills-based** | Do not know how to use a computer. |\n| **Logistical** | Do not have an email address. |\n| **Interest-based** | Simply not interested in the technology or sign up and never use it. |\n| **Symptom-related** | Fear that web-based communication could trigger paranoia. |",
+    "title": "Barriers to Digital Health Adoption",
+    "summary": "Attempts to introduce a health app for COPD were largely unsuccessful for patients with SMI due to digital exclusion. Barriers included lack of access to technology, lack of digital skills, lack of interest, and symptom-related fears like paranoia.",
+    "context": "This example is provided under the subtheme 'Unmet support needs' in Theme 3. It serves as a practical illustration of why digital-only solutions may not be appropriate for this population."
   },
   {
-    "q": "What key learning from the preparatory research underpinned the co-design process?",
-    "a": "Preparatory research established several key design principles. It was determined that a bespoke intervention was needed, which must include both group and one-to-one support. It also needed to incorporate a digital app alongside non-digital options like a workbook to ensure accessibility for everyone.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Our preparatory research informed our decision to develop a bespoke self-management intervention for people with type 2 diabetes and SMI. The intervention would need to include both group and one-to-one support to ensure accessibility and engagement for people with SMI."
+    "q": "What is the defining characteristic of living with SMI and multiple LTCs, according to the study's conclusion?",
+    "a": "The study concludes that living with SMI and multiple long-term conditions is defined by 'unrelenting precarity'. This state of constant instability and uncertainty confounds efforts to engage with healthcare services and self-management, an issue that is consistent regardless of the type of LTC.",
+    "title": "Conclusion: Unrelenting Precarity",
+    "summary": "The paper's main conclusion is that the lives of people with SMI and LTCs are defined by 'unrelenting precarity'. This constant instability undermines their ability to engage in the consistent, long-term self-management required for chronic conditions.",
+    "context": "This is the central takeaway presented in the 'Conclusion' section. It synthesizes all the themes into a single concept that captures the core of the lived experience."
   },
   {
-    "q": "What is the next step for the DIAMONDS intervention after this development work?",
-    "a": "Following its development through the co-design process, the DIAMONDS intervention is set to be tested for its feasibility. After the feasibility study, it will undergo a definitive evaluation in a large-scale, pragmatic randomized controlled trial.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The intervention will now be tested for feasibility before undergoing a definitive evaluation in a pragmatic randomized controlled trial."
+    "q": "What were the eligibility criteria used to define Severe Mental Illness (SMI) for the study?",
+    "a": "To be eligible, a person had to have a diagnosed SMI corresponding with specific ICD-10 categories:\n\n| Diagnosis | ICD-10 Code |\n|---|---|\n| Schizophrenia | F20.0–20.9 |\n| Other non-organic psychosis | F22.0–22.9 |\n| Bipolar disorder | F31.0–31.9 |\n| Schizoaffective disorder | Included within the definition but specific code not listed separately. |",
+    "title": "Definition of Severe Mental Illness",
+    "summary": "The study used a clinical definition for SMI based on the ICD-10 classification system. Eligible diagnoses included schizophrenia, schizoaffective disorder, bipolar disorder, and other non-organic psychoses.",
+    "context": "This specific definition is provided in the 'Setting and recruitment' part of the 'Methods' section, ensuring clarity on the population being studied."
   },
   {
-    "q": "What are some examples of the activities involved in the self-management of type 2 diabetes?",
-    "a": "Effective self-management of type 2 diabetes involves a range of activities. These include healthy eating, smoking cessation, stress management, being physically active, monitoring blood glucose levels, and adhering to prescribed medication.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Self-management of type 2 diabetes includes activities such as healthy eating, smoking cessation, stress management, physical activity, blood glucose monitoring, and adherence to medication as prescribed [17]."
+    "q": "What example was given of a maladaptive coping strategy being normalised by a healthcare professional?",
+    "a": "A carer recounted an incident where a service user was having a distressing attack at the doctor's office. The carer stated, 'even the doctor came and lit a cigarette for her which calmed her down'. The carer viewed this as evidence that smoking was 'medicinal' for managing acute distress, showing how immediate mental health needs can override long-term physical health concerns.",
+    "title": "Maladaptive Coping Mechanisms",
+    "summary": "The paper gives an example of how maladaptive coping strategies like smoking are sometimes used to manage acute mental distress. A doctor even lit a cigarette for a patient to calm them down, showing how immediate mental health needs can override long-term physical health concerns.",
+    "context": "This anecdote from Theme 1 illustrates how health-risk behaviours can become normalised as coping mechanisms, even by healthcare professionals, when mental health symptoms are severe."
   },
   {
-    "q": "What seven areas of self-management, based on the American Association of Diabetes Educators, were deemed necessary for the intervention?",
-    "a": "Discussions in the program development workshops concluded that any intervention must cover the seven main areas of self-care behaviors. These are healthy coping, healthy eating, being active, taking medication, monitoring, problem-solving, and reducing risks.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Discussions around the educational content of programs concluded that any intervention should cover the 7 main areas of self-management included in the American Association of Diabetes Educators 7 Self-Care Behaviors (healthy coping, healthy eating, being active, taking medication, monitoring, problem-solving, and reducing risks) [17]."
+    "q": "During what period was the data for this study collected?",
+    "a": "All semi-structured interviews and focus group discussions for the study were conducted between December 2018 and April 2019. Focused observations also took place during this same period.",
+    "title": "Data Collection Period",
+    "summary": "The data for this qualitative study was collected over a five-month period. All interviews, focus groups, and observations took place from December 2018 to April 2019.",
+    "context": "The 'Data collection' section specifies the timeframe for the research activities, providing context for when the participant experiences were captured."
   },
   {
-    "q": "Who participated in the co-design workshops in stage 4?",
-    "a": "The workshops involved three main groups of participants. These were service users (individuals with SMI and LTCs), informal caregivers, and various health care professionals involved in the care of people with SMI, LTCs, or both.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Workshop participants were recruited from three groups: (1) service users (ie, individuals with SMI and LTCs); (2) informal caregivers; and (3) health care professionals involved in the care of people with SMI, LTCs, or both."
+    "q": "What is diagnostic overshadowing, and what example was given in the study?",
+    "a": "Diagnostic overshadowing is when a person's physical symptoms are wrongly attributed to their mental illness. A carer provided a direct account of this, where a service user with a twisted spinal cord was not believed about her severe physical problem until she could no longer walk. The surgeon asked, 'how did you get in this state?' and she replied, 'Because nobody believes me.' The carer confirmed this was a 'regular thing' for people with mental illness.",
+    "title": "Diagnostic Overshadowing",
+    "summary": "The study highlights the problem of diagnostic overshadowing, where physical symptoms are dismissed because a person has a mental illness. A carer provided a powerful example of a severe physical condition being ignored until it became critical, because healthcare staff did not believe the patient.",
+    "context": "This is discussed in Theme 3. It points to a serious issue of stigma and inequitable access to healthcare, where physical concerns are wrongly attributed to a person's mental health status."
   },
   {
-    "q": "What was the general opinion from the PPI panel regarding the use of digital technologies in the intervention?",
-    "a": "The Patient and Public Involvement (PPI) panel had mixed opinions on digital technology. They agreed that digital apps could be part of the intervention but stressed that they should not be the only option, and that in-person support would be essential to address issues like anxiety and low motivation.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The panel agreed that digital applications could form part of an intervention but should not be used to the exclusion of other platforms and intervention content. PPI meetings also identified that in-person support would need to be an essential aspect of any intervention..."
+    "q": "What was a primary limitation of the study regarding its recruitment of carers?",
+    "a": "A primary limitation was that most carers who participated were not the care providers for the specific service user participants in the study, making their accounts detached. Additionally, it was difficult to identify and recruit carers in general, reflecting a broader issue of involving carers of people with SMI in research.",
+    "title": "Limitation in Carer Recruitment",
+    "summary": "The study faced limitations in its recruitment of carers. Most carers were not linked to the service users in the study, and recruiting this group proved difficult, which is a common challenge in mental health research.",
+    "context": "This limitation is acknowledged by the authors in the 'Strengths and Limitations' section, providing an honest appraisal of the study's methodological challenges."
   },
   {
-    "q": "What was the conclusion of the Cochrane review regarding self-management interventions for people with diabetes and SMI?",
-    "a": "The Cochrane review concluded that there was insufficient evidence about the effectiveness of self-management interventions for this population. The review was only able to include a single trial, highlighting a significant gap in the research literature.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "A Cochrane review of self-management interventions for people with diabetes and SMI included only 1 trial and concluded that there was insufficient evidence about the effectiveness of such interventions in this population [25]."
+    "q": "What was the name of the patient and public involvement group that collaborated on the study?",
+    "a": "The patient and public involvement group that collaborated on the development of the topic guides and the visual storyboard was named DIAMONDS Voice.",
+    "title": "Patient and Public Involvement Group",
+    "summary": "A patient and public involvement group named DIAMONDS Voice was integral to the study's design. They provided input on and helped refine the research materials used in interviews.",
+    "context": "This is mentioned in the 'Data collection' section and links the study to the broader DIAMONDS Research Programme."
   },
   {
-    "q": "What approach was modeled for the co-design process in this study?",
-    "a": "The approach to co-design was modeled on experience-based co-design. This methodology is used for service improvement and starts by understanding the experiences, needs, and preferences of users, then working in partnership with them to design solutions based on those understandings.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "This study was conducted in the United Kingdom, and the approach to co-design was modeled on experience-based co-design, which is primarily a service improvement methodology..."
+    "q": "What were the key strengths of this qualitative study?",
+    "a": "The study identified two primary strengths:\n\n| Strength | Description |\n|---|---|\n| **Inclusion of Multiple LTCs** | The study extended the evidence base beyond just diabetes by including participants with metabolic, respiratory, and cardiovascular conditions. This showed that challenges are consistent across different LTCs. |\n| **Source Triangulation** | By collecting data from service users, carers, and a range of healthcare professionals, the study provided a more comprehensive and integrated understanding of the issues. |",
+    "title": "Key Study Strengths",
+    "summary": "The study's main strengths were its inclusion of a wide range of long-term conditions, not just diabetes, and its use of source triangulation. This involved gathering data from patients, carers, and healthcare staff to create a more complete picture.",
+    "context": "These strengths are explicitly outlined in the 'Strengths and Limitations' section of the paper."
   },
   {
-    "q": "What lifestyle factors are more prevalent in people with SMI that contribute to their higher rates of LTCs?",
-    "a": "People with SMI have higher rates of obesity, poor diet and nutrition, and smoking compared to the general population. Additionally, their physical activity levels are typically lower, all of which likely contribute to their increased risk of LTCs and premature mortality.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The rates of obesity [6], poor diet and nutrition [7], and smoking [8,9] are higher and physical activity levels [10] are lower among people with SMI, likely contributing to the higher prevalence of LTCs and premature mortality in this population."
+    "q": "Why did the researchers choose not to perform a separate analysis for each type of Long-Term Condition (LTC)?",
+    "a": "The researchers initially coded data within LTC case groups (e.g., metabolic, respiratory) but found that the lived experience described by service users did not differ in ways related to their specific LTC diagnosis. Because the core challenges were consistent across conditions, they proceeded with a single thematic analysis of all service user data.",
+    "title": "Rationale for Combined Thematic Analysis",
+    "summary": "The study's analysis was not separated by physical condition because researchers found the core experiences and barriers were the same for all participants, regardless of their LTC. This pointed to the primacy of the SMI experience in shaping self-management challenges.",
+    "context": "This key analytical decision is explained in the 'Thematic analysis' subsection of the 'Methods'. It is a crucial finding in itself, supporting the paper's conclusion about the need for generalisable solutions."
   },
   {
-    "q": "How were candidate MoAs and BCTs identified in stage 1 of the development process?",
-    "a": "The candidate MoAs and BCTs were identified by combining evidence from multiple sources. This included a secondary analysis of existing qualitative and quantitative evidence, as well as an analysis of new in-depth qualitative interviews with staff, caregivers, and service users.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "This stage combined a secondary analysis of published qualitative and quantitative evidence about the enablers of, barriers to, and determinants (mapped against MoAs) of self-management for adults living in the community with SMI and LTCs [33,34] with an analysis of in-depth qualitative interviews with staff, informal caregivers, and service users in England..."
+    "q": "How did auditory hallucinations affect one patient's willingness to take medication?",
+    "a": "A healthcare professional described a patient with schizophrenia whose auditory hallucinations told them 'not to take the medication, it’s poison'. The voices also claimed that the nurse was trying to poison them, which created a significant barrier to treatment and trust.",
+    "title": "Impact of Auditory Hallucinations",
+    "summary": "The study provides an example of how psychotic symptoms directly undermine self-management. One patient's auditory hallucinations convinced them their medication was poison, making it impossible for them to adhere to treatment.",
+    "context": "This powerful example is found in Theme 1, illustrating how the 'inescapable' nature of SMI symptoms can actively work against health-promoting behaviours."
   },
   {
-    "q": "What criteria were expert stakeholders asked to use when judging MoA-BCT links in the second phase of the survey?",
-    "a": "In the second survey phase, expert stakeholders were asked to judge each MoA and BCT link based on whether it was acceptable and practical. To do this, they used the APEASE criteria, which stands for Affordability, Practicability, Effectiveness, Acceptability, Safety, and Equity.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The second phase of the survey was administered again to the expert stakeholders approximately 2 months after the completion of the first survey to judge each MoA and BCT link according to whether it was acceptable and practical using the APEASE (Affordability, Practicability, Effectiveness, Acceptability, Safety and Equity) criteria."
+    "q": "What software was used to manage the qualitative data?",
+    "a": "The audio recordings of interviews and focus groups were transcribed and then imported into NVivo12 for data management, coding, and analysis.",
+    "title": "Qualitative Data Management Software",
+    "summary": "The research team used NVivo12, a specialised software for qualitative data analysis. This tool was used to organise, code, and analyse the large volume of transcribed text from interviews and focus groups.",
+    "context": "The 'Data management' subsection of the 'Qualitative Analysis' section mentions the use of NVivo12, indicating a standard and systematic approach to managing the qualitative data."
   },
   {
-    "q": "Who facilitated the co-design workshops in Stage 4?",
-    "a": "The co-design workshops were facilitated by mHabitat, a digital health consultancy (now known as Thrive by Design Ltd). The workshops were also attended by the study's digital design partner, HMA.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The co-design workshops were facilitated by mHabitat (currently Thrive by Design Ltd [39]) and were attended by our digital design partner HMA [37]."
+    "q": "What is 'trauma-informed care' and why did the authors recommend it?",
+    "a": "Trauma-informed care is an approach to healthcare that acknowledges the role of past trauma in a person's life. The authors recommended it to help reduce the risk of iatrogenic trauma (harm caused by healthcare itself) from negative experiences and to promote better engagement with both mental and physical health services for people with SMI.",
+    "title": "Recommendation for Trauma-Informed Care",
+    "summary": "The authors recommend adopting 'trauma-informed care' to improve health services for people with SMI. This approach could help prevent further harm from negative healthcare encounters and encourage people to re-engage with services they currently avoid.",
+    "context": "This practical recommendation is offered in the 'Implications for research and practice' section. It directly addresses the findings in Theme 2 about how past trauma creates a barrier to care."
   },
   {
-    "q": "What was the consensus from the PPI panel on the need for both group and individual sessions?",
-    "a": "The PPI panel reached a consensus that both group and individual intervention sessions would be necessary to properly support people with SMI and diabetes. They also specified that group sessions should be optional and stand-alone so that people could attend when they felt able, rather than feeling compelled.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "There was consensus that both group and individual intervention sessions would be needed to support people with SMI and diabetes. There was agreement that group sessions need to be optional and stand-alone and not compulsory so that people could attend if able to."
+    "q": "What unmet needs of carers were highlighted in the study?",
+    "a": "The study highlighted that there was a lack of support for carers' own health and wellbeing, with one carer stating that professionals 'need to think about carers and have a word with them and find out what their needs are'. This was especially keen for older adults caring for their adult children with SMI, who expressed deep worry about the future when they are no longer able to provide care.",
+    "title": "Unmet Needs of Carers",
+    "summary": "Carers reported significant unmet needs for their own support. This was particularly true for aging parents of adult children with SMI, who worried about their child's future care as they got older.",
+    "context": "This is discussed under the subtheme 'Unmet support needs' in Theme 3. It underscores the lack of long-term planning and support systems for families affected by SMI."
   },
   {
-    "q": "How many BCTs were ultimately selected for inclusion in the final intervention?",
-    "a": "Following the comprehensive prioritization process involving surveys and expert consultation, the DIAMONDS research team selected a total of 22 behavior change techniques (BCTs) to be included in the final intervention.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The 22 BCTs that were included in the intervention are listed in Table 2."
+    "q": "What were the three main groups of people recruited for this study?",
+    "a": "The study purposively sampled participants from three distinct groups to gain a comprehensive understanding of the topic:\n\n| Participant Group | Role |\n|---|---|\n| **1. People with SMI and LTCs** | Referred to as 'service users', they provided the primary lived experience perspective. |\n| **2. Informal Carers** | Included partners, parents, family, or friends who provide support to people with SMI. |\n| **3. Healthcare Staff** | Professionals from NHS mental health trusts and primary care who provide care to this population. |",
+    "title": "Recruited Participant Groups",
+    "summary": "The study recruited three main groups of participants: people with co-existing SMI and physical long-term conditions, their informal carers, and the healthcare professionals involved in their care. This approach allowed for the triangulation of perspectives.",
+    "context": "The 'Setting and recruitment' section of the 'Methods' details the specific criteria and recruitment strategies for each of these three groups."
   },
   {
-    "q": "How did the COVID-19 pandemic compound the issue of digital exclusion for people with SMI?",
-    "a": "The pandemic compounded this inequality because many health services shifted to remote, digital delivery in response to national restrictions. This made it difficult for people with SMI who lacked access to technology, the skills to use it, or whose symptoms hindered its use to access necessary health care services.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The COVID-19 pandemic further compounded this inequality, as health services responded to national restrictions by providing services remotely using digital technologies [30]."
+    "q": "How did service users describe the inescapable nature of their SMI?",
+    "a": "Service users expressed the inescapable presence of their SMI by saying, 'It’s upsetting knowing that it’s never gonna go away'. Another added, 'it’s still gonna be there all today, again tomorrow, next week, this week. Never goes'. This represented a relentless and never-ending struggle.",
+    "title": "The Inescapable Nature of SMI",
+    "summary": "Service users described their mental illness as an inescapable, ever-present struggle. Quotes from participants highlight the relentless and never-ending nature of living with SMI, which impacts all aspects of their lives.",
+    "context": "These quotes are presented under Theme 1. They are used to illustrate the subtheme 'SMI is inescapable' and set the stage for understanding why SMI so completely dominates a person's life."
   },
   {
-    "q": "In the preparatory workshops, what was the conclusion about training mental health staff to deliver the intervention?",
-    "a": "Clinicians from various fields agreed that it was feasible to train mental health staff to deliver the tailored intervention. However, they noted that while these staff have the skills to support people with SMI, they may lack knowledge about diabetes and would require specific training on that topic.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Diabetes and mental health clinicians...agreed that this approach was feasible. However, they pointed out that although people working in mental health services have the skills to support people with SMI, they may know little about diabetes and would need specific training for this."
+    "q": "What was the purpose of the 'focused observations' conducted in the study?",
+    "a": "Focused observations involved a researcher spending a two to three-hour session with a participant doing an activity relevant to self-management, like food shopping or walking. The purpose was to observe and ask questions about self-management in a naturalistic setting, capturing insights that might not emerge in a formal interview.",
+    "title": "Purpose of Focused Observations",
+    "summary": "Focused observations allowed researchers to see self-management in action by accompanying participants during daily activities. This method provided a real-world context to the interview data, enhancing the study's depth and validity.",
+    "context": "This data collection technique is detailed in the 'Methods' section. Seven service users agreed to participate in these observations."
   },
   {
-    "q": "What was the total duration of the co-design workshops in Stage 4?",
-    "a": "The co-design process in Stage 4 was extensive. It began with an initial 5.5-hour discovery day workshop, which was followed by five more face-to-face workshops that lasted for approximately 15 hours in total.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Stage 4 included an initial discovery day workshop that lasted 5.5 hours, followed by 5 co-design workshops with staff and service users over 8 months. The 5 co-design workshops took place face-to-face and lasted approximately 15 hours in total."
+    "q": "What contrast was shown between integrated, person-centred care and standard advice-giving?",
+    "a": "The study contrasted a positive experience where a community nurse provided 30 minutes of dedicated time for a service user to 'offload' with a negative one where a diabetic nurse 'basically gave me some leaflets and it was off you go'. This highlights the need for time, relationship-building, and a person-centred approach over detached, one-off advice.",
+    "title": "Contrasting Care Approaches",
+    "summary": "The paper contrasts two types of care: an integrated, supportive approach with dedicated time, and a detached, impersonal approach involving just giving leaflets. The former was highly valued, while the latter was seen as unhelpful and insufficient.",
+    "context": "These two examples, found in Theme 3, vividly illustrate the difference between 'supporting the whole person' and a simplistic, ineffective model of care."
   },
   {
-    "q": "From what sources were participants for the co-design workshops recruited?",
-    "a": "Participants were recruited from several sources to ensure a diverse group of stakeholders. These included existing DIAMONDS research cohorts, the DIAMONDS Voice patient and public involvement group, and three National Health Service (NHS) mental health trusts located in Yorkshire, UK.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "We recruited participants from the existing DIAMONDS research cohorts (ie, people who had taken part in the program development work or related research and had given consent to be contacted again), DIAMONDS Voice, and 3 National Health Service (NHS) mental health trusts in Yorkshire, United Kingdom."
+    "q": "How did this study extend the findings of previous research on SMI and LTCs?",
+    "a": "This study extended previous findings by including participants with a range of LTCs (metabolic, respiratory, and cardiovascular), not just diabetes. It demonstrated that the challenges of self-management among people with SMI are consistent across all LTCs, pointing to the need for generalisable, rather than disease-specific, solutions.",
+    "title": "Extension of Existing Research",
+    "summary": "This study broadened the existing evidence base, which had largely focused on diabetes. By including people with various physical conditions, it showed that the fundamental barriers to self-management are tied to the experience of SMI itself, not the specific LTC.",
+    "context": "This is highlighted as a key contribution in the 'Discussion' and 'Strengths and Limitations' sections. It moves the conversation from an SMI-and-diabetes issue to an SMI-and-multimorbidity issue."
   },
   {
-    "q": "What theoretical framework underpinned the entire intervention development work?",
-    "a": "The development of the intervention was underpinned by the Mechanisms of Action (MoA) theoretical framework. This framework was used to structure the process and understand how different behavior change techniques could influence self-management behaviors.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The intervention development work was underpinned by the MoA theoretical framework and incorporated systematic reviews, primary qualitative research, expert stakeholder surveys, and evidence generated during co-design workshops."
+    "q": "Why did one service user refuse to take cholesterol medication like statins?",
+    "a": "One service user expressed a desire to remain as free of medical treatment as possible for their physical health. They stated a belief that 'nature will keep my cholesterol low' and 'The fewer pills and drugs I take the better it is'.",
+    "title": "Resistance to Physical Health Medication",
+    "summary": "The study found some service users were resistant to taking medication for their physical conditions. One participant rejected statins based on a belief in nature and a general desire to avoid taking more pills.",
+    "context": "This example from Theme 2 demonstrates how the burden of taking psychiatric medication can lead to an aversion to taking any further medication, even for serious physical health risks."
   },
   {
-    "q": "What was the finding of the scoping review conducted during the preparatory research phase?",
-    "a": "The scoping review identified over 150 unique interventions for diabetes self-management. Despite this large number, the interventions were found to be broadly similar in content, and no single leading candidate approach emerged for adaptation for people with SMI.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The scoping review identified >150 unique interventions for supporting the self-management of diabetes. Although differing in format, duration, and delivery, the interventions were broadly similar in content, and there was no leading candidate approach for adaptation for people with SMI."
+    "q": "What types of physical long-term conditions (LTCs) were represented in the service user sample?",
+    "a": "The service user sample included individuals with a range of diagnosed physical LTCs. The main categories were:\n\n| LTC Category | Examples |\n|---|---|\n| **Cardiovascular disease** | Heart failure, ischaemic heart disease, cerebrovascular disease |\n| **Metabolic disease** | Diabetes (excluding gestational), metabolic syndrome, hypothyroidism |\n| **Respiratory conditions** | Asthma, Chronic Obstructive Pulmonary Disease (COPD), emphysema |\n| **Other** | Chronic kidney disease |",
+    "title": "Range of Long-Term Conditions",
+    "summary": "The study was not limited to a single physical condition. The participants had a variety of LTCs, including cardiovascular, metabolic, respiratory, and kidney diseases, which allowed for more generalisable findings.",
+    "context": "The inclusion criteria for LTCs are detailed in the 'Methods' section, and the diversity of the sample is noted as a key strength in the 'Discussion'."
   },
   {
-    "q": "How many people were recruited for Stage 4 of the study, and how many were unable to attend any workshops?",
-    "a": "A total of 24 people were recruited for Stage 4 of the study, which involved the co-design workshops. Of those recruited, 8 people (33%) provided consent but were ultimately unable to attend any of the workshop sessions.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Overall, 24 people were recruited for stage 4 of the study. Of them, 8 (33%) people were recruited and provided consent but were unable to attend any of the workshops..."
+    "q": "How did fatigue from LTCs impact a service user's personal hygiene?",
+    "a": "Several service users reported being deeply fatigued by symptoms associated with their LTCs, which prevented them from attending to personal hygiene. One person said, 'sometimes … I can put it off because I just get… overtired, it just doesn’t seem to be a big necessity'.",
+    "title": "Impact of Fatigue on Self-Care",
+    "summary": "Fatigue from physical long-term conditions was a major barrier to basic self-care. The study found that some service users were so tired they struggled with personal hygiene, such as taking a shower.",
+    "context": "This example is from Theme 2, under the subtheme 'LTCs add to an already substantial burden'. It shows how physical symptoms can compound the existing challenges of daily living faced by people with SMI."
   },
   {
-    "q": "According to a previous systematic review by Chrvala et al, what features made diabetes self-management interventions more effective?",
-    "a": "The review by Chrvala et al concluded that interventions were more effective if they included a combination of both group and individual sessions. Additionally, interventions with a mean contact time of more than 10 hours were found to be more effective than those with less contact time.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "This review identified 118 interventions that included goal setting...and concluded that interventions with a combination of group and individual sessions and those with a mean contact time of >10 hours were more effective than those without these features."
+    "q": "What was the role of peer support in self-management?",
+    "a": "The study identified peer support as a critical component of a person's support network. One service user with diabetes described how they frequently turned to their friend, who also had diabetes, for advice on blood sugar readings, calling her a 'little support system'.",
+    "title": "Role of Peer Support",
+    "summary": "Peer support from friends or others with the same condition was found to be a vital resource for self-management. A service user explained how they relied on a friend with diabetes for practical advice and reassurance.",
+    "context": "This example is provided in Theme 3 under 'Sources of support'. It highlights the importance of informal, social forms of support alongside professional medical care."
   },
   {
-    "q": "What are some examples of BCTs and their linked MoAs that were included in the final intervention?",
-    "a": "The final intervention included 22 BCTs linked to specific MoAs. For example, the BCT 'Goal setting (behavior)' was linked to the MoAs 'Intentions' and 'goals,' while the BCT 'Problem-solving' was linked to 'Knowledge,' 'skills,' and 'beliefs about capabilities.'",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Goal setting (behavior) Intentions; goals; and memory, attention, and decision processes. Problem-solving Knowledge; skills; beliefs about capabilities; memory, attention, and decision processes; and behavioral regulation."
+    "q": "How did the study describe the tension between daily struggles and long-term health management?",
+    "a": "The study found a major tension between the need to get through each day and the need to strategically manage health over the long term. This tension is magnified for people with SMI because prioritising short-term mental health management with antipsychotics can lead to long-term physical health damage.",
+    "title": "Tension Between Short and Long-Term Goals",
+    "summary": "A core conflict for people with SMI is the tension between surviving day-to-day and managing health for the future. This is made worse by the fact that the very treatments used for short-term mental stability can cause long-term physical harm.",
+    "context": "This analysis is provided in the 'Discussion' section. It draws on the findings from Theme 1 and Theme 2 to explain the difficult trade-offs service users are forced to make."
   },
   {
-    "q": "Who was the external collaborator that worked on the development of the trigger films in stage 3?",
-    "a": "For the creation of the animated trigger films in stage 3, the research team worked with an external collaborator. This partner was the digital design agency HMA (HMA Digital Marketing Ltd).",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "During stage 3, we worked with an external collaborator, the digital design agency HMA (HMA Digital Marketing Ltd) [38]."
+    "q": "What was the problem with healthcare professionals having limited time in appointments?",
+    "a": "Healthcare professionals pointed out that the standard time allotted for appointments was insufficient for patients with complex SMI and LTCs. One professional noted that their service, which sees people once or twice, 'was never ever going to be, you know sufficient for this lady. You probably need to take months and months of seeing her every week'.",
+    "title": "Insufficient Appointment Times",
+    "summary": "A significant barrier to care was the lack of time in standard medical appointments. Healthcare professionals acknowledged that short, infrequent appointments were completely inadequate for addressing the complex, overlapping needs of people with SMI and LTCs.",
+    "context": "This is discussed in Theme 3, 'The constellation of support'. It highlights a structural barrier within the healthcare system that prevents the delivery of holistic, person-centred care."
   },
   {
-    "q": "What was the purpose of creating two different trigger films?",
-    "a": "Two distinct trigger films were developed to serve different functions in the co-design workshops. The first film gave an overview of three characters with SMI and LTCs, while the second presented different self-management scenarios for each character to highlight specific difficulties they experience.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "We developed 2 trigger films, one consisting of an overview of 3 characters who had SMI and LTCs and another providing different self-management scenarios for each of the 3 characters to highlight the difficulties people with SMI experience when trying to manage their health."
+    "q": "What is the funding source for the DIAMONDS programme, which includes this study?",
+    "a": "The DIAMONDS programme is funded by the National Institute for Health Research (NIHR) under its Programme Grants for Applied Research (project number RP-PG-1016-20003).",
+    "title": "Study Funding Source",
+    "summary": "This study was conducted as part of the larger DIAMONDS programme, which receives its funding from the UK's National Institute for Health Research (NIHR).",
+    "context": "This information is provided in the 'Funding' section at the end of the paper, acknowledging the financial support for the research."
   },
   {
-    "q": "Why is it essential for any new diabetes self-management program for people with SMI to be specifically tailored?",
-    "a": "It is essential because this population faces unique needs and challenges related to living with both conditions. A tailored program is needed to address these specific needs and also to tackle the health care inequalities they often experience.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Therefore, it is essential that any diabetes self-management program for people with SMI addresses the unique needs of people living with both conditions and the inequalities they experience within health care services."
+    "q": "What ethical approval did the study receive?",
+    "a": "The study received ethical approval from the North West – Greater Manchester West Research Ethics Committee (REC reference: 18/NW/0603). Voluntary informed consent was obtained from all participants, and the study was conducted in compliance with the Declaration of Helsinki.",
+    "title": "Ethical Approval and Consent",
+    "summary": "The study adhered to standard ethical protocols, receiving approval from a Research Ethics Committee. All participants provided voluntary informed consent, and the research complied with the Declaration of Helsinki.",
+    "context": "The 'Declarations' section at the end of the paper provides details on the ethics approval and consent process, ensuring transparency about the study's ethical conduct."
   },
   {
-    "q": "How many expert stakeholders responded to the first electronic survey in stage 2?",
-    "a": "A total of 21 expert stakeholders responded to the first electronic survey, which was part of the process to prioritize MoAs and BCTs. The respondents included a mix of health care professionals, clinical academics, carers, service users, and health care managers.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "A total of 21 people responded to the electronic survey; the stakeholders included health care professionals working in primary care (n=1, 5%), diabetes services (n=5, 24%), chronic obstructive pulmonary disease care (n=4, 19%), and mental health services (n=2, 10%); clinical academics (n=3, 14%); carers (n=1, 5%); service users (n=4, 19%); and health care managers (n=1, 5%)."
+    "q": "How did one service user's physical symptoms of COPD trigger a mental health crisis?",
+    "a": "A service user recalled an incident before their COPD diagnosis where they became extremely out of breath after climbing stairs. The frightening physical sensation of breathlessness caused them to have a panic attack, illustrating the direct link between physical and mental health symptoms.",
+    "title": "Physical Symptoms Triggering Panic",
+    "summary": "The paper provides an example of how physical symptoms can directly trigger mental health crises. A service user experienced a panic attack due to severe breathlessness, demonstrating how unmanaged physical conditions can exacerbate anxiety.",
+    "context": "This account is found in Theme 2, under 'Physical and mental illness are enmeshed'. It shows how the two are not separate issues but feed directly into one another."
   },
   {
-    "q": "What is an example of a statement from the primary qualitative research that was mapped to the MoA 'attitude toward the behavior'?",
-    "a": "An example statement was 'I don’t always monitor my blood glucose levels because it seems like too much hard work.' This was illustrated by a quote where a participant described the process as 'too much messing about,' reflecting a negative attitude toward the behavior of monitoring.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "I don’t always monitor my blood glucose levels because it seems like too much hard work - “Well, I could do it at tea time I suppose but I don’t because it seems like too much messing about..."
+    "q": "What challenges did carers of adult children with SMI face?",
+    "a": "The study highlighted the unique challenges of older adults caring for their adult children with SMI. One carer expressed deep worry about the future, stating, 'the problem is we’re not getting any younger … if anything happens to us she won’t be here.' This reflects a keen sense of the service user's dependency and the carer's own aging.",
+    "title": "Challenges for Aging Carers",
+    "summary": "Aging carers of adult children with SMI face immense stress and worry about the future. They are concerned about what will happen to their child when they are no longer able to provide support, highlighting the carer's own unmet needs.",
+    "context": "This is discussed under 'Unmet support needs' in Theme 3. It underscores the lack of long-term planning and support systems for families affected by SMI."
   },
   {
-    "q": "What was the composition of the DIAMONDS Voice group at the time of the study?",
-    "a": "At the time of this co-design study, the DIAMONDS Voice patient and public involvement group consisted of nine members. This included eight people with personal experience of living with SMI and one family member.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "At the time of this co-design study, DIAMONDS Voice consisted of 8 people with SMI and 1 family member."
+    "q": "What was a service user's rationale for taking antipsychotic medication despite its side effects?",
+    "a": "One service user, who had previous negative experiences in a psychiatric hospital, rationalised taking the medication by stating, 'I don’t want to … ever go back into psychiatric hospital, so I take it’s a condition to keep me in the community'.",
+    "title": "Rationale for Medication Adherence",
+    "summary": "A key reason some service users adhered to antipsychotic medication, despite side effects, was to avoid being re-hospitalised. For them, taking the medication was a pragmatic choice to maintain their freedom in the community.",
+    "context": "This perspective is explained in Theme 2. It shows a complex decision-making process where the fear of involuntary admission outweighs the negative physical side effects of treatment."
   },
   {
-    "q": "What need was specified during the preparatory workshops that was not often provided in existing diabetes programs?",
-    "a": "The preparatory workshops with clinical professionals and researchers identified a specific need for additional one-to-one support. It was noted that this type of individualized support was not commonly provided in the existing diabetes self-management and education programs.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The workshops also specified a need for additional one-to-one support, which was not often provided in the existing diabetes self-management and education programs."
+    "q": "What was the purpose of the visual storyboard used during service user interviews?",
+    "a": "A visual storyboard was used in the service user interviews as a tool to elicit further, more detailed responses from participants about their personal experiences with self-management. It was developed and refined in collaboration with the patient and public involvement group DIAMONDS Voice.",
+    "title": "Use of a Visual Storyboard",
+    "summary": "Researchers used a visual storyboard as a prompt during interviews with service users. This tool was designed to help participants elaborate on their experiences and provide richer, more detailed accounts of self-management.",
+    "context": "This methodological detail is mentioned in the 'Data collection' section. The storyboard (Appendix B) was a key part of the co-produced research methodology."
   },
   {
-    "q": "What type of professionals attended the two intervention planning workshops?",
-    "a": "The workshops were attended by a multidisciplinary group. This included the DIAMONDS research team as well as clinical professionals from a range of services, including primary care, diabetes services, and psychiatric services.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "The workshops were attended by the DIAMONDS research team and clinical professionals from primary care, diabetes services, and psychiatric services."
+    "q": "How did the study define 'self-management'?",
+    "a": "The study defines self-management of LTCs as 'the skills, practices, and behaviours that a person engages in to protect and promote their health'. It is considered fundamental to improving clinical outcomes for all long-term conditions.",
+    "title": "Definition of Self-Management",
+    "summary": "Self-management is defined as the active role a person takes in their own healthcare. This includes the skills and behaviours they use to protect and promote their health when living with a long-term condition.",
+    "context": "This definition is provided in the 'Introduction' section to clarify a key concept that is central to the entire study."
   },
   {
-    "q": "What are structured diabetes self-management education programs in England recommended for?",
-    "a": "In England, these structured programs are recommended for individuals who have been recently diagnosed with type 2 diabetes. They are designed to provide people with an opportunity to develop the necessary knowledge and skills for effective self-management of their condition.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "In England, structured diabetes self-management education programs are recommended for those recently diagnosed with type 2 diabetes, and they provide people with an opportunity to develop their knowledge and skills for self-management [14,16,18]."
+    "q": "What were the findings of the STEPWISE trial mentioned in the paper?",
+    "a": "The STEPWISE trial evaluated a structured lifestyle education programme to support weight loss for people with schizophrenia. Despite being tailored to the needs of people with SMI, the intervention did not demonstrate a clinical benefit nor was it cost-effective compared to treatment as usual.",
+    "title": "Findings of the STEPWISE Trial",
+    "summary": "The paper references the STEPWISE trial, which found that a tailored lifestyle intervention for people with SMI was not effective for weight loss. This result underscores the difficulty of implementing successful physical health interventions for this group.",
+    "context": "The 'Introduction' mentions this trial to establish that even tailored, co-designed interventions have struggled, reinforcing the need for the deep qualitative understanding sought by the current study."
   },
   {
-    "q": "Who was excluded from participating as a service user in the co-design workshops?",
-    "a": "The eligibility criteria for service users excluded several groups. People were excluded if they were in an acute psychiatric ward during recruitment, if they lacked the capacity to participate, or if they had experienced a recent significant life event that could affect their participation.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "People were excluded if they were in an acute psychiatric ward during the study recruitment period, if they lacked the capacity to participate, or if they had experienced a recent significant life event..."
+    "q": "How was the coding framework for the thematic analysis developed?",
+    "a": "The coding framework was developed in a multi-step process:\n\n1.  **Inductive Coding:** Initially, six service user transcripts were coded inductively, with codes generated directly from the content.\n2.  **Mapping to Existing Framework:** To streamline the process, these new codes were mapped onto an existing coding framework from a related study by the same team.\n3.  **Refinement:** The framework was refined through team discussions, with irrelevant codes removed and new codes (e.g., related to digital technology) added to address the study's specific objectives.",
+    "title": "Development of the Coding Framework",
+    "summary": "The analysis used a hybrid approach to develop its coding framework. It began with inductive coding from the new data, which was then integrated with and refined from a pre-existing framework used in a similar study.",
+    "context": "The 'Coding' subsection explains this process, showing how the team built upon previous work while ensuring the framework was tailored to the specific objectives of the current research."
   },
   {
-    "q": "What was the process for obtaining consent from participants in the co-design workshops?",
-    "a": "After expressing interest, potential participants were contacted by the research team to have the study explained. All participants who agreed to take part then signed a consent form at the beginning of the first 'discovery day' workshop, which covered their participation for the duration of all co-design workshops.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "All participants signed a consent form at the beginning of the first discovery day for the duration of the co-design workshops."
+    "q": "How did Long-Term Conditions (LTCs) affect the personal relationships of participants?",
+    "a": "The study found that disability stemming from LTCs could materially affect the quality of personal relationships. One carer described how their partner's need for a specialist bed meant they had to sleep in separate rooms, which the carer admitted felt 'a little bit sad' and was a struggle to cope with.",
+    "title": "Impact of LTCs on Relationships",
+    "summary": "The physical disabilities associated with long-term conditions can strain personal relationships. A carer in the study described the emotional difficulty of no longer being able to share a bedroom with their partner due to their medical needs.",
+    "context": "This finding, part of Theme 2, shows how the burden of LTCs extends beyond the service user to impact the intimate lives and emotional well-being of their carers."
   },
   {
-    "q": "How was the final list of 22 BCTs decided upon?",
-    "a": "The final list was selected by the DIAMONDS research team after the two-phase survey process. They chose the BCTs that showed the most promise in terms of potential efficacy, acceptability, and deliverability, using the results from both surveys, preparatory work, expert consultation, and PPI input.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "Following the prioritization process, the DIAMONDS research team selected the BCTs that offered the most promise in terms of potential efficacy, acceptability, and deliverability using the results of both surveys, preparatory work, expert consultation, and PPI."
+    "q": "What were the reasons for participants adopting a 'present time' perspective?",
+    "a": "The study suggests that a 'present time' perspective, focusing on short-term goals, is adopted as an optimal coping strategy in the face of crisis and insecurity. This is consistent with socioemotional selectivity theory.\n\n| Driver | Manifestation in the Study |\n|---|---|\n| **Crisis and Insecurity** | The overwhelming and unpredictable nature of SMI symptoms creates a constant sense of crisis. |\n| **Negative Past Experiences** | Traumatic encounters with healthcare services lead to a fatalistic present perspective and avoidance of future planning. |\n| **Optimal Coping** | In the presence of insecurity, focusing on immediate self-care tasks and adopting risky behaviours (smoking, drinking) to manage distress becomes an adaptive short-term strategy. |",
+    "title": "Reasons for 'Present Time' Perspective",
+    "summary": "The paper argues that the focus on short-term goals is not a failure of planning but an adaptive coping strategy for living in a state of constant crisis and insecurity. This 'present time' perspective is reinforced by negative past experiences and the overwhelming nature of SMI symptoms.",
+    "context": "This theoretical analysis is provided in the 'Discussion' section. It uses socioemotional selectivity theory to explain why service users prioritize immediate needs over long-term health management."
   },
   {
-    "q": "Are people with SMI and type 2 diabetes more or less likely to have poor clinical outcomes than those with diabetes alone?",
-    "a": "People with coexisting SMI and type 2 diabetes are more likely to experience poorer clinical outcomes. This is compared to individuals who have type 2 diabetes but do not have a severe mental illness.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "...those with SMI and coexisting type 2 diabetes are more likely to experience poorer clinical outcomes than those with type 2 diabetes alone [11-13]."
+    "q": "What did the 'focused observation' sessions involve?",
+    "a": "A focused observation was a two to three-hour session where a researcher accompanied a participant during an activity relevant to self-management. The process included:\n\n| Activity | Description |\n|---|---|\n| **Joint Activity** | The researcher and participant would engage in an activity chosen by the participant, such as food shopping, cooking, or walking in the park. |\n| **Observation & Questioning** | The researcher would both observe the participant's actions and ask questions about the activity that could not be answered by observation alone. |\n| **Field Notes** | Immediately after the session, the researcher would write focused field notes about the activity and how it related to SMI and LTC self-management behaviours. |",
+    "title": "Details of Focused Observation Sessions",
+    "summary": "Focused observations involved a researcher accompanying a participant during a daily activity related to health. This method allowed for real-time observation and questioning about self-management practices in a natural setting, followed by detailed note-taking.",
+    "context": "This data collection technique is detailed in the 'Methods' section. Seven service users participated in these observations, providing a rich, contextual layer to the interview data."
   },
   {
-    "q": "What information was included in the invitation pack sent to potential workshop participants?",
-    "a": "The invitation pack contained several documents to inform potential participants about the study. It included an invitation letter, a participant information sheet explaining the study in detail, and an expression of interest form which also included consent to be contacted by the research team.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "All potential participants received an invitation pack about the study via post, including an invitation letter, a participant information sheet, and an expression of interest form that included consent to contact."
+    "q": "How did the study define 'informal carers'?",
+    "a": "The study defined informal carers according to specific criteria to distinguish them from professional caregivers.\n\n| Criterion | Definition |\n|---|---|\n| **Role** | Included partners, parents, other family members, or close friends who may or may not live with the person they support. |\n| **Exclusion** | The definition explicitly does not include paid, professional healthcare staff. |\n| **Relationship** | The carer must have a social relationship with the person they support. |",
+    "title": "Definition of Informal Carers",
+    "summary": "Informal carers were defined as individuals providing unpaid support within a social relationship, such as family or friends. This definition was used to recruit the second participant group for the study.",
+    "context": "This definition is provided in the 'Setting and recruitment' section under the subsection for 'Informal carers'."
   },
   {
-    "q": "Why was the DIAMONDS intervention designed to be 'tailored'?",
-    "a": "The intervention was designed to be tailored because it was developed through a synthesis of outputs from the co-design process. This process ensured the final product, including its app, workbook, and coaching, was specifically designed to meet the unique and complex needs of people living with both SMI and type 2 diabetes.",
-    "title": "Development of a Supported Self-management Intervention for People With Severe Mental Illness and Type 2 Diabetes: Theory and Evidence-Based Co-design Approach",
-    "summary": "This paper details the four-step, co-design process used to create the DIAMONDS intervention, a supported self-management program for people with severe mental illness (SMI) and type 2 diabetes. The development integrated behavioral theory, systematic reviews, qualitative research, and extensive stakeholder input to produce a tailored intervention. The final DIAMONDS intervention includes a digital app, a paper-based workbook, and one-to-one coaching to address the unique needs and health inequalities faced by this population.",
-    "context": "It is a tailored self-management intervention based on the synthesis of the outputs from the co-design process. The intervention incorporates a digital app, a paper-based workbook, and one-to-one coaching designed to meet the needs of people with SMI and coexisting type 2 diabetes."
+    "q": "What implications for primary care practice were suggested by the study?",
+    "a": "The study suggested several reconfigurations for primary care to better support people with SMI and multiple conditions:\n\n| Suggested Change | Rationale |\n|---|---|\n| **Longer Consultations** | To afford additional time to accommodate the competing priorities and complex needs of this patient group. |\n| **Relationship Continuity** | To build trust and understanding over time, which is crucial for engagement. |\n| **Enhanced Self-Management Support** | To move beyond giving leaflets and provide tailored, person-centred advice. |\n| **'Whole Person' Approach** | To adopt integrated care models that address both mental and physical health together. |",
+    "title": "Implications for Primary Care Practice",
+    "summary": "The study recommended reconfiguring primary care to allow for longer consultations, better continuity of care, and enhanced self-management support. These service-led innovations are aimed at providing more holistic, person-centred care for people with complex multimorbidity.",
+    "context": "These implications are outlined in the 'Implications for research and practice' section. The authors cite a study by Mercer et al. showing that such a model is possible for patients with multimorbidity in deprived areas."
   }
 ]
 [
   {
-    "q": "What is the primary aim of the DIAMONDS trial?",
-    "a": "The primary aim of the DIAMONDS trial is to evaluate the clinical and cost-effectiveness of a new, co-designed, and supported diabetes self-management program. This program is specifically designed for people who have both type 2 diabetes mellitus (T2DM) and a severe mental illness (SMI).",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The DIAMONDS trial aims to evaluate the clinical and cost effectiveness of a novel, codesigned, supported diabetes self- management programme for people with T2DM and SMI."
+    "q": "What is the primary aim of the DIAMONDS randomised controlled trial (RCT)?",
+    "a": "The primary aim of the DIAMONDS trial is to investigate the clinical and cost-effectiveness of a novel, co-designed self-management intervention for people with Severe Mental Illness (SMI) and Type 2 Diabetes Mellitus (T2DM), compared with usual care.",
+    "title": "Primary Aim of the DIAMONDS Trial",
+    "summary": "The trial's main goal is to determine if the new DIAMONDS intervention is both clinically effective and a good use of resources for people with both SMI and T2DM. This will be assessed by comparing it to the standard care these patients typically receive.",
+    "context": "This is stated in the abstract and the 'AIM AND OBJECTIVES' section of the paper. It sets out the core research question that the entire study is designed to answer."
   },
   {
-    "q": "What is the primary outcome measure of the DIAMONDS trial?",
-    "a": "The primary outcome is the difference in glycated haemoglobin (HbA1c) between the intervention and control groups. This will be measured at 12 months after the participants are randomised into the study.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The primary outcome is the difference in glycated haemoglobin (HbA1c) between both groups at 12 months postrandomisation."
+    "q": "What is the primary outcome of the trial and when is it measured?",
+    "a": "The primary outcome is the adjusted difference in glycated haemoglobin (HbA1c) between the intervention and control groups. It is measured at 12 months post-randomisation.",
+    "title": "Primary Trial Outcome and Measurement",
+    "summary": "The main measure of the intervention's success is the difference in long-term blood sugar control (HbA1c) between the two groups. This key measurement is taken one year after participants join the study.",
+    "context": "This is detailed in the 'Primary outcome' section. HbA1c is an objective, clinical measure, making it a robust primary outcome for a diabetes intervention trial."
   },
   {
-    "q": "What are the components of the DIAMONDS intervention?",
-    "a": "The DIAMONDS intervention involves participants receiving one-to-one sessions with a trained DIAMONDS Coach over a six-month period. These sessions focus on goal setting and action planning for diabetes self-management and are supported by a paper-based workbook and an optional digital application.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The intervention group will receive one- to- one sessions with a trained DIAMONDS Coach for six months. These sessions will focus on goal setting, action planning and diabetes selfmanagement education, supported by a paper- based workbook and an optional digital application."
+    "q": "What is the revised target sample size for the DIAMONDS trial and why was it changed?",
+    "a": "The initial target was 450 participants. Due to slower than anticipated recruitment, this was revised to 380 participants with the approval of the Programme Steering Committee in February 2024. The revision was made possible by including an adjustment for the correlation between baseline and 12-month HbA1c levels, which allowed the target to be reduced while retaining 88% statistical power.",
+    "title": "Revised Participant Sample Size",
+    "summary": "The trial adjusted its recruitment target from 450 to 380 participants in response to slow recruitment. This change was formally approved and was calculated to retain sufficient statistical power (88%) for the primary analysis.",
+    "context": "The rationale for this change is explained in the 'Sample size' section. It demonstrates a pragmatic adaptation during the course of a large-scale clinical trial."
   },
   {
-    "q": "Who is eligible to participate in the trial?",
-    "a": "To be eligible, participants must be 18 years or older, living in the community, and have a confirmed diagnosis of both a severe mental illness (SMI) and type 2 diabetes. The eligible SMI diagnoses include schizophrenia, bipolar disorder, schizoaffective disorder, psychosis, and severe depression.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Participants must (1) be aged 18 years or older and living in the community; (2) have any of the following SMI diagnoses: schizophrenia, bipolar disorder, schizoaffective disorder, psychosis, severe depression and (3) have T2DM."
+    "q": "Who delivers the DIAMONDS intervention and for how long?",
+    "a": "The intervention is delivered one-to-one by a trained 'DIAMONDS Coach' over a period of six months. The coach is a healthcare professional trained specifically in the delivery of the DIAMONDS intervention.",
+    "title": "Intervention Delivery and Duration",
+    "summary": "The DIAMONDS intervention is facilitated by a specially trained professional known as a DIAMONDS Coach. They work with each participant individually for a total of six months.",
+    "context": "This information is found in the abstract and 'The DIAMONDS intervention' section. The coach is the central figure in delivering the supportive, tailored aspects of the program."
   },
   {
-    "q": "Why is supporting self-management fundamental for people with diabetes?",
-    "a": "Supporting self-management is fundamental because it is crucial for improving clinical outcomes in people with diabetes and other long-term conditions. Most diabetes care is the responsibility of the individual, so having the skills, practices, and behaviours to protect and promote their health is essential.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Supporting self- management in diabetes, in common with other long- term conditions (LTCs), is fundamental to improving clinical outcomes, [11–13] as most diabetes care falls to self- management. [14]"
+    "q": "What are the core components of the DIAMONDS intervention?",
+    "a": "The intervention consists of several integrated components designed to be delivered over a six-month period:\n\n| Component | Description |\n|---|---|\n| **One-to-one Coaching** | Individual sessions with a trained DIAMONDS Coach focusing on goal setting and action planning. |\n| **DIAMONDS Workbook** | A paper-based workbook for daily use that supports diabetes self-management education. |\n| **'Change One Thing' App** | An optional digital application that supports and mirrors the content of the workbook. |\n| **Behaviour Change Techniques** | The intervention is underpinned by evidence-based Behaviour Change Techniques (BCTs). |",
+    "title": "Core Components of the Intervention",
+    "summary": "The intervention is a multi-faceted program that includes personal coaching, a physical workbook for daily use, and an optional smartphone app. This blended approach is designed to be flexible and accessible to all participants.",
+    "context": "These components are described in 'The DIAMONDS intervention' section and visualized in Figure 2. The inclusion of a paper-based option is a key feature to avoid digital exclusion."
   },
   {
-    "q": "Why are standard diabetes self-management programs often unsuitable for people with SMI?",
-    "a": "Standard programs are often unsuitable because they do not address the specific barriers faced by people with SMI. SMI is characterized by disturbances in thought, perception, and motivation, which can significantly influence a person's ability to engage in self-management, and these programs are not designed to accommodate these challenges.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Diabetes self- management programmes designed for the general population do not address these important barriers, [35–38] and programmes specifically for people with SMI do not currently exist."
+    "q": "What is the name of the service user and carer group that collaborated on this trial?",
+    "a": "The service user and carer group that collaborated on the trial is called DIAMONDS Voice. They have been an integral part of the DIAMONDS programme for several years and were involved in developing intervention materials and reviewing all participant-facing documents.",
+    "title": "Patient and Public Involvement Group",
+    "summary": "A dedicated patient and public involvement group named DIAMONDS Voice played a crucial role in the trial. Comprised of service users and carers, the group provided essential input on the intervention and all study materials.",
+    "context": "The role of this group is detailed in the 'Patient and public involvement (PPI)' section. Their involvement highlights the trial's commitment to a co-design approach."
   },
   {
-    "q": "What is the revised target sample size for the trial and why was it changed?",
-    "a": "The revised target sample size is 380 participants. The original target of 450 was amended due to slower-than-anticipated recruitment, and the new calculation was approved after including an adjustment for the correlation between baseline and 12-month HbA1c levels, which retained a statistical power of 88%.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Owing to slower than anticipated recruitment, we discussed options to revise the target sample size with the Programme Steering Committee (PSC) in February 2024. ... This led to a reduction in target sample size to 380 participants; statistical power at 88% is retained and all other assumptions remain the same."
+    "q": "What specific measure is taken to ensure consistency in the measurement of HbA1c?",
+    "a": "To avoid variation and the inadvertent introduction of differences in measurements, all blood samples for the primary outcome of HbA1c are sent to a single, central United Kingdom Accreditation Service registered laboratory for analysis.",
+    "title": "Consistency in Primary Outcome Measurement",
+    "summary": "To ensure the primary outcome data is highly reliable, all blood samples are analysed at one central lab. This eliminates potential inconsistencies that could arise from using different local laboratories across the various trial sites.",
+    "context": "This methodological strength is outlined in the 'Primary outcome' section. It is a crucial step to reduce measurement error in a multicentre trial."
   },
   {
-    "q": "How will the primary outcome of HbA1c be measured to ensure consistency and prevent bias?",
-    "a": "To avoid inconsistencies from using different local labs, all blood samples for HbA1c analysis will be sent to a single, central United Kingdom Accreditation Service registered laboratory. Furthermore, this laboratory will be masked, meaning it won't know the group allocation of the samples, which helps prevent measurement bias.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "To avoid the inadvertent introduction of differences in measurements of HbA1c through the use of several local laboratories, one central United Kingdom Accreditation Service registered laboratory will be used for all blood sample analyses."
+    "q": "Which individuals involved in the trial are explicitly NOT blinded to treatment allocation?",
+    "a": "Due to the nature of the intervention, several key groups cannot be blinded. These are:\n\n*   Participants themselves\n*   The intervention facilitators (DIAMONDS Coaches)\n*   The trial statisticians\n*   The health economists\n*   The DIAMONDS Programme Manager and Trial coordinators",
+    "title": "Lack of Blinding in the Trial",
+    "summary": "Several key groups cannot be blinded in this trial, which is a common feature of behavioural studies. This includes the participants receiving care, the coaches providing it, and the analysts evaluating the data.",
+    "context": "This is explained in the 'Blinding' section. The protocol acknowledges this limitation and notes that the objective primary outcome (HbA1c) is unlikely to be affected by it."
   },
   {
-    "q": "What is a key limitation of the trial related to participant blinding?",
-    "a": "A key limitation is that participants will know whether they are receiving the DIAMONDS intervention or are in the treatment-as-usual group. This lack of blinding could potentially impact their responses to patient-reported outcomes or their overall involvement and behaviour during the trial.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Participants will know whether they receive the intervention or not, which could impact their responses for patient- reported outcomes or involvement in the trial."
+    "q": "How is physical activity objectively measured in the trial?",
+    "a": "Participants are asked to wear a wrist-worn accelerometer (GENEActiv) for seven consecutive days at both baseline and the six-month follow-up. The devices are blinded, so participants cannot see or interact with their data during the wear period.",
+    "title": "Objective Measurement of Physical Activity",
+    "summary": "In addition to questionnaires, the trial uses a wrist-worn device called an accelerometer to get an objective measure of physical activity. This data is collected at the beginning of the study and again at six months.",
+    "context": "This method is described under 'Data collection and management'. Using an objective measure like an accelerometer is a strength because self-reported activity levels can be inaccurate."
   },
   {
-    "q": "What was the outcome of the STEPWISE trial?",
-    "a": "The STEPWISE trial tested a group lifestyle education program to support weight reduction in people with schizophrenia. Although the intervention was ultimately found to be neither clinically nor cost-effective, it was an important effort to address health inequalities and highlighted the challenges of improving physical health in this population.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "While the intervention was neither clinically nor cost- effective, the STEPWISE trial aimed to overcome the unacceptable health inequalities among people with SMI and highlighted the challenges of improving physical health in people with schizophrenia. [12]"
+    "q": "What financial incentive is offered to participants for their time?",
+    "a": "Each participant is offered a £10 high street gift voucher at each of their three main appointments: baseline, six months, and 12 months.",
+    "title": "Participant Financial Incentive",
+    "summary": "To acknowledge their contribution to the research, participants are given a £10 gift voucher at each of the three data collection points. This serves as a token of appreciation for their time and effort.",
+    "context": "This detail is included in the 'Data collection and management' section and is a standard practice in many clinical trials to help with retention and recognise participant burden."
   },
   {
-    "q": "What is the design of the DIAMONDS trial?",
-    "a": "The DIAMONDS trial is a multicentre, two-armed, parallel, individual randomised controlled trial (RCT). It also has embedded process and economic evaluations to assess delivery and cost-effectiveness.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The DIAMONDS trial is a multicentre, two- armed, parallel, individual RCT with embedded process and economic evaluations."
+    "q": "What are the specific inclusion criteria for participants in the DIAMONDS trial?",
+    "a": "To be eligible for the trial, participants must meet all of the following criteria:\n\n| # | Criterion | Details |\n|---|---|---|\n| 1 | **Age** | 18 years or older and living in the community. |\n| 2 | **SMI Diagnosis** | A confirmed diagnosis of schizophrenia, bipolar disorder, schizoaffective disorder, psychosis, or severe depression. |\n| 3 | **T2DM Diagnosis** | A confirmed diagnosis of Type 2 Diabetes Mellitus. |\n| 4 | **Confirmation** | Both diagnoses must be confirmed by a clinician or stated in the patient's medical records. |",
+    "title": "Participant Inclusion Criteria",
+    "summary": "Eligible participants must be adults living in the community with a confirmed dual diagnosis of a severe mental illness (like schizophrenia or bipolar disorder) and Type 2 Diabetes. Both conditions must be formally documented.",
+    "context": "These criteria are clearly listed in the 'Eligibility criteria' section and define the specific population for which the intervention is being tested."
   },
   {
-    "q": "What does the control group in the trial receive?",
-    "a": "Participants in the control group will continue to access usual care for their SMI and diabetes, which includes primary care health checks and community-based mental healthcare. They will also be eligible to self-enrol in existing generic diabetes education programmes as part of their standard care.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Participants in the control group will access usual care for people with SMI and diabetes. This will include primary care health checks for SMI and diabetes along with community- based mental healthcare through CMHTs."
+    "q": "What are the exclusion criteria for the DIAMONDS trial?",
+    "a": "People will be excluded from the trial if they meet any of the following criteria:\n\n1.  Have cognitive impairments that would preclude participation and engagement.\n2.  Have gestational diabetes.\n3.  Have type 1 diabetes.\n4.  Have other types of secondary diabetes.\n5.  Lack capacity to consent to participate in the trial.\n6.  Are currently in an inpatient stay in an acute or mental health hospital.",
+    "title": "Participant Exclusion Criteria",
+    "summary": "The trial excludes individuals who have cognitive impairments, other types of diabetes (like Type 1), or who currently lack the capacity to consent. People who are currently hospital inpatients are also not eligible.",
+    "context": "These criteria are listed in the 'Eligibility criteria' section. They are designed to ensure participant safety and that the intervention is tested on the appropriate population."
   },
   {
-    "q": "How did the DIAMONDS Feasibility Study benefit the full-scale RCT?",
-    "a": "The preceding feasibility study was a major strength as it confirmed the acceptability and feasibility of the intervention. It also provided an opportunity for the research team to make important changes and refinements to some of the study processes before commencing the larger, more expensive full-scale RCT.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The DIAMONDS randomised controlled trial (RCT) follows on from a feasibility study (DIAMONDS Feasibility Study, ISRCTN15328700), which confirmed the acceptability and feasibility of the intervention and allowed us to make important changes to some study processes before commencing with this full- scale RCT."
+    "q": "What treatment does the control group receive in this trial?",
+    "a": "Participants in the control group receive 'treatment as usual'. This includes their standard primary care health checks for SMI and diabetes, community-based mental healthcare through Community Mental Health Teams (CMHTs), and being signposted to any existing generic diabetes self-management programmes.",
+    "title": "Control Group Treatment Protocol",
+    "summary": "The control group continues to receive their standard NHS care for both diabetes and mental illness. They are also informed about existing, non-specialised diabetes education programs, providing a realistic comparison for the new intervention.",
+    "context": "This is detailed in the 'Control group' section. This design allows the researchers to determine if the specialised DIAMONDS intervention is more effective than the care currently available."
   },
   {
-    "q": "How will the trial improve inclusivity for a specific linguistic group?",
-    "a": "To improve inclusivity, the trial incorporates study materials that have been translated into the Urdu language. This allows for the participation of individuals from South Asian communities who may not be fluent in English.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The trial incorporates Urdu language materials to improve inclusivity."
+    "q": "What are the three distinct categories of participant withdrawal?",
+    "a": "The protocol outlines three specific ways a participant can withdraw from the trial:\n\n| Withdrawal Category | Description |\n|---|---|\n| **1. Withdrawal from follow-ups** | The participant stops providing data at follow-up appointments but may continue the intervention. |\n| **2. Withdrawal from intervention** | The participant stops engaging with the Coach and workbook, but allows follow-up data to continue to be collected. |\n| **3. Full withdrawal** | The participant withdraws from all aspects of the trial, including both the intervention and all data collection. |",
+    "title": "Participant Withdrawal Options",
+    "summary": "Participants have three options if they wish to withdraw, ranging from stopping just the intervention to ceasing all contact and data collection. This flexible approach respects participant autonomy while aiming to retain valuable data where possible.",
+    "context": "These categories are explicitly outlined in the 'Participant withdrawals' section, ensuring a clear and ethical process for participants who no longer wish to continue."
   },
   {
-    "q": "How is physical activity measured in the trial?",
-    "a": "Physical activity is measured using two methods to get a comprehensive picture. Participants are asked to wear a wrist-worn accelerometer for seven days to collect objective data, and they also complete a self-report questionnaire about their activity levels.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "To gain objective measures of physical activity in addition to self- report questionnaire data, participants will be asked to wear a wrist- worn accelerometer (GENEActiv, Activinsights, Kimbolton, UK) for seven days at baseline and six months follow- up."
+    "q": "What is the planned timeline for the entire DIAMONDS study?",
+    "a": "The overall study is planned to start in September 2022 and finish in September 2025. Recruitment is planned to run from December 2022 to September 2024.",
+    "title": "Overall Study Timeline",
+    "summary": "The full trial is scheduled to take place over a three-year period, from September 2022 to September 2025. Participant recruitment is a key phase planned for the middle portion of this timeline.",
+    "context": "This schedule is provided in the 'Trial design' section, giving a clear overview of the project's major milestones and duration."
   },
   {
-    "q": "How will the findings of the DIAMONDS trial be disseminated?",
-    "a": "The findings will be published in peer-reviewed journals and communicated through various channels to reach a wide audience. This includes producing plain language summaries, infographics, and audio summaries on the website, presenting at conferences, and using social media and knowledge exchange events.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Findings will be published in peer- reviewed, academic and professional journals. We will also be producing plain language summaries, infographics and audio summaries on the website, as well as attending conferences and dissemination events."
+    "q": "What four dimensions are measured by the Intervention Fidelity (IF) framework?",
+    "a": "The Intervention Fidelity (IF) framework, based on guidance by Bellg (2004), will measure four key dimensions of the intervention's delivery:\n\n1.  **Adherence:** Whether the content of the intervention sessions was delivered as designed.\n2.  **Quality of delivery:** The manner in which the Coach delivers the programme, including the use of Behaviour Change Techniques.\n3.  **Duration:** The mean, standard deviation, and range of the intervention sessions.\n4.  **Dose:** The number of sessions delivered.",
+    "title": "Intervention Fidelity Framework Dimensions",
+    "summary": "To ensure the intervention is delivered as intended, the study will measure four aspects of fidelity. These are whether the correct content was covered, how well it was delivered, how long sessions lasted, and how many sessions were completed.",
+    "context": "These four dimensions are listed in the 'Intervention fidelity observations' section. This assessment is a critical part of the process evaluation to ensure the trial is testing the intervention in its intended form."
   },
   {
-    "q": "What is DIAMONDS Voice and what role does it play in the trial?",
-    "a": "DIAMONDS Voice is a service-user and carer group that has been integral to the research program. For this RCT, they reviewed all participant-facing documents like consent forms and questionnaires, advised on recruitment strategies, and will be involved in disseminating the trial's findings.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "During development and throughout the trial, we have been collaborating with DIAMONDS Voice, a service- user and carer group dedicated to supporting this work. ... For this RCT, they reviewed all participant- facing documentation, including consent forms, invitation letters and questionnaires..."
+    "q": "What different methods and settings will be used to recruit participants?",
+    "a": "The trial will use a multi-pronged recruitment strategy across several settings:\n\n| Recruitment Method/Setting | Description |\n|---|---|\n| **NHS mental health trusts** | Searching databases and screening caseloads of community mental health teams. |\n| **GP database screening** | General practices will screen their SMI and LTC registers for eligible patients. |\n| **Existing research cohorts** | Contacting individuals from previous studies who gave permission to be re-contacted. |\n| **Third sector and service user groups** | Working with relevant local organisations to promote the trial. |\n| **Self-referral** | Individuals will be able to self-refer into the trial. |",
+    "title": "Participant Recruitment Methods",
+    "summary": "A multi-pronged strategy will be used to recruit participants for the trial. This includes recruitment through NHS mental health teams, GP practices, previous research participant lists, and community organisations.",
+    "context": "These different pathways are detailed in the 'Setting and recruitment' section. Using multiple methods is essential for reaching the target sample size in a population that can be hard to engage in research."
   },
   {
-    "q": "What is the planned duration of the overall study and the recruitment period?",
-    "a": "The overall study is planned to take place over three years, starting in September 2022 and finishing in September 2025. The recruitment period is scheduled to run from December 2022 to September 2024.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The overall study is planned to start in September 2022 and finish in September 2025. Recruitment is planned to start in December 2022 and finish in September 2024."
+    "q": "What is the life expectancy gap for people with SMI, and what is the primary cause?",
+    "a": "People with SMI have a life expectancy that is 15–20 years shorter than the general population. This is mainly due to comorbid physical illnesses, such as Type 2 Diabetes.",
+    "title": "SMI Life Expectancy Gap and Cause",
+    "summary": "There is a stark 15-20 year gap in life expectancy for people with severe mental illness. This is not primarily due to mental illness itself but is caused by a higher rate of preventable physical health conditions.",
+    "context": "This critical fact is stated in the 'Introduction' and provides the fundamental justification for the trial, which aims to address this major health inequality."
   },
   {
-    "q": "How does the life expectancy of people with SMI compare to the general population?",
-    "a": "People with severe mental illness have a significantly shorter life expectancy, which is reduced by 15 to 20 years compared to the general population. This gap is mainly attributed to the higher rates of comorbid physical illnesses.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Their life expectancy is 15–20 years shorter [2–5] mainly due to comorbid physical illnesses. [6–8]"
+    "q": "What is the purpose of the trial's embedded process evaluation?",
+    "a": "The process evaluation aims to understand if the intervention was delivered as intended (fidelity) and how its outcomes were produced (mechanisms of action). It will also identify contextual and service-level barriers and enablers to future implementation and scale-up.",
+    "title": "Purpose of the Process Evaluation",
+    "summary": "The trial includes a process evaluation to look beyond *whether* the intervention works to understand *how* and *why* it works. This part of the study will explore the delivery of the intervention and the factors that helped or hindered its success.",
+    "context": "This is described in the 'AIM AND OBJECTIVES' and 'Process evaluation' sections. It provides a qualitative and implementation-focused dimension to the quantitative RCT."
   },
   {
-    "q": "What are some of the secondary outcomes being measured in the trial?",
-    "a": "The secondary outcomes cover a broad clinical and psychosocial profile. They include physical health measures like total cholesterol, BMI, and blood pressure, as well as assessments of physical activity, mental health, diabetes measures, and quality of life.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Outcomes include measures of physical health (total cholesterol, haemoglobin, body mass index, waist circumference, blood pressure, smoking status and urinary albumin to creatinine ratio), physical activity... mental health, diabetes measures, quality of life..."
+    "q": "How is the trial designed to be inclusive for Urdu-speaking participants?",
+    "a": "The protocol states that the trial incorporates Urdu language materials to improve inclusivity.",
+    "title": "Inclusivity for Urdu Speakers",
+    "summary": "To ensure the trial is accessible to a more diverse population, it includes materials that have been translated into Urdu. This is highlighted as a key strength of the study.",
+    "context": "This is listed as a strength in the 'STRENGTHS AND LIMITATIONS OF THIS STUDY' box. It reflects a conscious effort to improve the reach and relevance of the research."
   },
   {
-    "q": "Who is responsible for randomising participants into the trial groups?",
-    "a": "A central web-based randomisation service provided by the York Trials Unit (YTU) will be used. Designated research and development (R&D) staff at the participating sites will use this service to assign participants to either the DIAMONDS intervention or the usual care group.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "York Trials Unit (YTU) will provide a central web- based randomisation service for R&D teams at sites to use when assigning participant allocations."
+    "q": "How will the qualitative data from interviews with participants, carers, and coaches be analysed?",
+    "a": "The interview transcripts will undergo an initial thematic analysis using a framework method. Further analysis will then be guided by the Mechanisms of Action (MoA) framework, which extends the Theoretical Domains Framework (TDF), to understand implementation problems and behaviour change.",
+    "title": "Qualitative Data Analysis Method",
+    "summary": "The qualitative data from interviews will be analysed in a structured way using a framework method and thematic analysis. The analysis will be guided by established psychological theories like the Theoretical Domains Framework to understand behaviour change.",
+    "context": "This is detailed in the 'Qualitative evaluation: recruitment, data collection and analysis' section. This systematic approach adds rigor to the qualitative component of the process evaluation."
+  },
+  {
+    "q": "What is the stated perspective of the health economic analysis?",
+    "a": "The health economic analysis will be a within-trial cost-utility analysis conducted from an NHS and personal social services perspective, as recommended by NICE guidance.",
+    "title": "Health Economic Analysis Perspective",
+    "summary": "The trial's economic evaluation will assess cost-effectiveness from the perspective of the NHS and social services. This means it will consider the costs and benefits that fall to the publicly funded health and social care system.",
+    "context": "This is specified in the 'Economic evaluation' section. This perspective is standard for evaluations intended to inform UK health policy decisions."
+  },
+  {
+    "q": "What happens if a participant inadvertently unblinds a data collector?",
+    "a": "If a participant reveals their group allocation to an outcome assessor, or the assessor becomes unblinded for any other reason, this event will be recorded in the outcome assessment case report form (CRF) at that time.",
+    "title": "Procedure for Unblinding Assessors",
+    "summary": "The trial has a clear procedure for when a data collector becomes unblinded. The incident must be formally recorded on the case report form to document the potential for bias.",
+    "context": "This procedure is outlined in the 'Blinding' section. It is an important quality control measure to maintain the integrity of the trial's data."
+  },
+  {
+    "q": "What specific secondary outcomes related to physical health will be measured?",
+    "a": "The trial will measure a broad range of physical health secondary outcomes:\n\n| Outcome | Measurement Method |\n|---|---|\n| Total cholesterol | Blood sample |\n| Haemoglobin | Blood sample |\n| Body mass index (BMI) | Physical measurement |\n| Waist circumference | Physical measurement |\n| Blood pressure | Physical measurement |\n| Smoking status | Self-report |\n| Urinary albumin to creatinine ratio | Urine sample |",
+    "title": "Physical Health Secondary Outcomes",
+    "summary": "The trial will measure a wide range of secondary physical health outcomes beyond just blood sugar. These include markers for cardiovascular risk like cholesterol and blood pressure, as well as body measurements like BMI and waist circumference.",
+    "context": "This list is provided in the 'Secondary outcomes' section, demonstrating the comprehensive approach to evaluating the intervention's broader impact on physical health."
+  },
+  {
+    "q": "What is the 'Change One Thing' app?",
+    "a": "The 'Change One Thing' app is an optional digital application that participants in the intervention group can use. It supports the daily use of the paper-based 'DIAMONDS Workbook' to help with self-management.",
+    "title": "'Change One Thing' Application",
+    "summary": "The 'Change One Thing' app is a digital tool created for the DIAMONDS intervention. It is an optional component designed to supplement the core workbook and coaching sessions.",
+    "context": "The app is mentioned in 'The DIAMONDS intervention' section. Offering it as an optional tool makes the intervention more flexible and accommodates different preferences for digital technology."
+  },
+  {
+    "q": "What is the trial registration number for this study?",
+    "a": "The trial registration number is ISRCTN22275538.",
+    "title": "Trial Registration Number",
+    "summary": "The DIAMONDS trial is publicly registered with the ISRCTN registry under the number ISRCTN22275538. This registration ensures transparency in the conduct and reporting of the clinical trial.",
+    "context": "This information is provided at the end of the abstract. Public trial registration is a standard requirement for ethical and transparent clinical research."
+  },
+  {
+    "q": "How much more common is Type 2 Diabetes in people with SMI compared to the general population?",
+    "a": "Type 2 Diabetes Mellitus (T2DM) is two to three times more common in people with severe mental illness (SMI) than in the general population.",
+    "title": "Prevalence of T2DM in SMI Population",
+    "summary": "People with SMI are at a significantly higher risk of developing Type 2 Diabetes. The prevalence of the condition in this group is two to three times greater than in the general population.",
+    "context": "This key statistic is stated in both the abstract and the introduction to highlight the scale of the health inequality that the DIAMONDS intervention aims to address."
+  },
+  {
+    "q": "What exploratory subgroup analyses are planned for the trial?",
+    "a": "The trial plans to conduct several exploratory subgroup analyses to investigate differential treatment effects. These include:\n\n*   Different levels of HbA1c at baseline\n*   Ethnicity\n*   Insulin use status",
+    "title": "Planned Subgroup Analyses",
+    "summary": "The trial plans to explore whether the intervention has different effects based on baseline blood sugar levels, ethnicity, and insulin use. These are exploratory analyses, meaning their findings will be interpreted with caution.",
+    "context": "This is mentioned in the 'Subgroup analyses' section. This reflects an awareness of potential health inequalities and clinical differences within the broader trial population."
+  },
+  {
+    "q": "What previous study confirmed the acceptability and feasibility of the DIAMONDS intervention?",
+    "a": "A preceding feasibility study (DIAMONDS Feasibility Study, ISRCTN15328700) confirmed the acceptability and feasibility of the intervention. This allowed the research team to make important changes to study processes before starting this full-scale RCT.",
+    "title": "Preceding Feasibility Study",
+    "summary": "Before launching this large trial, the researchers conducted a smaller feasibility study. This initial study confirmed that the intervention was acceptable to participants and that the trial procedures were practical, leading to refinements for the main RCT.",
+    "context": "This is highlighted as a major strength in the 'STRENGTHS AND LIMITATIONS' section. It shows that the full trial is built on a solid foundation of preliminary work."
+  },
+  {
+    "q": "How will the research team handle the risk of suicide or self-harm encountered during the trial?",
+    "a": "The team has developed a suicide risk protocol. If any risk is encountered, a risk assessment will be conducted. The participant will be advised that if there is a concern of harm to themselves or others, these concerns will need to be passed on to their GP or clinical care team.",
+    "title": "Suicide and Self-Harm Risk Management",
+    "summary": "The trial has a specific protocol for managing suicide or self-harm risk. If a researcher has concerns about a participant's safety, they will conduct a risk assessment and, if necessary, share those concerns with the participant's clinical team.",
+    "context": "This is detailed in the 'Suicide and self-harm risk management' section. It is a critical ethical and safety procedure when conducting research with a vulnerable population."
+  },
+  {
+    "q": "How are 'carers' defined for the purpose of the qualitative evaluation?",
+    "a": "For this study, carers are defined as unpaid individuals who are not subject to working regulations and provide support to a dependent person with whom they have a social relationship, such as a spouse, relative, neighbour, or friend.",
+    "title": "Definition of Carers",
+    "summary": "The study defines carers as people providing unpaid support within a social relationship. This includes family members, friends, or neighbours, and explicitly excludes professional, paid care workers.",
+    "context": "This definition is provided in the 'Carers' subsection of the 'Qualitative evaluation' section. It clarifies who is eligible to participate in the carer interviews for the process evaluation."
+  },
+  {
+    "q": "What is the funding source for this project?",
+    "a": "This project is funded by the National Institute for Health and Care Research (NIHR) Programme for Applied Research, under project number RP-PG-1016-20003. The views expressed are those of the authors and not necessarily the NIHR or Department of Health and Social Care.",
+    "title": "Project Funding Source",
+    "summary": "The DIAMONDS trial is funded by the UK's National Institute for Health and Care Research (NIHR). The protocol specifies the exact grant program and project number.",
+    "context": "This is stated in the 'Funding' section. Acknowledging the funding source is a standard and important part of research transparency."
+  },
+  {
+    "q": "What analysis will be performed to assess the impact of compliance with the intervention?",
+    "a": "Complier Average Causal Effect (CACE) analyses will be performed for the primary outcome. This is to assess the impact of compliance with the intervention on the treatment estimates.",
+    "title": "Analysis of Intervention Compliance",
+    "summary": "To understand the effect of the intervention on those who actually completed it, the researchers will perform a Complier Average Causal Effect (CACE) analysis. This is a type of sensitivity analysis that accounts for non-compliance.",
+    "context": "This statistical technique is mentioned in the 'Sensitivity analyses' section. It goes beyond the standard intention-to-treat analysis to provide a different perspective on the intervention's effectiveness."
+  },
+  {
+    "q": "What is the trial's randomisation ratio?",
+    "a": "Eligible and consenting participants will be randomised on a 1:1 basis to either the DIAMONDS intervention or usual care.",
+    "title": "Randomisation Ratio",
+    "summary": "Participants in the trial will be randomly assigned to one of the two groups with an equal probability. This 1:1 ratio means that for every two participants, one will go to the intervention group and one to the control group.",
+    "context": "This is specified in the 'Assignment of groups' section. A 1:1 ratio is the most common and statistically efficient allocation for a two-arm trial."
+  },
+  {
+    "q": "Why do standard diabetes self-management programmes often fail for people with SMI?",
+    "a": "Programmes designed for the general population do not address the important barriers faced by people with SMI. These barriers include disturbances of thought, perception, affect, and motivation, which influence self-efficacy, literacy, and lifestyle.",
+    "title": "Failure of Standard Diabetes Programmes",
+    "summary": "Standard diabetes education programs are often not suitable for people with SMI because they fail to account for the unique challenges posed by the mental illness. These challenges include symptoms like lack of motivation and cognitive difficulties.",
+    "context": "This rationale is provided in the 'Introduction' and is the core reason why a tailored intervention like DIAMONDS is needed."
+  },
+  {
+    "q": "How will the trial findings be disseminated beyond academic journals?",
+    "a": "The team has a comprehensive dissemination plan to reach a wide audience:\n\n| Dissemination Method | Target Audience |\n|---|---|\n| **Plain language summaries, infographics, audio summaries** | Participants, stakeholders, general public |\n| **Website and social media channels** | Wider public and professional audiences |\n| **Conferences and knowledge exchange events** | Academic, clinical, and policy audiences |\n| **Summary of results distribution** | All trial participants and relevant stakeholders (e.g., commissioners) |",
+    "title": "Dissemination Plan Beyond Academia",
+    "summary": "The research team has a comprehensive plan to share their findings widely. In addition to academic papers, they will create accessible materials like summaries and infographics and use social media and events to reach participants, stakeholders, and the public.",
+    "context": "This is detailed in the 'Ethics and dissemination' section, demonstrating a commitment to impactful dissemination beyond traditional academic outputs."
   },
   {
     "q": "What happens if a participant in the intervention group wishes to stop receiving the intervention early?",
-    "a": "If a participant wants to stop before the end of the six months, the DIAMONDS Coach will still support them. The coach will help them set longer-term goals and action plans for self-management and assist them in accessing appropriate support to implement these plans, similar to those who complete the full period.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "If the participant wishes to stop receiving the intervention before the end of the six months, the Coach will still support participants to set longer term goals and action plans for self- management and help them to access appropriate support to implement these..."
+    "a": "If a participant wishes to stop before the end of the six months, the DIAMONDS Coach will still support them to set longer-term goals and action plans for self-management. The coach will also help them access appropriate support to implement these plans, just as is done for participants who complete the full intervention period.",
+    "title": "Procedure for Early Intervention Withdrawal",
+    "summary": "Even if a participant decides to stop the formal intervention early, they will still receive support from their coach to create a plan for future self-management. This ensures a supportive transition out of the active intervention phase.",
+    "context": "This procedure is outlined in 'The DIAMONDS intervention' section. It reflects the person-centred and supportive ethos of the intervention."
   },
   {
-    "q": "Who will be blinded to treatment allocation in the trial?",
-    "a": "Efforts will be made to keep the R&D staff responsible for data collection blinded. However, due to the nature of the intervention, the participants themselves and the DIAMONDS Coaches delivering the intervention will not be blinded.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Efforts will be made to ensure R&D staff responsible for data collection remain blinded to treatment allocation. ... Due to the nature of the comparison between the DIAMONDS intervention and treatment as usual, neither participants themselves nor the intervention facilitators (DIAMONDS Coaches) will be blinded."
+    "q": "What quantitative data will be collected for the process evaluation?",
+    "a": "Quantitative data for the process evaluation will be extracted from several sources to provide a descriptive summary of intervention delivery:\n\n*   Number and length of sessions delivered (mean, SD)\n*   Frequency and date of sessions\n*   Mode of delivery (videocall, phone, in-person)\n*   Number (%) of participants who discussed each intervention content area\n*   Average duration a participant stayed with the same action plan\n*   Average number of intervention content areas covered",
+    "title": "Quantitative Data for Process Evaluation",
+    "summary": "The process evaluation will use quantitative data from coach logs, the app, and fidelity assessments to describe how the intervention was delivered. This includes data on the number, length, frequency, and content of the coaching sessions.",
+    "context": "This is detailed in the 'Quantitative approach: data collection and analysis' section. Using these data sources provides a rich, descriptive summary of intervention implementation."
   },
   {
-    "q": "What types of settings will be used for recruitment?",
-    "a": "Recruitment will take place across various settings in England to reach potential participants. These include National Health Service (NHS) mental health trusts, general practices acting as Participant Identification Centres (PICs), and third-sector organisations that support individuals with SMI and/or diabetes.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The study setting will include National Health Service (NHS) mental health trusts, general practices acting as Participant Identification Centres (PICs) and third sector organisations providing support to individuals with SMI and/or diabetes across England."
+    "q": "What is the purpose of the trial's 12-month internal pilot phase?",
+    "a": "The trial includes a 12-month internal pilot phase to assess recruitment assumptions and to optimise trial processes before continuing with the full-scale study.",
+    "title": "Purpose of the Internal Pilot Phase",
+    "summary": "The first 12 months of the trial serve as an internal pilot. This phase is designed to check if the recruitment targets are realistic and to fine-tune any study procedures before the majority of participants are enrolled.",
+    "context": "This is mentioned in the 'Trial design' section. An internal pilot is a common feature in large, complex trials to ensure the study is running smoothly and is on track to succeed."
   },
   {
-    "q": "What are some of the key diabetes self-management activities?",
-    "a": "Key self-management activities for diabetes include improving diet, increasing physical activity, and smoking cessation. Other important activities are monitoring blood glucose levels, taking steps to prevent complications, and adhering to prescribed treatments.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Diabetes self- management activities include improving diet; physical activity; smoking cessation; monitoring blood glucose levels; preventing complications and treatment adherence. [15 16]"
+    "q": "How long will anonymised trial data be archived for?",
+    "a": "Anonymised trial data will be securely archived by the University of York for a minimum of 10 years. Personal data will be stored for up to three years after the study ends for dissemination purposes.",
+    "title": "Data Archiving Period",
+    "summary": "After the study is complete, the anonymised data will be securely stored for at least 10 years. This long-term archiving allows for future verification of the results and potential re-use of the data for further research.",
+    "context": "This is specified in the 'Confidentiality and data protection' section and reflects standard good practice for clinical trial data management."
   },
   {
-    "q": "What is the rationale for the sample size calculation?",
-    "a": "The sample size was calculated to detect a clinically meaningful difference of 5.5 mmol/mol (or 0.5%) in HbA1c between the groups at 12 months. This target difference is based on data from trials in the general diabetes population and guidance from the National Institute for Health and Care Excellence (NICE).",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The sample size calculation was based on detecting a clinically meaningful difference of 5.5 mmol/mol (0.5%) in HbA1c at 12 months. This difference was selected based on data from trials of diabetes self- management in the general diabetes population [45 46] and National Institute for Health and Care Excellence (NICE) guideline on T2DM management. [13]"
+    "q": "What framework will be used to integrate the qualitative and quantitative data in the process evaluation?",
+    "a": "A triangulation protocol will be used to integrate the data. Key findings from qualitative and quantitative sources will be compared using a convergence coding matrix, which categorises the relationship between findings as one of four types:\n\n| Category | Description |\n|---|---|\n| **Agreement** | Convergence in the data from both sources. |\n| **Partial agreement** | Complementary findings but with limited overlap. |\n| **Silence** | No overlap between the quantitative and qualitative data. |\n| **Dissonance** | Disagreement between the data sets. |",
+    "title": "Data Integration Framework",
+    "summary": "The study will use a triangulation protocol and a convergence coding matrix to formally integrate its qualitative and quantitative findings. This framework will allow researchers to see where different data sources agree, disagree, or complement each other.",
+    "context": "This advanced mixed-methods approach is detailed in the 'Integrated analysis' section. It aims to produce a more robust and nuanced understanding than looking at the qualitative and quantitative data in isolation."
   },
   {
-    "q": "How will the research team handle data from paper-based Case Report Forms (CRFs)?",
-    "a": "Paper-based CRFs collected at the sites will be returned to the York Trials Unit (YTU). There, they will be scanned using specialist software. The scanned data will then be checked against the original hard copy, and validation checks will be run to identify and query any discrepancies.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The other secondary outcomes will be collected through paper- based CRFs which will be returned to YTU and then scanned using specialist software. The data will be checked against the hard copy of the CRF, error checked and validation checks run against the database."
+    "q": "What was the outcome of the STEPWISE trial mentioned in the paper?",
+    "a": "The STEPWISE trial tested a group structured lifestyle education programme to support weight reduction in people with schizophrenia. The intervention was found to be neither clinically nor cost-effective.",
+    "title": "STEPWISE Trial Outcome",
+    "summary": "The paper references the earlier STEPWISE trial, which was unsuccessful in demonstrating a clinical or cost benefit for its lifestyle intervention. This previous result highlights the significant challenges of improving physical health in this population.",
+    "context": "The STEPWISE trial is discussed in the 'Introduction' to provide context and show that even specifically designed interventions have struggled, reinforcing the need for novel approaches like DIAMONDS."
   },
   {
-    "q": "For how long will anonymised trial data be archived after the study?",
-    "a": "In accordance with data protection regulations, all anonymised trial data will be securely archived by the University of York. This data will be kept for a minimum period of 10 years after the conclusion of the study.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Anonymised trial data will be securely archived by the UoY for a minimum of 10 years."
+    "q": "Who is the Chief Investigator of the DIAMONDS trial?",
+    "a": "Najma Siddiqi (NS) led the grant application and, as Chief Investigator, takes overall responsibility for the trial and is the guarantor.",
+    "title": "Chief Investigator of the Trial",
+    "summary": "The Chief Investigator for the DIAMONDS trial is Najma Siddiqi. She is responsible for the overall conduct and integrity of the research.",
+    "context": "This information is provided in the 'Contributors' section, which outlines the roles and responsibilities of the key members of the research team."
   },
   {
-    "q": "Besides the main trial, what two other evaluations will be conducted as part of the study?",
-    "a": "Alongside the main randomised controlled trial, the study will also conduct an economic evaluation and a process evaluation. The economic evaluation will assess the cost-effectiveness of the DIAMONDS intervention, while the process evaluation will examine how the intervention was delivered and how outcomes were achieved.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "We will conduct an economic evaluation to assess the cost- effectiveness of the DIAMONDS intervention and a process evaluation that will address questions about whether the intervention was delivered as intended and how outcomes were determined."
+    "q": "What are the trial's duty of care procedures?",
+    "a": "The trial will use standard operating procedures to support researchers in reporting instances where there are concerns about a participant's health to their GP or responsible clinical services. Normal NHS indemnity procedures will apply, and the study sponsor (University of York) provides public liability insurance.",
+    "title": "Duty of Care Procedures",
+    "summary": "The trial has a clear 'duty of care' policy. If a researcher becomes concerned about a participant's health during a study visit, they are required to report these concerns to the participant's regular doctor or clinical team.",
+    "context": "This is described in the 'Duty of care' section. It is an important ethical safeguard to ensure participant well-being is prioritised throughout the research process."
   },
   {
-    "q": "What are the exclusion criteria for participating in the trial?",
-    "a": "People will be excluded if they have cognitive impairments preventing participation, have gestational or type 1 diabetes, or lack the capacity to consent. Individuals who are currently in an inpatient stay in an acute or mental health hospital are also excluded.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "People will be excluded if they: (1) have cognitive impairments that would preclude the individual from participation...; (2) have gestational diabetes; (3) have type 1 diabetes... (5) lack capacity to consent... or (6) are currently in an inpatient stay..."
+    "q": "What is the analysis model for the primary outcome?",
+    "a": "The primary outcome, HbA1c at 12 months, will be analysed using a mixed-effects regression analysis. The model will include baseline HbA1c, treatment group, time, and other covariates as fixed effects, and the DIAMONDS Coach as a random effect, nested within the treatment group.",
+    "title": "Primary Outcome Analysis Model",
+    "summary": "The primary outcome will be analysed using a sophisticated statistical model called a mixed-effects regression. This model will account for baseline values, the treatment group, time, and will also adjust for the fact that different coaches deliver the intervention.",
+    "context": "This is detailed in the 'Primary outcome' subsection of the 'Statistical analysis' section. The choice of this model is appropriate for the trial's design."
   },
   {
-    "q": "What incentive is offered to participants for their time and contribution?",
-    "a": "To thank them for their participation, each participant will be offered a £10 high street gift voucher at each of their data collection appointments. This includes the baseline, six-month, and 12-month appointments.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Each participant will be offered a £10 high street gift voucher at their baseline, six and 12 months appointments."
+    "q": "What is the target sample size for qualitative interviews with participants and carers?",
+    "a": "For the qualitative process evaluation, the research team aims to recruit and interview two key groups:\n\n*   **Participants:** A sample of 20–25 participants who completed the intervention.\n*   **Carers:** A sample of 20–25 carers of service-users participating in the trial.",
+    "title": "Qualitative Interview Sample Sizes",
+    "summary": "For the process evaluation, the researchers plan to conduct in-depth interviews with two groups. They aim to interview 20-25 participants from the intervention group and 20-25 carers of trial participants.",
+    "context": "These target numbers are specified in the 'Qualitative evaluation' section. These sample sizes are typical for qualitative research aiming to achieve thematic saturation."
   },
   {
-    "q": "What is the purpose of the 'Change One Thing' digital app in the intervention?",
-    "a": "The 'Change One Thing' app is an optional digital tool designed to support the DIAMONDS intervention. It is used alongside the paper-based workbook and coaching sessions to help participants with their daily self-management activities.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The intervention will be delivered by a DIAMONDS Coach over a period of 6 months, using a combination of individual sessions and daily use of a paper- based workbook (the ‘DIAMONDS Workbook’) which can be supported by daily use of a digital app (‘Change One Thing’; optional)..."
+    "q": "Which committee has oversight of the trial and also acts as the Data Monitoring Committee?",
+    "a": "An independent Programme Steering Committee (PSC) has oversight of the trial. Due to the low-risk nature of the intervention, the PSC will also undertake the role of the Data Monitoring Committee.",
+    "title": "Trial Oversight Committee",
+    "summary": "An independent Programme Steering Committee (PSC) is responsible for the overall oversight of the trial. Unusually, this committee also serves as the Data Monitoring Committee, a decision made because the intervention is considered low-risk.",
+    "context": "This is explained in the 'Trial oversight' section. This structure ensures independent expert supervision of the trial's conduct and safety."
   },
   {
-    "q": "What is the definition of 'self-management' provided in the paper?",
-    "a": "The paper defines self-management as the collection of skills, practices, and behaviours that a person engages in to actively protect and promote their own health. In the context of diabetes, this includes a range of activities from diet to medication adherence.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Self- management refers to the skills, practices and behaviours that a person engages in to protect and promote their health."
+    "q": "What is the rationale for using a central laboratory for blood sample analysis?",
+    "a": "A single, central United Kingdom Accreditation Service registered laboratory will be used for all blood sample analyses. The rationale is to avoid the inadvertent introduction of differences in measurements of HbA1c that could occur from using several different local laboratories.",
+    "title": "Rationale for Central Laboratory Use",
+    "summary": "The trial uses a single central lab to analyse all blood samples to ensure maximum consistency and reliability of the primary outcome data. This eliminates measurement variation between different sites, which is a key strength of the study design.",
+    "context": "This is stated in the 'Primary outcome' section. It is a crucial quality control measure for a multicentre clinical trial."
   },
   {
-    "q": "Why is accelerometer data not collected at the 12-month follow-up?",
-    "a": "Accelerometer data, which provides objective physical activity measures, will not be collected at the 12-month follow-up due to practical reasons. This decision was based on previously reported findings showing decreased adherence to wearing the devices after six months.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Accelerometer data will not be collected during the 12 month follow- up due to previously reported decreased adherence levels following six months. [39]"
+    "q": "How did the DIAMONDS Voice group contribute to the trial's design?",
+    "a": "The DIAMONDS Voice group made several critical contributions:\n\n| Contribution Area | Specific Action |\n|---|---|\n| **Intervention Content** | Contributed critically to the content of the intervention itself. |\n| **Intervention Materials** | Contributed to the development of the app and workbook. |\n| **Participant Documents** | Reviewed all participant-facing documentation, including consent forms and questionnaires. |\n| **Study Procedures** | Were consulted about the acceptability of taking blood and other physical health measurements. |\n| **Recruitment** | Advise on recruitment strategies and support recruitment within their networks. |",
+    "title": "Contributions of DIAMONDS Voice",
+    "summary": "The patient and public involvement group, DIAMONDS Voice, contributed extensively to the trial. They were involved in designing the intervention, reviewing all participant-facing documents, advising on recruitment, and will help disseminate the findings.",
+    "context": "The extensive role of this group is detailed in the 'Patient and public involvement (PPI)' section. This demonstrates a deep commitment to co-production in the research process."
   },
   {
-    "q": "What is the role of a DIAMONDS Coach?",
-    "a": "A DIAMONDS Coach is a healthcare professional who has been trained specifically in the delivery of the DIAMONDS intervention. Their role is to provide one-to-one support to participants, helping them to increase their knowledge, set goals, make healthier choices, and manage their diabetes within the context of their mental health.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Identifying and addressing sleep difficulties, barriers to taking medications and other key problem areas as identified by the participant with support from their Coach, a healthcare professional who has been trained in the delivery of the DIAMONDS intervention."
+    "q": "What is the full title of the trial described in this protocol?",
+    "a": "The full title is 'DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial'.",
+    "title": "Full Trial Title",
+    "summary": "The formal title of the study clearly states that it is a protocol for a randomised controlled trial of a diabetes self-management intervention called DIAMONDS, specifically for people with severe mental illness.",
+    "context": "The full title is provided at the very beginning of the document and precisely describes the nature and scope of the research being planned."
   },
   {
-    "q": "How are potential participants from GP practices initially approached?",
-    "a": "After GPs screen their patient lists for eligibility, potential participants will initially receive study information documents from their practice, usually sent by mail. If staff capacity permits, the practice may follow up with a phone call to discuss the study further.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Eligible patients will initially receive study information documents from their practice, usually via mailout to their home address. Where staff capacity allows, PIC sites will follow this up with a phone call."
+    "q": "What statistical analysis will be used for secondary outcomes?",
+    "a": "Secondary outcomes will be analysed using mixed-effects regression analysis for continuous outcomes and logistic mixed models for categorical outcomes. These models will provide an overall treatment effect over 12 months, as well as estimates at individual time-points (six and 12 months).",
+    "title": "Analysis of Secondary Outcomes",
+    "summary": "The trial will use mixed-effects models to analyse its secondary outcomes, which is consistent with the analysis of the primary outcome. This will allow for an estimation of the intervention's effect over the full year of follow-up.",
+    "context": "This is described in the 'Secondary outcomes' subsection of the 'Statistical analysis' section."
   },
   {
-    "q": "How long are participants followed up for in the trial?",
-    "a": "Participants in the trial will be followed up for a period of one year after they are randomised. Outcome assessments are scheduled to be conducted at two time points during this period: at six months and at 12 months post-randomisation.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Participants will be followed up for one year with outcome assessments conducted at six and 12 months post- randomisation."
+    "q": "What is the role of York Trials Unit (YTU) in the trial?",
+    "a": "York Trials Unit (YTU) has several key roles in the trial's operation:\n\n*   **Randomisation:** YTU provides the central web-based randomisation service.\n*   **Data Management:** YTU receives and processes the paper-based Case Report Forms (CRFs), including scanning, error checking, and validation.\n*   **Safety Procedures:** The trial uses YTU standard operating procedures for things like duty of care and researcher safety.",
+    "title": "Role of York Trials Unit (YTU)",
+    "summary": "York Trials Unit (YTU) provides crucial infrastructure and operational support for the trial. This includes managing the randomisation process, handling data collection and management, and providing standard operating procedures for safety.",
+    "context": "YTU is mentioned multiple times throughout the protocol in sections like 'Assignment of groups', 'Data collection and management', and 'Duty of care'."
+  }
+]
+[
+  {
+    "q": "What is the primary purpose of the DIAMONDS feasibility study?",
+    "a": "The primary purpose of this study is to test the feasibility of the DIAMONDS intervention delivery and the data collection procedures that are planned for a future definitive randomised controlled trial (RCT). The study will inform the refinement of the intervention's content and delivery, as well as research procedures like recruitment and data collection, in preparation for the main trial.",
+    "title": "Primary Purpose of Feasibility Study",
+    "summary": "The main goal of this study is to test the practical aspects of the DIAMONDS intervention and research methods before a larger, definitive trial is launched. It aims to identify any necessary refinements to the intervention or study procedures.",
+    "context": "This is stated clearly in the abstract and the discussion. Feasibility studies are a crucial step in developing complex interventions to ensure that a large-scale trial is practical and well-designed."
   },
   {
-    "q": "How will the statistical analysis of the primary outcome be conducted?",
-    "a": "The primary outcome, HbA1c at 12 months, will be analysed using a mixed-effects regression analysis. The full details of this and other analyses will be specified in a statistical analysis plan (SAP), which will be finalised before data collection ends.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "HbA1c at 12 months post- randomisation will be analysed using a mixed- effects regression analysis, with Hb"
+    "q": "What are the three primary outcomes of this feasibility study?",
+    "a": "The three primary outcomes are all measures of feasibility, designed to assess key processes for the future RCT:\n\n| Primary Outcome | Measurement |\n|---|---|\n| **1. Recruitment rate** | The proportion of the recruitment target (N=30) that is achieved within 5 months from the start of recruitment. |\n| **2. Attrition** | The proportion of missing outcomes data (both physiological and self-reported) at the end of the recruitment period. |\n| **3. Intervention delivery rate** | The proportion of planned intervention sessions that are delivered, measured by completed session logs per participant within 15 weeks of their first session. |",
+    "title": "Primary Feasibility Outcomes",
+    "summary": "The study's three primary outcomes are measures of its practicality: the rate of participant recruitment, the rate of participant drop-out or data loss (attrition), and the rate at which the intervention sessions were successfully delivered.",
+    "context": "These outcomes are explicitly listed in the abstract and the 'Outcomes for objective 1' section. They are quantitative measures that will directly inform the progression criteria for the main trial."
   },
   {
-    "q": "Besides academic journals, what other formats will be used to communicate the trial's results?",
-    "a": "To reach audiences beyond academia, the research team will use several accessible formats. These include plain language summaries, infographics, and audio summaries on the study website, as well as presentations at conferences and knowledge exchange events.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "We will also be producing plain language summaries, infographics and audio summaries on the website, as well as attending conferences and dissemination events."
+    "q": "What is the target sample size for this study and what is the justification for this number?",
+    "a": "The study aims to recruit 30 participants with SMI and type 2 diabetes. This sample size is considered sufficient to collect the necessary feasibility data on the specified outcomes. It is also in line with the median sample size typically used in feasibility studies funded by the UK's National Institute for Health Research (NIHR).",
+    "title": "Sample Size and Justification",
+    "summary": "The target sample size is 30 participants. This number is not for statistical power, but is considered large enough to test the study's procedures and is consistent with standard practice for NIHR-funded feasibility trials.",
+    "context": "The 'Sample size' section provides this number and its justification, citing a paper by Billingham et al. on typical sample sizes for such studies."
   },
   {
-    "q": "What did the paper state about the availability of diabetes self-management programs specifically for people with SMI?",
-    "a": "The paper states that specific self-management programs for people with SMI do not currently exist. This is a significant gap in care, as programs designed for the general population do not address the unique barriers faced by individuals with SMI.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Diabetes self- management programmes designed for the general population do not address these important barriers, [35–38] and programmes specifically for people with SMI do not currently exist."
+    "q": "What are the core components of the DIAMONDS intervention as tested in this study?",
+    "a": "The DIAMONDS intervention is a multi-component, blended-delivery programme delivered over 16 weeks. It includes:\n\n*   **One-to-one Sessions:** Weekly sessions with a trained 'DIAMONDS Coach' to support goal setting and action planning.\n*   **Paper-based Workbook:** A 'DIAMONDS Workbook' to support daily self-management and diabetes education.\n*   **Digital App:** An optional digital app called 'Change One Thing' that supports the workbook.\n*   **Peer-Support Groups:** Optional monthly group sessions with other participants, facilitated by two DIAMONDS Coaches.",
+    "title": "DIAMONDS Intervention Components",
+    "summary": "The intervention consists of four main parts: individual coaching sessions, a paper-based workbook, an optional digital app, and optional monthly peer-support groups. This blended approach is designed to be flexible and supportive.",
+    "context": "These components are described in the abstract and detailed in 'The DIAMONDS intervention' section. Figure 1 also provides a visual overview of the intervention structure."
   },
   {
-    "q": "What is the purpose of the 12-month internal pilot phase of the trial?",
-    "a": "The trial includes a 12-month internal pilot phase primarily to assess the recruitment assumptions made during planning. It also serves to optimise any trial processes that need refinement before the study proceeds at full scale.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The trial includes a 12 month internal pilot phase to assess recruitment assumptions and optimise trial processes..."
+    "q": "What are the specific inclusion criteria for participants in the feasibility study?",
+    "a": "To be included, individuals must meet several criteria:\n\n| Criterion | Requirement |\n|---|---|\n| **Age** | 18 years or older. |\n| **SMI Diagnosis** | Confirmed diagnosis of schizophrenia, bipolar disorder, schizoaffective disorder, or psychosis not otherwise specified. |\n| **T2DM Diagnosis** | Confirmed diagnosis of type 2 diabetes for at least three months. |\n| **Confirmation Source** | Diagnoses must be documented in the patient's medical records in either general practice or secondary care. |",
+    "title": "Inclusion Criteria",
+    "summary": "Eligible participants must be adults (18+) with a confirmed dual diagnosis of a severe mental illness (like schizophrenia or bipolar disorder) and type 2 diabetes. Both conditions must be formally documented in their medical records.",
+    "context": "The 'Study population' section explicitly lists these inclusion criteria, defining the specific patient group for the study."
   },
   {
-    "q": "What happens to the participant's unique trial identification number?",
-    "a": "Each participant is allocated a unique trial identification number at the start of the study. This number, and not their personal details, is used to identify the participant on all documentation and data throughout the study to maintain confidentiality.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Each participant will be allocated a unique trial identification number. This number will be used to identify participants throughout the study."
+    "q": "What conditions would lead to a person being excluded from the study?",
+    "a": "People are excluded from the study if they have:\n\n1.  Cognitive impairment that would prevent participation.\n2.  A diagnosis of gestational diabetes, type 1 diabetes, or other secondary forms of diabetes.\n3.  A lack of capacity to consent to participate, as guided by the 2005 Mental Capacity Act.",
+    "title": "Exclusion Criteria",
+    "summary": "The study excludes individuals with cognitive impairments, those with types of diabetes other than Type 2, and those who lack the capacity to provide informed consent. This ensures participant safety and the relevance of the intervention.",
+    "context": "The 'Exclusion criteria' subsection clearly outlines the conditions that make a person ineligible for the feasibility trial."
   },
   {
-    "q": "Where will data collection appointments take place?",
-    "a": "Data collection appointments are designed to be flexible to accommodate participants' needs. The appointments with the R&D teams will take place either on the premises of the participating NHS Trust or at the participant’s own home.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Data will be collected at baseline, six and 12 months postrandomisation during appointments with the R&D teams at participating sites taking place either on Trust premises or at the participant’s home."
+    "q": "How much earlier do people with Severe Mental Illness (SMI) die compared to the general population, and why?",
+    "a": "People with SMI die 15–20 years earlier than the general population. This significant mortality gap is mainly due to comorbid physical long-term conditions (LTCs), such as diabetes, rather than the mental illness itself.",
+    "title": "SMI Mortality Gap",
+    "summary": "Individuals with SMI have a life expectancy that is 15-20 years shorter than the general population. This is primarily caused by a higher burden of preventable physical illnesses like diabetes.",
+    "context": "This statistic is provided in the 'Introduction' and reiterated in the 'Discussion' to establish the public health importance of the research."
   },
   {
-    "q": "How are the accelerometers used for physical activity measurement blinded?",
-    "a": "The wrist-worn accelerometers are blinded, which means that the participants cannot see or interact with the data being collected during the seven-day wear period. This prevents the act of measurement from influencing the participant's natural physical activity behaviour.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The devices are blinded, that is, participants will not be able to see or interact with their data during the wear period."
+    "q": "What is the purpose of the embedded study on Continuous Glucose Monitors (CGMs)?",
+    "a": "The study includes an embedded evaluation of the acceptability and feasibility of wearing a blinded continuous glucose monitor (the Abbott Freestyle Libre Pro). This is because there is currently no evidence on the use of this technology among people with both diabetes and comorbid SMI. The aim is to address this evidence gap and ensure this population is not left behind in clinical innovations.",
+    "title": "Continuous Glucose Monitor (CGM) Sub-study",
+    "summary": "The study is testing the feasibility and acceptability of using continuous glucose monitors in people with SMI. This is the first time this technology has been formally evaluated in this population, aiming to prevent a widening of health inequalities.",
+    "context": "This is described in detail under 'Objective 5: Acceptability and feasibility of continuous glucose monitors'. It is framed as a novel and important part of the feasibility work."
   },
   {
-    "q": "Will interim analyses of the trial data be conducted?",
-    "a": "No, the protocol explicitly states that no interim analyses will be conducted during the trial. All statistical analyses will be performed after the data collection is complete, as detailed in the statistical analysis plan.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "No interim analyses will be conducted."
+    "q": "What are the 'Red-Amber-Green' stop-go ratings for recruitment progression?",
+    "a": "The study has pre-defined progression criteria for recruitment to determine if it is feasible to proceed to a full RCT.\n\n| Rating | Recruitment target (number of participants) | Interpretation |\n|---|---|---|\n| **Red** | **< 20 participants** | Recruitment is below the minimum target – stop and re-evaluate. |\n| **Amber** | **20 – 25 participants** | Recruitment is acceptable but close to the lower bound – proceed with caution. |\n| **Green** | **26 – 30 participants** | Recruitment meets or exceeds the target – continue as planned. |",
+    "title": "Recruitment Progression Criteria",
+    "summary": "A 'Red-Amber-Green' system will be used to judge the success of recruitment. Achieving fewer than 20 participants would be a 'Red' flag, indicating that the recruitment strategy is not feasible for a larger trial.",
+    "context": "These specific criteria are laid out in the 'Progression criteria' section. This provides a clear, objective benchmark for one of the key feasibility outcomes."
   },
   {
-    "q": "What specific help does the DIAMONDS intervention provide to participants?",
-    "a": "The intervention helps people self-manage diabetes by increasing their knowledge and skills, providing support to increase physical activity and make healthier food choices. It also supports them in managing their diabetes within the context of fluctuating mood and addresses other key problem areas they identify.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "a tailored self- management support intervention to help people with T2DM and SMI self- manage diabetes through: - Increasing knowledge and skills for diabetes self- management. - Providing support to increase their physical activity levels and make healthier food choices."
+    "q": "What different recruitment sources will be used to find participants?",
+    "a": "The study will use multiple methods to recruit participants from various settings:\n\n*   **GP Database Screening:** GPs will search their Quality and Outcomes Framework (QOF) registers for eligible patients.\n*   **Primary Care Referral:** Patients will be given information during their annual health checks.\n*   **Community Mental Health Teams:** Staff will screen caseloads and databases in secondary care.\n*   **Previous Studies:** Researchers will contact people from previous research cohorts who have consented to be re-contacted.\n*   **Third Sector & Service User Groups:** The study will work with local organisations to find interested individuals.",
+    "title": "Recruitment Sources",
+    "summary": "A multi-pronged strategy will be used to recruit participants, involving primary care, secondary mental health services, previous research cohorts, and third-sector organisations. This approach aims to maximize the chances of reaching the target sample size.",
+    "context": "The 'Recruitment sources' section details these different pathways. This demonstrates a comprehensive and practical approach to recruiting a hard-to-reach population."
   },
   {
-    "q": "What is the process if an outcome assessor becomes unblinded?",
-    "a": "The protocol acknowledges that unblinding may happen inadvertently. If a participant reveals their group allocation to an outcome assessor, or if the assessor becomes unblinded for any other reason, this event must be recorded in the outcome assessment case report form (CRF) at that time.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Should a participant inadvertently reveal their allocation to an outcome assessor, or the assessor becomes unblinded for any reason, this will be recorded in the outcome assessment case report form (CRF) at the relevant time."
+    "q": "What is the role of the 'DIAMONDS Coach'?",
+    "a": "The 'DIAMONDS Coach' is a trained healthcare professional with experience in mental health services who delivers the one-to-one intervention sessions. Their role is to support participants in setting goals and making plans to improve self-management, provide information about diabetes, and encourage healthy lifestyle changes. They are trained to use a flexible, person-centred approach, tailoring the intervention to the participant's needs and priorities.",
+    "title": "Role of the DIAMONDS Coach",
+    "summary": "The DIAMONDS Coach is the trained facilitator who delivers the core one-to-one component of the intervention. They work collaboratively with participants to set goals and provide tailored support for diabetes self-management.",
+    "context": "The role and training of the Coach are described in 'The DIAMONDS intervention' section. They are the key personnel responsible for delivering the intervention."
   },
   {
-    "q": "Which research ethics committee provided approval for this study?",
-    "a": "The study protocol and all related documents received ethics approval before the trial commenced. The approval was granted by the West of Scotland Research Ethics Committee 3.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "This study received ethics approval by the West of Scotland Research Ethics Committee 3 (22/WS/0117)."
+    "q": "How will the study assess the acceptability of the DIAMONDS intervention?",
+    "a": "The study will use a parallel mixed-methods approach to evaluate acceptability. Quantitative data will include markers of engagement like the number of completed sessions and dropout rates. Qualitatively, the research team will conduct semi-structured in-depth interviews with up to 15 participants, approximately seven carers, and up to ten DIAMONDS Coaches to explore their experiences and perceptions of the intervention.",
+    "title": "Assessing Intervention Acceptability",
+    "summary": "Intervention acceptability will be assessed using both quantitative data (e.g., session attendance) and qualitative data from interviews with participants, carers, and coaches. This mixed-methods approach will provide a comprehensive understanding of how the intervention was received.",
+    "context": "This is detailed under 'Objective 3: Evaluation of acceptability and feasibility of the DIAMONDS intervention'."
   },
   {
-    "q": "How does the paper describe the interaction between the symptoms and treatments of SMI and physical illness?",
-    "a": "The paper states that the symptoms and pharmacological treatments for SMI and physical illness can interact negatively. This interaction leads to a higher overall illness and treatment burden for individuals with both conditions compared to the general population.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "The symptoms and the pharmacological treatments of SMI and physical illness can negatively interact, leading to higher illness and treatment burden compared with the general population. [9]"
+    "q": "Why does research into diabetes self-management typically exclude people with SMI?",
+    "a": "Research typically excludes people with SMI for several reasons. SMI is characterized by disturbances of thought, perception, affect, and motivation, which may be thought to adversely influence a person's ability to participate in research or engage with an intervention. As a result, diabetes self-management programmes designed for the general population do not address these important barriers.",
+    "title": "Reasons for SMI Exclusion from Research",
+    "summary": "People with SMI are often excluded from diabetes research because the symptoms of their mental illness are thought to interfere with their ability to participate. This has led to a lack of evidence and a failure to adapt standard programmes for their specific needs.",
+    "context": "The 'Introduction' section explains that the unique challenges posed by SMI symptoms are a key reason for their exclusion from general population studies."
   },
   {
-    "q": "Who is responsible for developing the statistical analysis plan (SAP)?",
-    "a": "The statistical analysis plan, which will detail all the analyses to be performed, will be finalised before the end of data collection. The protocol implies this is the responsibility of the trial statisticians, as it is a standard part of their role in a clinical trial.",
-    "title": "DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial",
-    "summary": "This paper outlines the protocol for the DIAMONDS trial, a multicentre, individually randomised controlled trial evaluating a novel, co-designed diabetes self-management program for people with severe mental illness (SMI) and type 2 diabetes. The trial will compare the DIAMONDS intervention, which includes one-to-one coaching and digital/paper-based tools, against treatment as usual. The primary outcome is the difference in glycated haemoglobin (HbA1c) at 12 months, with secondary outcomes covering physical/mental health, and economic and process evaluations also planned.",
-    "context": "Full analyses will be detailed in a statistical analysis plan (SAP), which will be finalised and made available before the end of data collection."
+    "q": "What specific physical health and diabetes measures will be collected at baseline?",
+    "a": "A range of physical and diabetes-related measures are collected at baseline, though some blood tests are excluded for logistical reasons in this feasibility study.\n\n| Category | Measure |\n|---|---|\n| **Glycaemic Control** | HbA1c (blood test) |\n| **Anthropometric** | Height, Weight, BMI, Waist circumference |\n| **Cardiovascular** | Blood pressure, Smoking status |\n| **Diabetes Status** | Date diagnosed, Microvascular/macrovascular complications (from records) |\n| **Diabetes Distress** | Diabetes distress scale (self-report) |\n| **Self-Care** | Summary of Diabetes Self-Care Activities (self-report) |",
+    "title": "Baseline Physical and Diabetes Measures",
+    "summary": "At baseline, the study collects key data including HbA1c, body measurements (height, weight, BMI), blood pressure, and self-report measures of diabetes distress and self-care. This provides a comprehensive picture of the participant's health status at the start of the study.",
+    "context": "Table 1, 'Summary of data collection', provides a complete list of all measures planned for the study, with a column indicating which are collected at baseline."
+  },
+  {
+    "q": "What is the role of the 'DIAMONDS Voice' service user and carer group in this study?",
+    "a": "DIAMONDS Voice is a service-user and carer group that has collaborated closely and continually with the research programme since 2015. For this feasibility study, they contributed critically to the intervention content and the development of the app and workbook. They also reviewed all participant-facing documents (e.g., consent forms, questionnaires) and were consulted on the acceptability of procedures like taking blood and physical measurements.",
+    "title": "Role of DIAMONDS Voice",
+    "summary": "The DIAMONDS Voice group, composed of service users and carers, has been a key partner in the research. They provided critical input on the intervention design, study materials, and the acceptability of research procedures.",
+    "context": "The 'Service-user and carer involvement' section details the extensive and long-term contributions of this group, highlighting the study's commitment to co-production."
+  },
+  {
+    "q": "How is the intervention tailored to the needs of the participant?",
+    "a": "The intervention is designed to be flexible and person-centred. DIAMONDS Coaches are encouraged to adopt this approach, allowing participants to engage with materials at their own pace and in a sequence that matches their personal priorities for self-management. Furthermore, the content of the weekly sessions is not sequential; it is tailored to the participant's needs, meaning 'missed' sessions do not result in the participant missing out on essential content.",
+    "title": "Intervention Tailoring",
+    "summary": "The intervention is tailored through a flexible, person-centred approach led by the DIAMONDS Coach. Participants can work through the materials at their own pace and focus on the self-management areas that are most important to them.",
+    "context": "The person-centred approach is described in 'The DIAMONDS intervention' section. This flexibility is a key feature designed to accommodate the fluctuating nature of SMI."
+  },
+  {
+    "q": "What is the endpoint of the intervention period for each participant?",
+    "a": "The intervention endpoint is at 15 weeks after the participant’s first session with their DIAMONDS Coach. This is a fixed endpoint, regardless of the number of sessions the participant has attended. Participants are informed from the outset that the coached sessions will stop after 15 weeks.",
+    "title": "Intervention Endpoint",
+    "summary": "The formal intervention period ends exactly 15 weeks after a participant's first coaching session. This is a fixed duration, irrespective of how many of the up-to-16 sessions were completed.",
+    "context": "This specific detail is provided in 'The DIAMONDS intervention' section. It clarifies the defined duration of the active support phase."
+  },
+  {
+    "q": "What support is provided to participants in the final month of the intervention?",
+    "a": "During the last month of the intervention, the DIAMONDS Coach works with the participant to set longer-term goals and action plans for self-management. The Coach also helps them to access appropriate and existing support services to implement these plans after the formal intervention period ends.",
+    "title": "End-of-Intervention Support",
+    "summary": "In the final month, the focus shifts to long-term planning. The coach helps the participant set future goals and connects them with ongoing support services in their community to ensure a smooth transition after the intervention.",
+    "context": "This process is described in 'The DIAMONDS intervention' section and demonstrates that the intervention is designed to have a lasting impact beyond the 15-week period."
+  },
+  {
+    "q": "How did the COVID-19 pandemic affect the design of this feasibility study?",
+    "a": "The COVID-19 pandemic reduced capacity in the NHS to support non-COVID clinical research, which limited the scope of the study. In response, the researchers opted for a single-group design, which preserves the ability to test feasibility and acceptability while placing a reduced burden on the NHS. The definitive trial will include an internal pilot to re-check recruitment strategies in a randomised context.",
+    "title": "Impact of COVID-19 on Study Design",
+    "summary": "The COVID-19 pandemic led the researchers to choose a single-group design for the feasibility study instead of a randomised one. This was a pragmatic decision to reduce the burden on the NHS while still allowing for the testing of key procedures.",
+    "context": "The 'COVID-19 contingency planning' section explicitly states this rationale, showing how the study design was adapted in response to external pressures on the healthcare system."
+  },
+  {
+    "q": "What are the five progression criteria for moving from the feasibility study to the main RCT?",
+    "a": "Progression to the main RCT is contingent on achieving five key criteria:\n\n| # | Criterion |\n|---|---|\n| 1 | **Recruitment** | Recruitment of at least 20 participants (the 'Amber' zone). |\n| 2 | **Intervention Delivery** | At least 50% of intervention sessions are delivered to 80% of participants. |\n| 3 | **Coach Training** | Successful development of a coach training package. |\n| 4 | **Fidelity Framework** | Successful development of an intervention fidelity framework. |\n| 5 | **Acceptability** | The intervention is found to be acceptable and feasible to patients and Coaches. |",
+    "title": "Progression Criteria for Main Trial",
+    "summary": "There are five specific criteria that must be met before the main trial can proceed. These relate to successful recruitment, intervention delivery, the development of key materials (training and fidelity), and overall acceptability of the intervention.",
+    "context": "These five points are clearly listed in the 'Progression criteria' section. They serve as the key decision points for the research programme."
+  },
+  {
+    "q": "What theoretical frameworks underpin the development of the DIAMONDS intervention?",
+    "a": "The intervention is based on the Theoretical Domains Framework (TDF) and its extension, the Mechanism of Action (MoA) framework. The research team used these frameworks to systematically review literature and identify MoAs that underpin candidate Behaviour Change Techniques (BCTs) that could be effective for people with SMI.",
+    "title": "Theoretical Underpinnings of the Intervention",
+    "summary": "The intervention was systematically developed using established behaviour change theories, specifically the Theoretical Domains Framework and the Mechanism of Action framework. These guided the selection of evidence-based behaviour change techniques to include in the intervention.",
+    "context": "The 'Introduction' and 'Discussion' sections both reference these frameworks, demonstrating the theory-based approach to the intervention's design."
+  },
+  {
+    "q": "How will the study develop an intervention fidelity framework?",
+    "a": "The fidelity framework will be developed iteratively by adapting tools from previous self-management programmes and using insights from this feasibility study. The process will involve discussions with the study team, analysis of early findings, and review of the Coach training materials. The framework's key components will then be feasibility tested by having trained assessors observe or listen to a sample of up to 10% of coaching sessions to refine the assessment tools.",
+    "title": "Development of the Intervention Fidelity Framework",
+    "summary": "An intervention fidelity framework will be developed by adapting existing tools and refining them based on the experiences in this feasibility study. A key part of the process involves assessors observing or listening to a sample of coaching sessions to test and improve the fidelity measurement tools.",
+    "context": "This is detailed under 'Objective 6: development of the intervention fidelity framework'. This is one of the key objectives and progression criteria for the study."
+  },
+  {
+    "q": "What qualitative analysis approach will be used for the interview data?",
+    "a": "All interview data will be analysed thematically using a Framework approach. This process will be guided by the Theoretical Framework of Acceptability (TFA), which provides a robust, evidence-based structure for evaluating how an intervention is experienced by both users and facilitators. The analysis will also draw on the theoretical foundations of the intervention and findings from systematic reviews.",
+    "title": "Qualitative Analysis Approach",
+    "summary": "Interview data will be analysed using a thematic Framework approach. The analysis will be guided by the Theoretical Framework of Acceptability (TFA) to systematically explore the experiences of participants, carers, and coaches.",
+    "context": "The 'Objective 3 analysis' section outlines this systematic approach to qualitative data analysis, referencing established methods like the Framework approach by Gale et al. and the TFA by Sekhon et al.."
+  },
+  {
+    "q": "What specific data will be collected to assess the feasibility of the Continuous Glucose Monitors (CGMs)?",
+    "a": "Quantitative data will be collected to assess the acceptability of the CGMs. These data points include:\n\n*   Proportion of participants agreeing to wear a sensor.\n*   Average wear-period.\n*   Proportion of participants completing at least 10 days of wear.\n*   Proportion of participants completing at least 5 days of wear.\n*   Number of sensors not returned.\n*   Any adverse events or side effects reported.",
+    "title": "Feasibility Data for CGM Sub-study",
+    "summary": "The study will collect several quantitative metrics to judge the feasibility of using CGMs. These include the proportion of people who agree to wear one, how long they wear it for, and any problems encountered.",
+    "context": "The 'Objective 5 analysis' section lists these specific data points that will be collected to provide a quantitative assessment of CGM acceptability."
+  },
+  {
+    "q": "How will the research team sample participants for the qualitative process evaluation interviews?",
+    "a": "A purposive sample of up to 15 participants will be selected from the pool of those who consented to be contacted for an interview. The sampling strategy will aim to include a range of ages and genders, as well as both 'completers' (those who completed at least 50% of sessions) and 'non-completers' (less than 50%). If possible, the sample will also be stratified by baseline health, comorbidities, and level of engagement with the app and workbook.",
+    "title": "Sampling Strategy for Qualitative Interviews",
+    "summary": "The study will use purposive sampling to select a diverse group of participants for interviews. The goal is to get a mix of people based on demographics and their level of engagement with the intervention, including both those who completed most sessions and those who did not.",
+    "context": "The 'Participants' subsection under 'Objective 3' details this systematic approach to sampling, which is designed to capture a wide range of experiences."
+  },
+  {
+    "q": "What will the exploratory economic analysis in this study evaluate?",
+    "a": "The exploratory economic analysis will evaluate the feasibility of collecting the data needed for a full economic evaluation in the future RCT. It will assess the response rates and item-level missing data for a service use questionnaire. It will also check the accuracy and consistency of responses to determine if the questionnaire needs to be adapted for the main trial.",
+    "title": "Exploratory Economic Analysis",
+    "summary": "This study is not conducting a full economic evaluation, but rather testing the methods for one. It will assess how well the service use questionnaire works in this population to ensure that reliable cost and quality of life data can be collected in the main trial.",
+    "context": "This is described under 'Objective 4: Exploratory Economic Analysis'. It is a preparatory step for the health economics component of the future RCT."
+  },
+  {
+    "q": "How will the training for DIAMONDS Coaches be structured?",
+    "a": "Healthcare staff will be trained to become DIAMONDS Coaches using a specially developed and standardised training programme. The training will be delivered through a combination of methods:\n\n| Training Method | Description |\n|---|---|\n| **Interactive Workshops** | The primary mode of training delivery. |\n| **Training Handbook** | A manual provided to all trainees for reference. |\n| **Online Resources** | Including videos and other online materials to support learning. |\n| **Coach Manual** | A detailed manual for coaches to use when delivering the intervention. |\n| **Mentorship** | Ongoing mentorship and self-reflection will be encouraged by the training team. |",
+    "title": "DIAMONDS Coach Training Structure",
+    "summary": "Coaches will receive standardised training through interactive workshops, supported by a handbook and online resources. They will also receive a detailed Coach Manual to guide intervention delivery and will have access to ongoing mentorship.",
+    "context": "The structure of the training programme is outlined in 'The DIAMONDS intervention' section."
+  },
+  {
+    "q": "What are the key topics covered in the DIAMONDS intervention content?",
+    "a": "The intervention is a tailored self-management support programme that aims to help people with SMI self-manage their diabetes by focusing on several key areas:\n\n*   Increasing knowledge and skills for type 2 diabetes self-management.\n*   Providing support to increase physical activity and make healthier food choices.\n*   Identifying and addressing barriers to taking medications.\n*   Identifying and addressing sleep problems.\n*   Supporting participants to manage their diabetes within the context of fluctuating and low mood.\n*   Facilitating peer support.",
+    "title": "Key Intervention Topics",
+    "summary": "The intervention covers a range of topics crucial for diabetes self-management, including diet, exercise, medication, and sleep. Uniquely, it also addresses how to manage diabetes in the context of fluctuating mental health and aims to facilitate peer support.",
+    "context": "These content areas are explicitly listed in 'The DIAMONDS intervention' section."
+  },
+  {
+    "q": "What is the study's protocol for managing the risk of self-harm or suicide?",
+    "a": "If any risk of self-harm or suicide is identified during an interview, the researcher conducting the interview will follow the DIAMONDS Self-harm/Suicide Risk Protocol. While the specifics of the protocol are not detailed in the paper, this indicates a formal procedure is in place to manage such risks safely and ethically.",
+    "title": "Self-harm/Suicide Risk Protocol",
+    "summary": "The study has a formal protocol in place to manage any risk of self-harm or suicide identified during interviews. This is a critical safety measure when conducting research with a vulnerable population.",
+    "context": "This is mentioned in the 'Participants' subsection of 'Objective 3'. It is an essential part of the study's ethical conduct."
+  },
+  {
+    "q": "How will the findings of this feasibility study be disseminated?",
+    "a": "The dissemination plan involves working with the DIAMONDS Voice group to communicate key milestones on social media and the project website. Members of the group will also be involved in academic outputs like journal publications and conference presentations. Findings will also be shared with regional, national, and international networks via the DIAMONDS newsletter.",
+    "title": "Dissemination Plan",
+    "summary": "The study has a multi-faceted dissemination plan that includes using social media, the project website, and academic channels. The patient and public involvement group, DIAMONDS Voice, will be actively involved in all aspects of sharing the findings.",
+    "context": "The 'Dissemination plan' section outlines these activities, showing a commitment to broad and inclusive dissemination."
+  },
+  {
+    "q": "How will the study handle consent for participants recruited from different sources?",
+    "a": "The study uses a staged consent procedure. All potential participants first receive a brief study information leaflet, followed by a full pack with an invitation letter, information sheet, and consent form. A key step is obtaining 'Consent-to-Contact' (CTC) before the research team directly sends out study information. This CTC process is used for participants identified via GP databases, primary care health checks, and third-sector groups.",
+    "title": "Consent Procedures",
+    "summary": "The study uses a staged consent process that includes obtaining initial 'Consent-to-Contact' before the main research team approaches potential participants. This ensures that individuals have actively agreed to be contacted about the study.",
+    "context": "The 'Service user recruitment and consent procedures' and 'Recruitment sources' sections describe this careful, multi-step approach to obtaining informed consent."
+  },
+  {
+    "q": "What is the duration of the one-to-one coaching sessions?",
+    "a": "The duration of the sessions is flexible to meet participant needs. The first session is planned to last between 60 and 90 minutes. Follow-up sessions are planned to last between 30 and 60 minutes, depending on the needs and preferences of the participant.",
+    "title": "Duration of Coaching Sessions",
+    "summary": "The first coaching session is longer, lasting 60-90 minutes, while subsequent sessions are shorter, ranging from 30 to 60 minutes. The length of follow-up sessions is flexible to accommodate individual participant needs.",
+    "context": "This information is provided in 'The DIAMONDS intervention' section."
+  },
+  {
+    "q": "What is the structure of the monthly peer-support group sessions?",
+    "a": "The optional monthly group sessions are designed to facilitate peer-to-peer support. Their structure is as follows:\n\n| Feature | Description |\n|---|---|\n| **Facilitation** | Provided by two DIAMONDS Coaches. |\n| **Location** | Held in a community-based venue (e.g., local town hall, community hub). |\n| **Timing** | Held in the afternoons for 90 minutes. |\n| **Size** | Attended by six to ten participants. |\n| **Catering** | A healthy lunch is provided at the start of each session. |",
+    "title": "Peer-Support Group Structure",
+    "summary": "The optional monthly peer-support groups are 90-minute sessions held in the community for 6-10 participants, facilitated by two coaches. A healthy lunch is provided, and the primary aim is to foster peer support.",
+    "context": "The details of the group sessions are outlined at the end of 'The DIAMONDS intervention' section."
+  },
+  {
+    "q": "Which ethical body provided approval for this study?",
+    "a": "Ethical approval was obtained from the Research Ethics Committee Leeds West (reference: 21/YH/0059).",
+    "title": "Ethical Approval",
+    "summary": "The study received formal ethical approval from the Research Ethics Committee Leeds West. This is a mandatory step for any research involving human participants in the UK.",
+    "context": "This is stated in the 'Material and methods' section, demonstrating that the study has undergone appropriate ethical review."
+  },
+  {
+    "q": "What elements will the intervention fidelity framework measure?",
+    "a": "The intervention fidelity framework will consist of elements to measure five key aspects of the intervention's delivery and receipt:\n\n1.  **Adherence:** Whether the intended content (including BCTs) was delivered.\n2.  **Dose:** The number of sessions delivered.\n3.  **Quality of delivery:** The manner in which the coach delivers the programme.\n4.  **Duration:** Whether sessions were delivered within the estimated time.\n5.  **Participant responsiveness:** Whether the intervention was understood and 'received' by participants.",
+    "title": "Elements of the Intervention Fidelity Framework",
+    "summary": "The fidelity framework will measure five key things: adherence to content, dose (number of sessions), quality of delivery, duration of sessions, and how participants responded to the intervention. This provides a comprehensive assessment of how the intervention was implemented.",
+    "context": "These five elements are explicitly listed under 'Objective 6'. Assessing fidelity is crucial for understanding the results of a trial."
+  },
+  {
+    "q": "How will 'participant responsiveness' be measured as part of the fidelity assessment?",
+    "a": "Participant responsiveness, or how the intervention was 'received', will be measured via the process evaluation's qualitative interviews. This will include looking at specific determinants of self-management, such as whether the participant engaged in writing their own action plan and what cognitive strategies and behavioural skills they used.",
+    "title": "Measuring Participant Responsiveness",
+    "summary": "The study will measure how participants responded to the intervention by analysing their qualitative interviews. Researchers will look for evidence of engagement, such as active participation in action planning and the use of new self-management skills.",
+    "context": "This is explained at the end of the 'Objective 6' section. It shows how the qualitative data will be used to inform the fidelity assessment."
+  },
+  {
+    "q": "Why was a blinded, rather than unblinded, continuous glucose monitor used in the study?",
+    "a": "The research team considered using unblinded glucose sensors, but concerns were raised over the potential for anxiety related to the glucose readings. Therefore, it was decided to use a blinded sensor in the first instance to test the feasibility of wearing the device without introducing the additional psychological variable of seeing real-time glucose data.",
+    "title": "Rationale for Using a Blinded CGM",
+    "summary": "A blinded continuous glucose monitor was chosen for the feasibility study to avoid causing potential anxiety for participants. The primary goal was to test the acceptability of wearing the device itself, without the complication of interpreting real-time blood sugar readings.",
+    "context": "The rationale for this decision is explained in the 'Objective 5' section. It reflects a careful, safety-conscious approach to introducing new technology to a vulnerable population."
+  },
+  {
+    "q": "What is the study's registered trial number?",
+    "a": "The study was prospectively registered with the ISRCTN registry. Its registration number is ISRCTN15328700, registered on 12th March 2021.",
+    "title": "Trial Registration Number",
+    "summary": "The feasibility study is publicly registered under the number ISRCTN15328700. This prospective registration is a standard practice that promotes transparency in clinical research.",
+    "context": "The registration number is provided at the end of the abstract."
+  },
+  {
+    "q": "What data will be collected from the 'Change One Thing' app?",
+    "a": "User data will be collected directly from within the app throughout the intervention period. Information about Mechanisms of Action (MoA) will also be requested from participants via the app on a monthly basis, in addition to being collected at the main follow-up assessment.",
+    "title": "Data Collection from the App",
+    "summary": "The 'Change One Thing' app will collect data on user engagement throughout the study. It will also be used to collect data on behaviour change mechanisms from participants on a monthly basis.",
+    "context": "This is noted in Table 1. This automated data collection provides another source of information for the process evaluation."
+  },
+  {
+    "q": "For logistical reasons, which two blood tests planned for the main RCT were not collected in this feasibility study?",
+    "a": "For logistical reasons, it was not possible to collect blood samples for haemoglobin and cholesterol as part of this feasibility study. The feasibility of conducting blood tests in general is being tested through the collection of HbA1c at baseline.",
+    "title": "Excluded Blood Tests",
+    "summary": "The feasibility study did not collect data on haemoglobin or cholesterol due to logistical constraints. However, it did test the feasibility of the blood draw process itself by collecting samples for HbA1c.",
+    "context": "This is stated in footnote 'a' of Table 1. It is a pragmatic adaptation for a feasibility study."
+  },
+  {
+    "q": "How will the feasibility of quantitative data collection methods be assessed?",
+    "a": "The feasibility of quantitative data collection will be assessed by recording several key metrics:\n\n*   The proportion of missing data from questionnaires and case report forms.\n*   The proportion of missing data from medical records.\n*   The proportion of participants declining any of the physical measures (height, weight, blood test).\n*   The proportion of participants declining to wear the accelerometers.\n*   Information about any data lost due to processing issues (e.g., blood results or accelerometer data).",
+    "title": "Assessing Feasibility of Data Collection",
+    "summary": "The study will judge the feasibility of its data collection methods by carefully tracking missing data. This includes recording how many people declined specific measures, how many questions were left blank, and if any data was lost during processing.",
+    "context": "The 'Objective 1 and 2 analyses' section details this process. It is a core part of testing the study procedures for the main trial."
+  },
+  {
+    "q": "What is the CONSORT diagram used for in this study protocol?",
+    "a": "A Consolidated Standards for Reporting Trials (CONSORT) diagram will be used to display the flow of participants through the study. This includes the number of individuals approached, enrolled, completing the intervention, and providing outcome data, as well as withdrawals and reasons for withdrawal.",
+    "title": "Use of CONSORT Diagram",
+    "summary": "A CONSORT flow diagram will be used to visually track participants throughout the study. This standardized diagram will show how many people were involved at each stage, from screening to final data collection.",
+    "context": "The protocol states this in the 'Objective 1 and 2 analyses' section. A CONSORT diagram is a standard and essential component of reporting trial results."
+  },
+  {
+    "q": "What is the definition of a 'completer' versus a 'non-completer' for the qualitative sampling?",
+    "a": "For the purpose of purposive sampling for the qualitative interviews, the study defines participants based on their session attendance:\n\n| Category | Definition |\n|---|---|\n| **Completer** | A participant who has completed at least 50% of the intervention sessions within 16 weeks. |\n| **Non-completer** | A participant who has completed less than 50% of the intervention sessions within 16 weeks. |",
+    "title": "Definition of Completer/Non-Completer",
+    "summary": "The study uses a 50% session attendance threshold to define 'completers' and 'non-completers'. This distinction is used to ensure the qualitative interviews capture the experiences of people with different levels of engagement.",
+    "context": "This operational definition is provided in the 'Participants' subsection under 'Objective 3'."
+  },
+  {
+    "q": "How will dyadic (patient-carer) interviews be handled?",
+    "a": "The default plan is to interview participants and carers alone to generate separate accounts. However, the protocol acknowledges that patients and carers may wish to be interviewed together. In these cases, interviews will be run in a dyadic fashion. While this can impose limits on responses, the authors note it can also offer benefits similar to focus groups by allowing participants to co-construct their narratives.",
+    "title": "Handling of Dyadic Interviews",
+    "summary": "While separate interviews are preferred, the study allows for joint patient-carer interviews if requested. The protocol acknowledges the potential limitations but also the benefits of this dyadic approach, such as the co-construction of experiences.",
+    "context": "This methodological flexibility is described in the 'Carers' subsection under 'Objective 3'."
+  },
+  {
+    "q": "What is the study's plan for data analysis of the primary feasibility outcomes?",
+    "a": "Data for the primary feasibility outcomes (recruitment, attrition, delivery) will be summarised descriptively. This means using means and standard deviations (or medians and interquartile ranges) for continuous data (like number of sessions attended) and using frequency and proportion for categorical data (like the recruitment rate). There will be no formal statistical hypothesis testing.",
+    "title": "Analysis of Primary Feasibility Outcomes",
+    "summary": "The analysis of the primary outcomes will be descriptive. The results will be presented using summary statistics like means, medians, and percentages, rather than formal statistical tests, which is appropriate for a feasibility study.",
+    "context": "The 'Objective 1 and 2 analyses' section specifies that the analysis will be descriptive, which is standard for a study of this nature."
+  },
+  {
+    "q": "What previous successful trials involving people with SMI informed the recruitment methods for this study?",
+    "a": "The recruitment methods used in this study were successfully deployed in three previous large-scale trials involving people with SMI:\n\n1.  **SCIMITAR+** (a smoking cessation trial)\n2.  **STEPWISE** (a lifestyle education trial for weight management)\n3.  **PRIMROSE** (a trial for reducing cardiovascular risk)",
+    "title": "Informing Recruitment Methods",
+    "summary": "The recruitment strategy for the DIAMONDS feasibility study is based on methods that proved successful in three prior major UK trials (SCIMITAR+, STEPWISE, and PRIMROSE). This demonstrates that the approach is built on a strong evidence base of what works in this population.",
+    "context": "The 'Service user recruitment and consent procedures' section explicitly cites these three trials as the source of the recruitment methodology."
+  },
+  {
+    "q": "What happens if a participant identified outside of secondary care wants to join the study?",
+    "a": "Potential participants identified outside of secondary care (e.g., from third-sector groups) will be consented by a member of the Research & Development (R&D) team of the NHS trust whose care they are under. A key eligibility criterion is that only those under the care of a participating NHS trust will be eligible to join the study.",
+    "title": "Eligibility for Non-Secondary Care Recruits",
+    "summary": "Even if someone is recruited through a community group, they must still be under the care of one of the participating NHS trusts to be eligible for the study. Their consent would be taken by the R&D team from that specific trust.",
+    "context": "This procedural detail is explained at the end of the 'Recruitment sources' section. It ensures that all participants are linked to a participating clinical service."
+  },
+  {
+    "q": "How is the study team's independence from employers ensured during interviews with DIAMONDS Coaches?",
+    "a": "To avoid any potential coercion from employers or co-workers, the research team, who are independent of the coaches' employers (the NHS trusts), will be the ones to approach the coaches to participate in the interviews. This separation is designed to allow coaches to speak more freely about their experiences.",
+    "title": "Ensuring Independence in Coach Interviews",
+    "summary": "To prevent potential bias or coercion, the university-based research team, who are independent of the NHS employers, will conduct the interviews with the DIAMONDS Coaches. This is an ethical safeguard to encourage honest feedback.",
+    "context": "This procedure is outlined in the 'DIAMONDS Coaches' subsection under 'Objective 3'."
+  },
+  {
+    "q": "What self-report measures of mental health will be collected at baseline?",
+    "a": "The study will collect data on two self-report measures of mental health at baseline:\n\n| Measure | Description |\n|---|---|\n| **Brief Psychiatric Rating Scale (BPRS)** | A widely used scale for rating the severity of psychiatric symptoms. |\n| **Patient Health Questionnaire-9 (PHQ-9)** | A standard tool for screening, diagnosing, and monitoring the severity of depression. |",
+    "title": "Baseline Mental Health Measures",
+    "summary": "Two standard self-report questionnaires will be used to assess mental health at baseline: the Brief Psychiatric Rating Scale (BPRS) for general psychiatric symptoms and the PHQ-9 for symptoms of depression.",
+    "context": "These two measures are listed in Table 1 under the 'Mental health' category."
+  },
+  {
+    "q": "What is the funding source for the DIAMONDS programme?",
+    "a": "The project is funded by the National Institute for Health Research (NIHR) Programme for Applied Research (project number RP-PG-1016-20003). The paper includes a disclaimer that the views expressed are those of the authors and not necessarily the NIHR or the Department of Health.",
+    "title": "Funding Source",
+    "summary": "The DIAMONDS programme is funded by a Programme Grant for Applied Research from the UK's National Institute for Health Research (NIHR). This is a significant, long-term funding award for a programme of related research studies.",
+    "context": "The 'Funding/role of the funder' section provides this information."
+  },
+  {
+    "q": "How will the analysis of the CGM interview data be informed?",
+    "a": "The framework analysis of the CGM interview data will be informed by two main sources:\n\n1.  **The Theoretical Framework of Acceptability (TFA):** This will be used to guide the analysis, similar to the main process evaluation interviews.\n2.  **A Systematic Review:** The coding will be further informed by findings from a systematic review on the acceptability of continuous glucose monitors.\n3.  **DIAMONDS Voice:** The most salient points from the review will be identified in collaboration with the DIAMONDS Voice service user group. ",
+    "title": "Informing CGM Interview Analysis",
+    "summary": "The analysis of interviews about the glucose monitors will be guided by the Theoretical Framework of Acceptability and the findings of a systematic review. The patient and public involvement group, DIAMONDS Voice, will help identify the most important points from the review to focus on.",
+    "context": "This multi-faceted approach to analysis is described in the 'Objective 5 analysis' section."
+  },
+  {
+    "q": "What previous work was done to develop the DIAMONDS intervention before this feasibility study?",
+    "a": "The intervention was developed through an extensive, multi-stage process before this feasibility study began. This included:\n\n1.  **Systematic Literature Reviews:** To identify Mechanisms of Action (MoA) and Behaviour Change Techniques (BCTs).\n2.  **Qualitative Research (DIAMONDS Quest):** In-depth interviews with people with SMI and LTCs, their carers, and health professionals.\n3.  **Consensus Exercise:** To integrate review findings and qualitative data to select the most promising MoA-BCT links.\n4.  **Co-design Study:** Working in partnership with service users, carers, and staff to co-design and test prototypes of the intervention.",
+    "title": "Pre-Feasibility Intervention Development",
+    "summary": "The intervention underwent a rigorous development process before this feasibility trial. This included systematic reviews, in-depth qualitative research, a consensus exercise, and a co-design study with stakeholders to create and test prototypes.",
+    "context": "The 'Introduction' section details this extensive preparatory work, showing that the intervention being tested is the result of a long-term, evidence-based, co-design process."
+  },
+  {
+    "q": "What is the 'Change One Thing' app?",
+    "a": "The 'Change One Thing' app is an optional digital application that participants in the intervention group can use. It is designed to support the daily use of the paper-based 'DIAMONDS Workbook' to help with self-management.",
+    "title": "'Change One Thing' Application",
+    "summary": "The 'Change One Thing' app is a digital tool created for the DIAMONDS intervention. It is an optional component designed to supplement the core workbook and coaching sessions.",
+    "context": "The app is mentioned in 'The DIAMONDS intervention' section. Offering it as an optional tool makes the intervention more flexible and accommodates different preferences for digital technology."
+  },
+  {
+    "q": "What is the rationale for the single-group design of this study?",
+    "a": "The single-group design was chosen primarily due to the COVID-19 pandemic, which reduced NHS capacity for research. This design allows for testing the feasibility of the intervention and study procedures with a reduced burden on the NHS. The protocol notes that there is already strong evidence supporting the feasibility of *randomising* individuals with SMI to trials, so testing that specific element was a lower priority for this study.",
+    "title": "Rationale for Single-Group Design",
+    "summary": "A single-group design was chosen as a pragmatic response to the COVID-19 pandemic to reduce the burden on the NHS. The researchers felt confident in their ability to randomise patients in a future trial based on previous studies, so the priority was to test the intervention itself.",
+    "context": "The 'COVID-19 contingency planning' section provides a clear and detailed rationale for this important design choice."
+  },
+  {
+    "q": "How will the study ensure the quality of consent for people with SMI?",
+    "a": "The study takes several steps to ensure high-quality, informed consent. It uses a staged consent procedure with multiple opportunities for potential participants to ask questions. All participant-facing documents were co-produced with the DIAMONDS Voice service user group. Crucially, the person taking consent will have specific training and competence in assessing capacity and taking consent in people with SMI.",
+    "title": "Ensuring Quality of Consent",
+    "summary": "The study ensures high-quality consent through a multi-step process, co-designed materials, and the use of staff specially trained in taking consent from people with SMI. This reflects best practice for research with this population.",
+    "context": "These measures are detailed across the 'Service user recruitment and consent procedures' and 'Recruitment sources' sections."
+  },
+  {
+    "q": "What is the primary method for delivering the one-to-one coaching sessions?",
+    "a": "Ideally, all sessions will be delivered face-to-face. However, the protocol allows for flexibility. Sessions may be delivered by telephone or video call if the participant expresses a preference for this, or if ongoing COVID-19 restrictions necessitate remote delivery.",
+    "title": "Primary Delivery Method for Coaching",
+    "summary": "The preferred method for coaching sessions is face-to-face. However, the study design is flexible, allowing for remote delivery via phone or video call to accommodate participant preference or public health restrictions.",
+    "context": "This flexibility is described in 'The DIAMONDS intervention' section."
+  },
+  {
+    "q": "What is the study's registration number and date?",
+    "a": "The study was prospectively registered: ISRCTN15328700 (12th March 2021).",
+    "title": "Study Registration Details",
+    "summary": "The feasibility study is publicly registered under ISRCTN15328700, with a registration date of March 12, 2021. This ensures transparency in the study's conduct and reporting.",
+    "context": "This information is provided at the end of the abstract."
+  },
+  {
+    "q": "What health economic outcomes will be collected?",
+    "a": "Two main types of health economic data will be collected to test feasibility for the main RCT:\n\n| Data Type | Measure |\n|---|---|\n| **Health-related quality of life** | The EQ-5D-5L questionnaire. |\n| **Health resource use** | A service use questionnaire and data from medical records. |",
+    "title": "Health Economic Outcomes",
+    "summary": "The study will collect data on health-related quality of life using the EQ-5D-5L and data on healthcare resource use from questionnaires and medical records. This is to test the feasibility of collecting these data for the main trial's cost-effectiveness analysis.",
+    "context": "These outcomes are listed in Table 1 and further described in the 'Exploratory Economic Analysis' section."
+  },
+  {
+    "q": "How will the research team analyse the data from the CGM sensors?",
+    "a": "The data collected by the CGM sensors will be used to produce ambulatory glucose profiles for each participant. In line with international guidance, the analysis will focus on key metrics such as:\n\n*   Time-in-range\n*   Glycaemic variability (measured as the coefficient of variation)\n*   Hypoglycaemic exposure\n\nThese data will be summarised descriptively without formal statistical analysis due to the small sample size.",
+    "title": "Analysis of CGM Sensor Data",
+    "summary": "Data from the glucose sensors will be analysed to create individual glucose profiles. The analysis will focus on standard metrics like time-in-range and glycaemic variability, and the results will be summarised descriptively.",
+    "context": "The 'Objective 5 analysis' section details this plan, referencing international consensus guidelines for CGM data interpretation."
+  },
+  {
+    "q": "When did recruitment for the feasibility study start?",
+    "a": "Recruitment for the feasibility study started in July 2021.",
+    "title": "Recruitment Start Date",
+    "summary": "Participant recruitment for this feasibility study began in July 2021.",
+    "context": "This specific date is provided at the end of the abstract."
+  },
+  {
+    "q": "What is the full title of this study protocol paper?",
+    "a": "The full title is: 'The DIAMONDS intervention to support self-management of type 2 diabetes in people with severe mental illness: Study protocol for a single-group feasibility study'.",
+    "title": "Full Paper Title",
+    "summary": "The paper's full title clearly identifies it as a study protocol for a single-group feasibility study of the DIAMONDS intervention. The intervention is aimed at supporting diabetes self-management for people with severe mental illness.",
+    "context": "This is the title provided at the beginning of the document."
+  }
+]
+[
+  {
+    "q": "What was the primary objective of the study by Carswell et al.?",
+    "a": "The primary objective was to combine theory, empirical evidence, and co-design approaches to develop a self-management intervention for people with Severe Mental Illness (SMI) and coexisting type 2 diabetes. The goal was to create a program that addresses the unique needs of people living with both conditions, including options for both digital and paper-based delivery.",
+    "title": "Primary Study Objective",
+    "summary": "The study aimed to develop a new diabetes self-management intervention specifically for people with severe mental illness. The development process used a multi-faceted approach, combining behavioural theory, existing research evidence, and a co-design process with stakeholders.",
+    "context": "This objective is stated in the abstract and the 'Goal of This Study' section. It establishes the core purpose of the research, which was to create a bespoke intervention rather than adapt an existing one."
+  },
+  {
+    "q": "What four-step process was used to develop the DIAMONDS intervention?",
+    "a": "The intervention was developed using a structured, four-step process that integrated theory, evidence, and stakeholder input:\n\n| Step | Description |\n|---|---|\n| **Step 1** | Prioritised Mechanisms of Action (MoAs) and Behaviour Change Techniques (BCTs) using findings from systematic reviews and primary qualitative research. |\n| **Step 2** | Used an expert consensus workshop and surveys with stakeholders to agree on a definitive list of MoAs and BCTs for the intervention. |\n| **Step 3** | Developed animated 'trigger films' based on qualitative research to generate discussion and illustrate the lived experiences of people with SMI and diabetes. |\n| **Step 4** | Conducted a series of structured co-design workshops with service users, carers, and healthcare professionals to inform the development of the intervention materials. |",
+    "title": "Four-Step Intervention Development Process",
+    "summary": "The intervention was created through a rigorous four-step process. This involved identifying key behaviour change components from evidence, gaining expert consensus, creating animated films to prompt discussion, and finally, co-designing the intervention with stakeholders.",
+    "context": "This process is outlined in the abstract and the 'Methods' section, and is visually represented in Figure 1. It demonstrates a systematic and multi-faceted approach to developing a complex intervention."
+  },
+  {
+    "q": "What are the three core components of the final DIAMONDS intervention?",
+    "a": "Upon completion of the co-design process, the final DIAMONDS intervention was developed with three core components to support self-management:\n\n1.  **A digital app:** An application called 'Change One Thing' for smartphones.\n2.  **A paper-based workbook:** An alternative to the app, containing the same content and functions to avoid digital exclusion.\n3.  **One-to-one coaching:** Weekly sessions with a trained 'DIAMONDS Coach' to provide tailored, person-centred support.\n\nOptional in-person monthly group sessions are also offered.",
+    "title": "Core Intervention Components",
+    "summary": "The final DIAMONDS intervention is a blended program consisting of three main parts: a digital app, a corresponding paper-based workbook, and one-to-one sessions with a trained coach. This design offers flexibility and ensures accessibility for all participants.",
+    "context": "These components are described in the 'Results' and 'Intervention Overview and Structure' sections. They are the tangible outputs of the entire four-step development process."
+  },
+  {
+    "q": "How much shorter is the life expectancy for people with Severe Mental Illness (SMI) compared to the general population?",
+    "a": "The life expectancy for people with SMI is substantially reduced by 15 to 20 years compared to the general population. This is primarily due to the higher prevalence of physical long-term conditions like type 2 diabetes, rather than the mental illness itself.",
+    "title": "SMI and Life Expectancy Gap",
+    "summary": "People with severe mental illness die, on average, 15 to 20 years earlier than the general population. This stark health inequality is driven mainly by a higher rate of co-existing physical health problems.",
+    "context": "This statistic is stated in the 'Introduction' to establish the scale of the health inequality problem that the DIAMONDS intervention aims to address. It provides the core rationale for the research."
+  },
+  {
+    "q": "What theoretical framework was used to structure the intervention development process?",
+    "a": "The intervention development process was structured around understanding the Mechanisms of Action (MoAs) for self-management behaviours. MoAs are theoretical constructs that explain how specific Behaviour Change Techniques (BCTs) affect self-management. This approach allowed the team to link determinants of behaviour to specific intervention components in a systematic way.",
+    "title": "Theoretical Framework for Development",
+    "summary": "The development process was underpinned by the Mechanism of Action (MoA) framework. This theory-based approach allowed researchers to systematically link the identified barriers and facilitators of self-management to specific, evidence-based Behaviour Change Techniques (BCTs).",
+    "context": "The use of the MoA framework is explained in the 'Theoretical Framework' section and reiterated in the 'Discussion'. It highlights the evidence-based and theory-driven nature of the intervention's design."
+  },
+  {
+    "q": "Who are 'DIAMONDS Voice' and what was their role in this study?",
+    "a": "DIAMONDS Voice is a service user and carer group that has contributed to the DIAMONDS research programme since 2015. In this specific co-design study, their role was extensive. They contributed to the study protocol, participated in expert consensus surveys and co-design workshops, were involved in synthesis sessions, and helped design the final intervention materials.",
+    "title": "Role of the DIAMONDS Voice Group",
+    "summary": "DIAMONDS Voice is the patient and public involvement (PPI) group for the research programme, made up of service users and carers. They were integral partners in this study, contributing to all stages from protocol development to the design of the final intervention materials.",
+    "context": "The 'Patient and Public Involvement' section details the crucial and long-standing role of this group. Their involvement ensures the intervention is grounded in the lived experiences and priorities of its end users."
+  },
+  {
+    "q": "What were the key findings from the preparatory research workshops before the main co-design process began?",
+    "a": "The two preparatory intervention planning workshops with clinicians and researchers identified several key requirements for an intervention for people with SMI:\n\n| Area | Key Finding/Recommendation |\n|---|---|\n| **Educational Content** | Any intervention should cover the 7 main areas of self-management from the American Association of Diabetes Educators (AADE7). |\n| **Support Structure** | There is a specific need for additional one-to-one support, which is often lacking in standard diabetes education programs. |\n| **Delivery Personnel** | It is feasible to train people working in mental health services to deliver a tailored intervention, but they would require specific diabetes training. |\n| **Digital Technology** | There were mixed opinions on the use of digital tech, indicating a need for non-digital options. |",
+    "title": "Findings from Preparatory Workshops",
+    "summary": "Before the main co-design process, preparatory workshops established that a new intervention would need to cover core diabetes topics, provide one-to-one support, and be deliverable by trained mental health staff. They also highlighted the need for non-digital options due to concerns about digital exclusion.",
+    "context": "These findings are detailed in the 'Preparatory Research' section. They formed the foundational 'design principles' that were carried forward into the four-step co-design process."
+  },
+  {
+    "q": "What were the eligibility criteria for service user participants in the co-design workshops?",
+    "a": "To be eligible to participate as a service user in the co-design workshops, individuals had to have coexisting severe mental illness (SMI) and type 2 diabetes. People were excluded if they were currently on an acute psychiatric ward, lacked the capacity to participate, had a recent relapse of their SMI, or had a diagnosis of gestational diabetes only.",
+    "title": "Eligibility for Co-design Service Users",
+    "summary": "Service users participating in the co-design workshops needed to have a dual diagnosis of SMI and type 2 diabetes. Exclusion criteria were in place to ensure participants were well enough to take part and to ensure the focus remained on type 2 diabetes.",
+    "context": "These criteria are listed in Textbox 1. They define the specific lived experience perspective that was sought for the co-design process."
+  },
+  {
+    "q": "How many people were recruited for Stage 4 (co-design workshops) and how many were unable to attend?",
+    "a": "Overall, 24 people were recruited for Stage 4 of the study. Of these, 8 people (33%) provided consent but were unable to attend any of the workshops. The majority of non-attenders (7 out of 8) were healthcare professionals. The final number of attendees across the workshops was 16.",
+    "title": "Co-design Workshop Recruitment and Attendance",
+    "summary": "A total of 24 people were recruited for the co-design workshops, but 8 of them were ultimately unable to attend any sessions. This highlights the challenge of involving stakeholders, particularly busy healthcare professionals, in intensive co-design processes.",
+    "context": "This recruitment data is provided in the 'Co-design Participants' section. The breakdown of attendees for each workshop is further detailed in Table 3."
+  },
+  {
+    "q": "What was the purpose of the 'trigger films' developed in Stage 3?",
+    "a": "The trigger films were animated shorts designed to generate discussion on the topic of managing diabetes with SMI. They were based on key themes from qualitative research about the experiences of people with coexisting conditions. The films presented characters and self-management scenarios to highlight the specific difficulties this population faces, and were then used as a catalyst for discussion in the Stage 4 co-design workshops.",
+    "title": "Purpose of Trigger Films",
+    "summary": "Animated 'trigger films' were created to spark discussion during the co-design workshops. These short films depicted real-life challenges faced by people with SMI and diabetes, acting as a prompt to help participants share their own experiences and ideas.",
+    "context": "The development and use of these films are described in the 'Stage 3: Development of Trigger Films' section. They are an example of an experience-based co-design method."
+  },
+  {
+    "q": "What was the 'wall of frustration' activity used for during the Discovery Day workshop?",
+    "a": "The 'wall of frustration' was an activity designed to address the barriers to using digital technology for self-management. Participants were asked to write down their frustrations with digital tech on Post-it notes and place them on a poster that already included quotes about digital experiences from previous qualitative research. This exercise served to validate participants' negative experiences and surface key issues to be addressed in the intervention design.",
+    "title": "'Wall of Frustration' Activity",
+    "summary": "The 'wall of frustration' was an interactive exercise used to capture participants' negative experiences and frustrations with digital technology. This helped the design team understand the key barriers that the digital components of the intervention would need to overcome.",
+    "context": "This activity is described in the 'Discovery Day Workshop' section. It was part of the initial discovery phase to understand user needs and challenges."
+  },
+  {
+    "q": "What were the five self-management behaviours prioritized by participants in Workshop 1?",
+    "a": "In Workshop 1, a group of service users and informal caregivers was asked to rank five self-management behaviours by priority. The top two priorities for most participants were medication and managing sleep.\n\n| Rank | Self-Management Behaviour |\n|---|---|\n| **1** | **Medication** |\n| **2** | **Managing sleep** |\n| 3 | Healthy eating |\n| 4 | Physical activity/exercise |\n| 5 | Stress management/emotion/mood |",
+    "title": "Prioritized Self-Management Behaviours",
+    "summary": "During the first co-design workshop, participants identified taking medication and managing sleep as their top two priorities for self-management. This feedback directly influenced the content and focus of the final intervention materials.",
+    "context": "This ranking exercise is described under 'Workshop 1'. The results show a potential disconnect from clinical priorities (like diet and exercise) and highlight the importance of addressing the issues most salient to service users."
+  },
+  {
+    "q": "How many Behaviour Change Techniques (BCTs) were ultimately included in the final intervention?",
+    "a": "Following the prioritization process in Stage 2, which involved surveys, preparatory work, expert consultation, and PPI, the DIAMONDS research team selected 22 BCTs to be included in the intervention.",
+    "title": "Number of Included BCTs",
+    "summary": "A total of 22 distinct Behaviour Change Techniques (BCTs) were selected for inclusion in the final intervention. This list was the result of a rigorous, multi-stage prioritization process involving various stakeholders.",
+    "context": "This number is stated at the end of the 'Stage 2' section, and the full list of 22 BCTs is provided in Table 2."
+  },
+  {
+    "q": "What problem with the 'Change One Thing' app was identified during user testing in Workshop 5?",
+    "a": "During user testing sessions in Workshop 5, several participants found the app difficult to use, despite being regular smartphone users. The problems encountered included the app repeatedly crashing or locking the screen, and difficulties using specific features like setting the time or using sliders. As a result, it was recommended that intervention facilitators should support service users in setting up the app during the onboarding process.",
+    "title": "App Usability Issues",
+    "summary": "User testing revealed significant usability issues with the prototype app, such as crashing and difficulty with interactive features. This led to the recommendation that facilitators must provide hands-on support to help participants set up and learn to use the app.",
+    "context": "This is a key finding from 'Workshop 5'. It highlights the importance of user acceptance testing and providing tailored support for digital tools, even for those who are familiar with smartphones."
+  },
+  {
+    "q": "What are the three main delivery methods for the final DIAMONDS intervention?",
+    "a": "The DIAMONDS intervention is designed to be a blended programme with multiple delivery methods to enhance flexibility and engagement:\n\n| Delivery Method | Description |\n|---|---|\n| **One-to-one Coaching** | Weekly sessions with a DIAMONDS Coach, which can be face-to-face, over the phone, or via video call. |\n| **Daily Self-Management Tool** | Participants use either the paper-based workbook or the 'Change One Thing' digital app on a daily basis. |\n| **Peer Support Group** | Optional in-person monthly group sessions facilitated by two DIAMONDS Coaches. |",
+    "title": "Intervention Delivery Methods",
+    "summary": "The intervention is delivered through a combination of one-to-one coaching sessions, a daily self-management tool (either an app or a workbook), and optional monthly peer support groups. This multi-modal approach provides flexibility for participants.",
+    "context": "These methods are described in the 'Intervention Overview and Structure' section and visualized in Figure 4. The blended design is a direct result of the co-design process."
+  },
+  {
+    "q": "How did the intervention design address the problem of digital exclusion?",
+    "a": "The intervention design directly addresses digital exclusion by offering a paper-based workbook that contains the same components and content as the 'Change One Thing' digital app. This ensures that people who lack access to digital technology, or the skills and confidence to use it, can fully participate in the intervention without being disadvantaged. The decision was based on preparatory research and co-design feedback highlighting digital exclusion as a major potential barrier.",
+    "title": "Addressing Digital Exclusion",
+    "summary": "To prevent digital exclusion, the intervention was designed with parallel digital and non-digital options. Participants can choose to use either a smartphone app or a paper-based workbook, both of which contain the same core content and functionality.",
+    "context": "This is a key feature of the intervention, mentioned in the introduction, preparatory research summary, and discussion. It represents a core design principle for ensuring equity and accessibility."
+  },
+  {
+    "q": "What was the purpose of Stage 2 of the development process?",
+    "a": "Stage 2 was a consensus and prioritization exercise with expert stakeholders. Its purpose was to take the long list of candidate Mechanisms of Action (MoAs) and Behaviour Change Techniques (BCTs) identified in Stage 1 and prioritize them. This was done through a two-phase survey where stakeholders ranked the items based on their perceived importance, modifiability, acceptability, and practicality.",
+    "title": "Purpose of Stage 2: Consensus and Prioritization",
+    "summary": "The second stage of the development process aimed to systematically narrow down a long list of potential intervention components. Through a two-phase survey, expert stakeholders helped prioritize the most promising and practical Behaviour Change Techniques for inclusion.",
+    "context": "The 'Stage 2' section details this process. It was a crucial step for moving from a broad evidence base (Stage 1) to a focused list of components for co-design (Stage 4)."
+  },
+  {
+    "q": "Who were the expert stakeholders involved in the Stage 2 survey?",
+    "a": "The Stage 2 survey involved 21 expert stakeholders from a range of backgrounds to ensure a multi-perspective view. The group included:\n\n| Stakeholder Group | Number (n) | Percentage (%) |\n|---|---|---|\n| Service Users | 4 | 19% |\n| Carers | 1 | 5% |\n| Diabetes Professionals | 5 | 24% |\n| COPD Professionals | 4 | 19% |\n| Mental Health Professionals| 2 | 10% |\n| Primary Care Professionals| 1 | 5% |\n| Clinical Academics | 3 | 14% |\n| Healthcare Managers | 1 | 5% |",
+    "title": "Stakeholders in Prioritization Survey",
+    "summary": "A diverse group of 21 stakeholders participated in the prioritization survey. This group included service users, carers, various healthcare professionals, academics, and managers, ensuring that the final list of intervention components was informed by multiple perspectives.",
+    "context": "The breakdown of these stakeholders is provided in the 'Stage 2' section. This demonstrates the study's commitment to incorporating a wide range of expertise, including lived experience."
+  },
+  {
+    "q": "What criteria were used in the second phase of the Stage 2 survey to judge the MoA-BCT links?",
+    "a": "In the second phase of the survey, expert stakeholders were asked to judge each Mechanism of Action (MoA) and Behaviour Change Technique (BCT) link according to whether it was acceptable and practical using the APEASE criteria. APEASE stands for Affordability, Practicability, Effectiveness, Acceptability, Safety and Equity.",
+    "title": "APEASE Criteria for Prioritization",
+    "summary": "The research team used the APEASE criteria to evaluate the shortlisted intervention components. This framework helped stakeholders systematically assess each component's affordability, practicality, effectiveness, acceptability, safety, and equity.",
+    "context": "The use of the APEASE criteria is mentioned in the 'Stage 2' section. It is a recognized framework for assessing the feasibility and implementability of interventions."
+  },
+  {
+    "q": "How did the co-design process manage the tension between service user priorities and clinical imperatives?",
+    "a": "The co-design process managed this tension by developing an intervention that accommodates goals for both physical and mental health. For example, service users prioritized mental health, while clinicians prioritized reducing HbA1c through physical activity. The intervention bridges this by framing physical activity as a method of improving mood, thereby offering a solution that addresses both the priorities of service users and the clinical need to reduce HbA1c.",
+    "title": "Managing Conflicting Priorities",
+    "summary": "The co-design process successfully navigated the different priorities of service users (mental health) and clinicians (physical health metrics). It did so by creating an intervention that frames physical health activities, like exercise, as a way to also improve mental well-being, thus aligning both goals.",
+    "context": "This is a key insight presented in the 'Discussion' section. It demonstrates a major strength of the co-design approach in finding person-centred solutions to clinical problems."
+  },
+  {
+    "q": "What is the name of the digital app developed as part of the DIAMONDS intervention?",
+    "a": "The digital app developed as part of the intervention is entitled 'Change One Thing'. The name was chosen because the prototype focused on supporting small, manageable lifestyle changes.",
+    "title": "'Change One Thing' App",
+    "summary": "The digital component of the intervention is a smartphone app called 'Change One Thing'. The name reflects the app's focus on helping users make small, incremental changes to their lifestyle and self-management routines.",
+    "context": "The app's name is first introduced in the description of 'Workshop 1'. It is a central component of the final intervention package."
+  },
+  {
+    "q": "What were the key outputs from the Discovery Day Synthesis session?",
+    "a": "Following the discovery day, a synthesis session was held with the research team, DIAMONDS Voice, and design partners. The key outputs were the development of a paper prototype for the intervention (app/workbook) and a prioritized list of functions and content. The participants categorized notes from the discovery day and then collaboratively prioritized content, with motivation/daily routine ranked as the top priority.",
+    "title": "Discovery Day Synthesis Outputs",
+    "summary": "The synthesis session that followed the discovery day produced two key outputs: a paper prototype of the intervention and a prioritized list of content areas. This session was crucial for translating the broad ideas from the discovery day into a tangible framework for the subsequent co-design workshops.",
+    "context": "The 'Discovery Day Synthesis' section describes this important transitional step. It shows how the raw data from the initial workshop was structured and prepared for the next phase of design."
+  },
+  {
+    "q": "What did the service user and informal caregiver group focus on during Workshop 3?",
+    "a": "In Workshop 3, the service user and informal caregiver group focused on the specificity and emotional valence of the language proposed for the initial goal-setting and action planning activities in the app and workbook. They reviewed the wording and suggested alternative goal statements. This process highlighted some challenges, as some participant suggestions could not be framed within an action plan or contradicted the evidence base (e.g., suggesting sleeping in on weekends instead of maintaining a regular sleep schedule).",
+    "title": "Focus of Service User Group in Workshop 3",
+    "summary": "During the third workshop, service users and carers reviewed the language and wording used for goal-setting in the intervention materials. Their feedback was crucial for ensuring the content was acceptable and relatable, although it also revealed challenges in aligning user preferences with evidence-based health advice.",
+    "context": "This activity is detailed in the description of 'Workshop 3'. It shows the detailed, iterative process of refining the intervention's content with direct user input."
+  },
+  {
+    "q": "What clinical safety concerns were addressed in Workshop 4?",
+    "a": "Workshop 4 focused on the clinical safety of the intervention, addressing potential problems and solutions associated with its different components.\n\n| Intervention Component | Problem/Concern Identified | Proposed Solution |\n|---|---|---|\n| **App Use** | Security of personal data, app malfunctioning, phone charging issues. | Ensure the workbook delivers the same content and function as the app, providing a reliable alternative. |\n| **One-to-one Sessions** | (Not specified in detail, but covered in the activity shown in Figure 3). | (Not specified in detail) |\n| **End of Intervention** | Participants might need support after the final sessions conclude. | Signpost people to relevant, ongoing support services after the intervention ends. |",
+    "title": "Clinical Safety Concerns (Workshop 4)",
+    "summary": "The fourth workshop addressed clinical safety by identifying potential problems with the intervention. Key concerns included data security for the app and the need for ongoing support after the intervention ends, leading to solutions like ensuring a paper-based alternative and signposting to other services.",
+    "context": "This is described under 'Workshop 4: User Acceptance Testing and Evaluation'. Figure 3 provides a visual summary of this solution-focused evaluation process."
+  },
+  {
+    "q": "How will the DIAMONDS intervention be delivered to participants?",
+    "a": "The intervention will be delivered by a trained facilitator called a 'DIAMONDS Coach'. Participants are offered weekly one-to-one sessions with their coach for up to 16 weeks, which can be face-to-face, over the phone, or via video call. This is combined with daily use of either the DIAMONDS workbook or the 'Change One Thing' app, and optional monthly in-person peer support groups.",
+    "title": "Intervention Delivery Method",
+    "summary": "The intervention is delivered primarily through weekly one-to-one sessions with a trained 'DIAMONDS Coach' over 16 weeks. This is supplemented by daily use of a self-management tool (app or workbook) and optional peer support groups.",
+    "context": "The 'Intervention Overview and Structure' section provides a comprehensive description of the delivery model. The multi-component, flexible approach is a key feature of the final design."
+  },
+  {
+    "q": "What reasons are given for why people with SMI are typically excluded from diabetes research?",
+    "a": "People with SMI are often excluded from research because the symptoms of their illness—such as avolition, social withdrawal, or hallucinations—and the side effects of medication like fatigue and excessive hunger, are thought to make it difficult for them to engage effectively in research activities and self-management. As a result, it is unclear if standard diabetes programmes are effective for them.",
+    "title": "Reasons for SMI Exclusion from Research",
+    "summary": "Individuals with SMI are frequently excluded from diabetes research due to concerns that their symptoms and medication side effects would hinder their participation and engagement. This systematic exclusion has created a significant evidence gap regarding effective self-management support for this population.",
+    "context": "This rationale is provided in the 'Introduction'. It explains why bespoke, tailored interventions like DIAMONDS are necessary."
+  },
+  {
+    "q": "How were the 22 included Behaviour Change Techniques (BCTs) selected?",
+    "a": "The 22 BCTs were selected following the comprehensive prioritization process in Stage 2. The DIAMONDS research team made the final selection based on a synthesis of several sources: the results of both stakeholder surveys, the findings from the preparatory work, expert consultation, and input from the patient and public involvement (PPI) panel. The goal was to select the BCTs that offered the most promise in terms of potential efficacy, acceptability, and deliverability.",
+    "title": "Selection Process for BCTs",
+    "summary": "The final list of 22 Behaviour Change Techniques was selected through a rigorous process that synthesized data from multiple sources. The research team combined stakeholder survey results with expert opinion and patient input to choose the techniques deemed most effective, acceptable, and practical.",
+    "context": "This process is described at the end of the 'Stage 2' section. It shows how the final list of intervention components was derived from a wide evidence base."
+  },
+  {
+    "q": "What was the 'journey mapping' activity in the Discovery Day workshop?",
+    "a": "In the Discovery Day workshop, the service user group was asked to complete a 'journey mapping' activity. This involved mapping out a typical day in their life and comparing it to the experiences of the characters in the trigger films. The purpose of this activity was to help participants identify problematic moments they experience during a typical day when trying to manage their health.",
+    "title": "Journey Mapping Activity",
+    "summary": "Journey mapping was an activity where service users mapped out a typical day, comparing their experiences with characters from the trigger films. This helped them identify and articulate the specific daily challenges and 'problematic moments' they face in managing their health.",
+    "context": "This is described in the 'Discovery Day Workshop' section. It is an example of an experience-based co-design technique used to ground the intervention in real-world daily life."
+  },
+  {
+    "q": "What was the purpose of the initial scoping review conducted during the preparatory research phase?",
+    "a": "The scoping review identified over 150 unique interventions for supporting diabetes self-management. Its purpose was to survey the existing landscape of interventions to see if there was a leading candidate approach that could be adapted for people with SMI. The review found that while interventions were broadly similar in content, there was no single standout candidate, which supported the decision to develop a bespoke intervention instead.",
+    "title": "Purpose of Preparatory Scoping Review",
+    "summary": "A scoping review of over 150 existing diabetes interventions was conducted to determine if any could be adapted for people with SMI. The review found no clear leading candidate, which confirmed the need to develop an entirely new, bespoke intervention.",
+    "context": "This is described in the 'Preparatory Research' section. This initial review was a crucial first step that justified the extensive development process that followed."
+  },
+  {
+    "q": "Who facilitated the co-design workshops?",
+    "a": "The co-design workshops were facilitated by mHabitat (now known as Thrive by Design Ltd). The workshops were also attended by the study's digital design partner, HMA.",
+    "title": "Co-design Workshop Facilitators",
+    "summary": "The series of co-design workshops were professionally facilitated by an organization called mHabitat (now Thrive by Design). The study's digital design partner, HMA, also attended to work directly with stakeholders.",
+    "context": "This is stated in the 'Stage 4: Co-design Workshops' section. Using external, expert facilitators is a key component of a structured co-design process."
+  },
+  {
+    "q": "How many co-design workshops were conducted after the initial discovery day?",
+    "a": "After the initial 5.5-hour discovery day workshop, a total of five further co-design workshops were conducted with staff and service users over an 8-month period. In total, these five workshops lasted for approximately 15 hours.",
+    "title": "Number and Duration of Workshops",
+    "summary": "Following the initial 'discovery day', five additional co-design workshops were held over eight months. These workshops amounted to a total of 15 hours of collaborative design work with stakeholders.",
+    "context": "This information is provided in the 'Stage 4: Co-design Workshops' section."
+  },
+  {
+    "q": "What specific example of cross-tabulation mapping is provided in Table 1 of the paper?",
+    "a": "Table 1 provides an example of how the Mechanism of Action (MoA) 'attitude towards the behaviour' was mapped to determinants identified from primary qualitative research.\n\n| Statement (Determinant) | Illustrative Quote |\n|---|---|\n| I take medication for my mental health by injection which I don’t like because it hurts but it keeps me well | 'I have an injection every fortnight and that keeps me stable. I don’t like it, it hurts, it’s horrible but it keeps me well.' |\n| I get fed up with taking my medications because they cause side effects | 'And tablets as well, I take a load of tablets every day and I get fed up with that as well. They cause side effects, you see.' |\n| I don’t always monitor my blood glucose levels because it seems like too much hard work | '...it seems like too much messing about. You’ve got to fiddle about putting this needle thing in here...Sometimes, when you press the button and no blood comes out, you’ve got to do it again.' |",
+    "title": "Example of Cross-Tabulation Mapping",
+    "summary": "The paper provides a table showing how the theoretical concept of 'attitude' was linked to real-world statements from qualitative interviews. This demonstrates the process of mapping lived experience data onto the theoretical framework that guided the intervention's development.",
+    "context": "This example is presented in Table 1. It illustrates the methodology used in Stage 1 of the development process to connect empirical evidence with behavioural theory."
+  },
+  {
+    "q": "What are the seven main areas of self-management according to the American Association of Diabetes Educators (AADE7)?",
+    "a": "The AADE7 Self-Care Behaviors framework includes seven main areas of self-management. These are:\n\n1.  Healthy coping\n2.  Healthy eating\n3.  Being active\n4.  Taking medication\n5.  Monitoring\n6.  Problem-solving\n7.  Reducing risks",
+    "title": "AADE7 Self-Care Behaviors",
+    "summary": "The AADE7 framework outlines seven key behaviours for diabetes self-management, including healthy eating, physical activity, medication adherence, and monitoring. This established framework was used to ensure the educational content of the DIAMONDS intervention was comprehensive.",
+    "context": "These seven behaviours are listed in the 'Preparatory Research' section. The preparatory workshops concluded that any new intervention should cover all of these core areas."
+  },
+  {
+    "q": "In Workshop 3, what did healthcare professionals identify as a key need for the intervention facilitators?",
+    "a": "During Workshop 3, the healthcare professional group focused on the training and support needs of the intervention facilitators (DIAMONDS Coaches). They identified a need for established processes around referrals and reporting for participants who may be at risk or become unwell during the intervention. They also highlighted the need for supervision and specific training on diabetes, mental health, goal setting, and personalization of care.",
+    "title": "Needs of Intervention Facilitators",
+    "summary": "Healthcare professionals in Workshop 3 emphasized that facilitators would need comprehensive training and support. They specifically pointed out the need for clear safety protocols for at-risk participants and training in both diabetes and mental health.",
+    "context": "This is described in the 'Workshop 3' section. This feedback was crucial for designing the training package and safety procedures for the subsequent feasibility trial."
+  },
+  {
+    "q": "How was feedback on educational animations collected in Workshop 5?",
+    "a": "In Workshop 5, participants watched a series of educational animations created for the app and workbook. After viewing the videos, which focused on topics like sleep and medication, participants were asked a series of questions to review their understanding of the content. They demonstrated a good understanding and also provided suggestions on how the videos could be improved.",
+    "title": "Feedback on Educational Animations",
+    "summary": "Feedback on the educational animations was collected by showing them to participants and then asking specific questions to check for comprehension. This user testing confirmed the videos were understandable and also generated suggestions for improvement.",
+    "context": "This activity took place during 'Workshop 5'. It is an example of user acceptance testing for specific intervention components."
+  },
+  {
+    "q": "Which external partners were involved in designing the final intervention materials?",
+    "a": "Several external partners collaborated with the research team to design and develop the final materials:\n\n| Partner | Contribution |\n|---|---|\n| **Nifty Fox Creative** | Collaborated on the layout, language, and design of the workbook. |\n| **Leicester Diabetes Centre** | Worked with the team to design the coach manual and training handbook. |\n| **HMA (digital design agency)** | Designed and developed the 'Change One Thing' app during the co-design process. |\n| **Pipe and Piper Ltd** | Finalized the development of the 'Change One Thing' app. |",
+    "title": "External Design Partners",
+    "summary": "The development of the final intervention materials was a collaborative effort involving several external partners. These included specialists in creative design, diabetes education, and app development, who worked alongside the research team and stakeholders.",
+    "context": "These partners are acknowledged in the 'Design of the Intervention Materials' section. Their involvement brought specialist technical and design expertise to the project."
+  },
+  {
+    "q": "What is the logic model for the DIAMONDS intervention?",
+    "a": "The logic model for the DIAMONDS intervention is provided in Multimedia Appendix 1. It outlines how the intervention aims to support self-management by improving knowledge and skills and enhancing the specific capabilities, opportunities, and motivations that influence diabetes self-management in this population. It demonstrates how the intervention delivers various BCTs to support lifestyle changes.",
+    "title": "Intervention Logic Model",
+    "summary": "The study provides a logic model that visually represents the theory behind the intervention. It shows how the intervention's components are expected to lead to changes in self-management behaviours and, ultimately, improved health outcomes.",
+    "context": "The logic model is referenced in the 'Results' section and provided as a supplementary file. It is a key document for understanding the theoretical basis and intended causal pathway of the intervention."
+  },
+  {
+    "q": "How is the Behaviour Change Technique (BCT) of 'goal setting' delivered within the intervention?",
+    "a": "In each one-to-one session, the DIAMONDS Coach supports the participant in setting a goal using the app or workbook. The app and workbook are designed to focus on goals for sleep and medication, as these were prioritized by service users. If these are chosen, a goal statement is automatically generated in the app or selected from a list in the workbook. The coach supports the participant in generating their own realistic and achievable goal if they wish to focus on a different behaviour.",
+    "title": "Delivery of 'Goal Setting' BCT",
+    "summary": "The 'goal setting' technique is delivered in a structured yet flexible way during coaching sessions. Using either the app or workbook, participants can choose from pre-defined goals related to sleep and medication or work with their coach to create their own personalized goal.",
+    "context": "This process is described in detail, with accompanying screenshots, in the 'Delivering the BCTs: Goal Setting' section."
+  },
+  {
+    "q": "What did Patient and Public Involvement (PPI) panel meetings reveal about the use of digital technologies?",
+    "a": "The PPI panel meetings confirmed that there were mixed opinions regarding the use of digital technologies to support health. The panel agreed that digital applications could be part of an intervention but should not be the only option available. They also emphasized that in-person support would be an essential aspect of any intervention to help reduce anxiety and address low motivation.",
+    "title": "PPI Views on Digital Technology",
+    "summary": "Feedback from the patient and public involvement panel highlighted mixed feelings about digital health tools. They supported the inclusion of an app but stressed that it must not be the only option and that in-person support was essential for engagement.",
+    "context": "This is described in the 'Preparatory Research' section. This early feedback directly led to the key design principle of having both digital and non-digital options."
+  },
+  {
+    "q": "What was the main conclusion of the Cochrane review on self-management interventions for people with SMI and diabetes?",
+    "a": "A Cochrane review of self-management interventions for people with diabetes and SMI included only one trial. It concluded that there was insufficient evidence about the effectiveness of such interventions in this population. This highlighted a major evidence gap and the need for new, tailored interventions to be developed and tested.",
+    "title": "Conclusion of Cochrane Review",
+    "summary": "A major Cochrane review found only one relevant trial and concluded that there was not enough evidence to know what works for diabetes self-management in people with SMI. This finding underscored the critical need for new research and intervention development in this area.",
+    "context": "This review is cited in the 'Introduction'. It provides a key piece of evidence justifying the need for the DIAMONDS programme."
+  },
+  {
+    "q": "What is a 'Mechanism of Action' (MoA) in the context of this study?",
+    "a": "In this study, a Mechanism of Action (MoA) is defined as a theoretical construct thought to explain the process through which a specific Behaviour Change Technique (BCT) affects a person's self-management behaviour. The entire intervention development process was structured around understanding and targeting these MoAs.",
+    "title": "Definition of Mechanism of Action (MoA)",
+    "summary": "A Mechanism of Action (MoA) is the theoretical explanation of *how* a behaviour change technique works. The study focused on identifying these underlying mechanisms to ensure the intervention was based on a solid theoretical foundation.",
+    "context": "This key term is defined in the 'Theoretical Framework' section. The MoA framework provided the 'consistent thread' for the entire development process."
+  },
+  {
+    "q": "How many service users, informal caregivers, and healthcare professionals attended the Discovery Day workshop?",
+    "a": "A total of nine people attended the Discovery Day workshop. The breakdown of attendees was as follows:\n\n| Participant Group | Number of Attendees |\n|---|---|\n| Service users | 3 |\n| Informal caregivers | 2 |\n| Health care professionals | 4 |",
+    "title": "Discovery Day Workshop Attendance",
+    "summary": "The initial Discovery Day workshop was attended by a total of nine people. This included a mix of service users, informal caregivers, and healthcare professionals to ensure a range of perspectives were represented from the outset.",
+    "context": "This data is provided in Table 3. The discovery day was the foundational event for the Stage 4 co-design process."
+  },
+  {
+    "q": "What were the eligibility criteria for healthcare professionals participating in the co-design workshops?",
+    "a": "Healthcare professionals were eligible to participate in the co-design workshops if they had professional experience supporting people with either severe mental illness (SMI) or type 2 diabetes. This broad criterion allowed for the inclusion of professionals from primary care, diabetes services, and psychiatric services.",
+    "title": "Eligibility for Co-design Healthcare Professionals",
+    "summary": "To participate in the co-design workshops, healthcare professionals needed to have experience working with people with either SMI or type 2 diabetes. This ensured the group had relevant clinical expertise from different parts of the healthcare system.",
+    "context": "These criteria are listed in Textbox 1."
+  },
+  {
+    "q": "How was the content for the intervention prioritized during the Discovery Day synthesis session?",
+    "a": "During the synthesis session, the group collaboratively prioritized the content for the intervention based on the notes from the discovery day. The content was prioritized in the following order:\n\n| Priority Rank | Content Area |\n|---|---|\n| **1** | **Motivation / daily routine (including sleep)** |\n| **2** | **Healthy eating** |\n| **3** | **Physical activity / exercise** |\n| **4** | **Stress management / emotion / mood** |\n| **5** | **Taking medication** |",
+    "title": "Prioritization of Intervention Content",
+    "summary": "Following the discovery day, stakeholders prioritized the key content areas for the intervention. Motivation and daily routine, including sleep, were ranked as the highest priority, followed by healthy eating and physical activity.",
+    "context": "This prioritized list is presented in the 'Discovery Day Synthesis' section. This ranking directly informed the development of the prototype that was used in the subsequent workshops."
+  },
+  {
+    "q": "What feedback did participants give on the 'Change One Thing' prototype in Workshop 1?",
+    "a": "Participants felt that the 'Change One Thing' app prototype could help them remember to take their medication. They also thought that features like videos and the ability to track progress could be motivating. In terms of delivery, they agreed that one-to-one sessions were necessary for engagement and goal setting, while group sessions could add valuable social support.",
+    "title": "Feedback on App Prototype (Workshop 1)",
+    "summary": "Initial feedback on the app prototype was positive, with participants highlighting its potential for medication reminders and motivation. They also affirmed the need for both one-to-one coaching and group sessions to support its use.",
+    "context": "This feedback is described in the 'Workshop 1' section. It validated the blended-delivery approach proposed by the research team."
+  },
+  {
+    "q": "What was the focus of the healthcare professional group in Workshop 3?",
+    "a": "In Workshop 3, the participants were split into two groups, with the healthcare professional group focusing on the training and support needs of the intervention facilitators (the DIAMONDS Coaches). They discussed needs for supervision, specific training content (on diabetes, mental health, goal setting), and the importance of having clear processes for managing at-risk participants.",
+    "title": "Focus of Healthcare Professionals in Workshop 3",
+    "summary": "The healthcare professional group in the third workshop focused on the practicalities of delivering the intervention. They identified key requirements for training, supervision, and safety protocols for the facilitators who would be delivering the program.",
+    "context": "This is detailed in the description of 'Workshop 3'. This input was vital for developing the coach manual and training handbook for the intervention."
+  },
+  {
+    "q": "How will the effectiveness of the DIAMONDS intervention be evaluated in the future?",
+    "a": "The paper states that the newly developed intervention will first be tested for feasibility. Following the feasibility study, it will undergo a definitive evaluation of its clinical effectiveness and cost-effectiveness in a pragmatic randomized controlled trial (RCT).",
+    "title": "Future Evaluation of the Intervention",
+    "summary": "Now that the intervention has been developed, the next steps are to test its feasibility in a small-scale study. If that is successful, a large-scale randomized controlled trial will be conducted to definitively evaluate its clinical and cost-effectiveness.",
+    "context": "This future plan is mentioned in the abstract, results, and conclusion. This paper describes only the development phase of a much larger research programme."
+  },
+  {
+    "q": "What is the life expectancy reduction for people with SMI?",
+    "a": "Life expectancy for people with severe mental illness (SMI) is substantially reduced by 15 to 20 years when compared to the general population.",
+    "title": "SMI Life Expectancy Reduction",
+    "summary": "People with SMI face a dramatically shorter life expectancy, dying 15 to 20 years sooner than those without SMI. This health disparity is a major focus of public health efforts.",
+    "context": "This is a key statistic from the 'Introduction' section, used to emphasize the severity of health inequalities and the need for interventions like DIAMONDS."
+  },
+  {
+    "q": "What were the key design principles taken forward from the preparatory research into the co-design process?",
+    "a": "The preparatory research established several key design principles that served as the foundation for the co-design process.\n\n| Design Principle | Rationale |\n|---|---|\n| **Develop a bespoke intervention** | A scoping review found no single existing program that was a clear candidate for adaptation. |\n| **Include both group and one-to-one support** | This is to ensure accessibility and engagement, addressing issues like anxiety and low motivation. |\n| **Incorporate a digital app with a non-digital option** | To provide a digital tool while avoiding the exclusion of those who cannot or will not use it. |\n| **Adapt to individual needs** | The intervention needed to be flexible and person-centred to address the specific barriers experienced by people with SMI. |",
+    "title": "Key Design Principles",
+    "summary": "Four key principles guided the co-design process: the need for a bespoke intervention, the inclusion of both group and individual support, the provision of both digital and paper-based options, and a flexible, person-centred approach. These principles were established during the initial preparatory research phase.",
+    "context": "These principles are summarized in the 'Key Learning Underpinning the Co-design Process' section. They represent the culmination of the initial scoping reviews, workshops, and PPI meetings."
+  },
+  {
+    "q": "What two self-management behaviours were identified as the top priorities by service users for the app and workbook?",
+    "a": "During Workshop 1, service users and carers ranked five self-management behaviours. For most participants, the top priority behaviours were taking medication and managing sleep. This feedback directly influenced the design of the goal-setting features in the app and workbook, which focus on these two areas.",
+    "title": "Top Self-Management Priorities",
+    "summary": "Service users prioritized taking medication and managing sleep as the most important areas for self-management support. This user-led feedback was directly incorporated into the intervention, with the app and workbook featuring specific goal-setting options for these behaviours.",
+    "context": "This is a key finding from 'Workshop 1'. It highlights how the co-design process directly shaped the content of the intervention."
+  },
+  {
+    "q": "What is 'experience-based co-design'?",
+    "a": "Experience-based co-design is a service improvement methodology that is increasingly used to develop complex interventions. The approach starts by understanding the experiences, needs, and preferences of users. It then involves working in partnership with those users to design or improve services based on these understandings.",
+    "title": "Experience-Based Co-design",
+    "summary": "Experience-based co-design is a method for developing services or interventions that starts with the lived experiences of users. It is a partnership approach where users work with professionals to design solutions based on their own needs and preferences.",
+    "context": "The study's approach is modelled on this methodology, as stated in the 'Methods' section. This grounds the entire development process in the real-world experiences of people with SMI and diabetes."
+  },
+  {
+    "q": "What was the purpose of Stage 1 of the intervention development process?",
+    "a": "Stage 1 involved analysing existing evidence to identify the determinants of self-management behaviours in people with SMI and long-term conditions. This stage combined a secondary analysis of published literature with an analysis of new in-depth qualitative interviews. The goal was to identify Mechanisms of Action (MoAs) that were mapped against these determinants, creating an evidence base to inform the next stages.",
+    "title": "Purpose of Stage 1: Evidence Synthesis",
+    "summary": "The first stage of development was focused on building a strong evidence base. Researchers analysed both existing literature and new qualitative data to understand the key factors that help or hinder self-management for people with SMI, mapping these factors to theoretical mechanisms.",
+    "context": "This is described in the 'Stage 1' section of the 'Methods'. This stage provided the foundational evidence that was prioritized in Stage 2 and used in Stage 4."
+  },
+  {
+    "q": "How many people responded to the Stage 2 electronic survey for prioritizing intervention components?",
+    "a": "A total of 21 people responded to the first phase of the electronic survey in Stage 2. This group of expert stakeholders included healthcare professionals, clinical academics, carers, service users, and healthcare managers.",
+    "title": "Survey Respondents",
+    "summary": "Twenty-one expert stakeholders responded to the survey used to prioritize the intervention's components. The respondents came from diverse backgrounds, including patients, carers, clinicians, and academics.",
+    "context": "This number is provided in the 'Stage 2: Consensus and Prioritization Exercise With Stakeholders' section."
+  },
+  {
+    "q": "What was the total duration of the five co-design workshops that followed the discovery day?",
+    "a": "The five co-design workshops that took place after the discovery day lasted for approximately 15 hours in total. These workshops were conducted face-to-face over a period of 8 months.",
+    "title": "Total Duration of Co-design Workshops",
+    "summary": "After the initial discovery day, stakeholders committed to a further 15 hours of face-to-face co-design work. This significant time commitment was spread across five workshops over an eight-month period.",
+    "context": "This is stated in the 'Stage 4: Co-design Workshops With Staff, Service Users, and Carers' section."
+  },
+  {
+    "q": "What did service users identify as a major barrier to physical activity during the discovery day workshop?",
+    "a": "During the discovery day workshop, service user participants expressed that they often felt intimidated by going to public places, such as gyms. This feeling of intimidation acted as a significant barrier to engaging in physical activity.",
+    "title": "Barrier to Physical Activity",
+    "summary": "A key barrier to physical activity identified by service users was feeling intimidated in public spaces like gyms. This highlights how symptoms related to mental illness, such as social anxiety, can directly impact physical health behaviours.",
+    "context": "This finding is reported in the 'Discovery Day Workshop' section. It underscores the need for self-management support that considers the psychological and social barriers faced by people with SMI."
+  },
+  {
+    "q": "What are the key features of the one-to-one coaching sessions in the DIAMONDS intervention?",
+    "a": "The one-to-one coaching sessions are a central component of the intervention, delivered by a trained DIAMONDS Coach.\n\n| Feature | Description |\n|---|---|\n| **Frequency & Duration** | Weekly sessions for up to 16 weeks. |\n| **Delivery Mode** | Can be face-to-face, over the phone, or via video call to offer flexibility. |\n| **Core Activities** | Focuses on tailored and person-centred support for setting behavioural goals, action planning, and problem-solving. |\n| **Purpose** | To improve diabetes self-management knowledge and skills and enhance capabilities, opportunities, and motivations. |",
+    "title": "Features of One-to-One Coaching",
+    "summary": "The intervention includes weekly one-to-one coaching sessions for up to 16 weeks. Delivered flexibly, these sessions provide person-centred support for goal setting and problem-solving to improve diabetes self-management.",
+    "context": "These features are described in the 'Intervention Overview and Structure' section. The coaching element provides the crucial human support that was identified as essential during the preparatory research."
+  },
+  {
+    "q": "What example of a participant quote demonstrates a negative attitude towards monitoring blood glucose?",
+    "a": "Table 1 provides a direct quote from a participant illustrating a negative attitude towards monitoring their blood glucose levels, viewing it as too much effort: 'Well, I could do it at tea time I suppose but I don’t because it seems like too much messing about. You’ve got to fiddle about putting this needle thing in here. Put the strip on the machine and then test your blood. Sometimes, when you press the button and no blood comes out, you’ve got to do it again. Stuff like that'.",
+    "title": "Quote on Negative Attitude to Blood Glucose Monitoring",
+    "summary": "The paper includes a quote from a participant who described blood glucose monitoring as 'too much messing about'. This quote vividly illustrates how the perceived hassle and difficulty of a self-management task can create a significant barrier to performing it.",
+    "context": "This quote is found in Table 1. It is used as an example of the primary qualitative data that was mapped to the theoretical 'Mechanism of Action' called 'attitude toward the behavior'."
+  },
+  {
+    "q": "In Workshop 2, how did participants suggest adding personalized changes to physical activity?",
+    "a": "During Workshop 2, participants suggested that the workbook and app should include ways for people to add personalized changes to physical activity. An example given was adding a small, achievable goal like 'walking to the postbox'. This feedback emphasized the need for person-centred content that considers an individual's personal ability and interests.",
+    "title": "Personalizing Physical Activity Goals",
+    "summary": "Participants suggested that the intervention should allow for highly personalized and small physical activity goals, such as 'walking to the postbox'. This feedback reinforced the importance of the 'Change One Thing' philosophy, focusing on small, achievable steps tailored to individual capabilities.",
+    "context": "This is described in the 'Workshop 2: Ideation and Prototype Sense Checking' section. It highlights the user-led demand for a highly personalized and non-prescriptive approach."
+  },
+  {
+    "q": "What future job role in the English NHS is suggested as a potential workforce for delivering the DIAMONDS intervention?",
+    "a": "The paper suggests that as part of the new job roles linked to the delivery of the NHS Long Term Plan, 'health and well-being coaches' could potentially be trained to support access to and use of the DIAMONDS intervention, including the 'Change One Thing' app.",
+    "title": "Potential Workforce for Intervention Delivery",
+    "summary": "Looking towards future implementation, the paper suggests that the emerging role of 'health and well-being coaches' within the NHS could be a suitable workforce to be trained to deliver the DIAMONDS intervention. This would help with the scalability and integration of the program into existing services.",
+    "context": "This suggestion is made in the 'Discussion' section when considering the future scalability of the intervention."
+  },
+  {
+    "q": "What was the key finding from the discovery day regarding the prioritization of mental versus physical health?",
+    "a": "A key finding from the final joint session of the discovery day was that mental health was identified as having a much greater impact on a person's quality of life and health. Consequently, mental health was typically prioritized by service users over the self-management of their type 2 diabetes.",
+    "title": "Prioritization of Mental Health Over Physical Health",
+    "summary": "The initial discovery day workshop revealed that service users consistently prioritize their mental health over their physical health management. This is because mental health symptoms are perceived as having a more immediate and significant impact on their daily lives and well-being.",
+    "context": "This crucial insight is reported in the 'Discovery Day Workshop' section and revisited in the 'Discussion'. It became a central challenge that the co-design process had to address to create an engaging intervention."
+  }
+]
+[
+  {
+    "q": "What is the primary aim of the DIAMONDS randomised controlled trial (RCT)?",
+    "a": "The primary aim of the DIAMONDS trial is to investigate the clinical and cost-effectiveness of a novel, co-designed self-management intervention for people with Severe Mental Illness (SMI) and Type 2 Diabetes Mellitus (T2DM), compared with usual care. The trial will also include an economic evaluation and a process evaluation to understand how the intervention was delivered and how its outcomes were determined.",
+    "title": "Primary Aim of the DIAMONDS Trial",
+    "summary": "The trial's main goal is to determine if the new DIAMONDS intervention is both clinically effective and a good use of resources for people with both SMI and T2DM. This will be assessed by comparing it to the standard care these patients typically receive.",
+    "context": "This is stated in the abstract and the 'AIM AND OBJECTIVES' section of the paper. It sets out the core research question that the entire study is designed to answer."
+  },
+  {
+    "q": "What is the primary outcome of the trial and when is it measured?",
+    "a": "The primary outcome is the adjusted difference in glycated haemoglobin (HbA1c) between the intervention and control groups. It is measured at 12 months post-randomisation.",
+    "title": "Primary Trial Outcome and Measurement",
+    "summary": "The main measure of the intervention's success is the difference in long-term blood sugar control (HbA1c) between the two groups. This key measurement is taken one year after participants join the study.",
+    "context": "This is detailed in the 'Primary outcome' section. HbA1c is an objective, clinical measure, making it a robust primary outcome for a diabetes intervention trial."
+  },
+  {
+    "q": "What is the revised target sample size for the DIAMONDS trial and why was it changed?",
+    "a": "The initial target was 450 participants. Due to slower than anticipated recruitment, this was revised to 380 participants with the approval of the Programme Steering Committee in February 2024. The revision was made possible by including an adjustment for the correlation between baseline and 12-month HbA1c levels (0.3), which allowed the target to be reduced while retaining 88% statistical power.",
+    "title": "Revised Participant Sample Size",
+    "summary": "The trial adjusted its recruitment target from 450 to 380 participants in response to slow recruitment. This change was formally approved and was calculated to retain sufficient statistical power (88%) for the primary analysis.",
+    "context": "The rationale for this change is explained in the 'Sample size' section. It demonstrates a pragmatic adaptation during the course of a large-scale clinical trial."
+  },
+  {
+    "q": "Who delivers the DIAMONDS intervention and for how long?",
+    "a": "The intervention is delivered one-to-one by a trained 'DIAMONDS Coach' over a period of six months. The coach is a healthcare professional who has been specifically trained in the delivery of the DIAMONDS intervention.",
+    "title": "Intervention Delivery and Duration",
+    "summary": "The DIAMONDS intervention is facilitated by a specially trained professional known as a DIAMONDS Coach. They work with each participant individually for a total of six months.",
+    "context": "This information is found in the abstract and 'The DIAMONDS intervention' section. The coach is the central figure in delivering the supportive, tailored aspects of the program."
+  },
+  {
+    "q": "What are the core components of the DIAMONDS intervention?",
+    "a": "The intervention consists of several integrated components designed to be delivered over a six-month period:\n\n| Component | Description |\n|---|---|\n| **One-to-one Coaching** | Individual sessions with a trained DIAMONDS Coach focusing on goal setting and action planning. |\n| **DIAMONDS Workbook** | A paper-based workbook for daily use that supports diabetes self-management education. |\n| **'Change One Thing' App** | An optional digital application that supports and mirrors the content of the workbook. |\n| **Behaviour Change Techniques** | The intervention is underpinned by evidence-based Behaviour Change Techniques (BCTs). |",
+    "title": "Core Components of the Intervention",
+    "summary": "The intervention is a multi-faceted program that includes personal coaching, a physical workbook for daily use, and an optional smartphone app. This blended approach is designed to be flexible and accessible to all participants.",
+    "context": "These components are described in 'The DIAMONDS intervention' section and visualized in Figure 2. The inclusion of a paper-based option is a key feature to avoid digital exclusion."
+  },
+  {
+    "q": "What is the name of the service user and carer group that collaborated on this trial?",
+    "a": "The service user and carer group that collaborated on the trial is called DIAMONDS Voice. They have been an integral part of the DIAMONDS programme for several years and were involved in developing intervention materials and reviewing all participant-facing documents.",
+    "title": "Patient and Public Involvement Group",
+    "summary": "A dedicated patient and public involvement group named DIAMONDS Voice played a crucial role in the trial. Comprised of service users and carers, the group provided essential input on the intervention and all study materials.",
+    "context": "The role of this group is detailed in the 'Patient and public involvement (PPI)' section. Their involvement highlights the trial's commitment to a co-design approach."
+  },
+  {
+    "q": "What specific measure is taken to ensure consistency in the measurement of HbA1c?",
+    "a": "To avoid variation and the inadvertent introduction of differences in measurements, all blood samples for the primary outcome of HbA1c are sent to a single, central United Kingdom Accreditation Service registered laboratory for analysis.",
+    "title": "Consistency in Primary Outcome Measurement",
+    "summary": "To ensure the primary outcome data is highly reliable, all blood samples are analysed at one central lab. This eliminates potential inconsistencies that could arise from using different local laboratories across the various trial sites.",
+    "context": "This methodological strength is outlined in the 'Primary outcome' section and highlighted in the strengths and limitations box. It is a crucial step to reduce measurement error in a multicentre trial."
+  },
+  {
+    "q": "Which individuals involved in the trial are explicitly NOT blinded to treatment allocation?",
+    "a": "Due to the nature of the intervention, several key groups cannot be blinded. These are:\n\n*   Participants themselves\n*   The intervention facilitators (DIAMONDS Coaches)\n*   The trial statisticians\n*   The health economists\n*   The DIAMONDS Programme Manager and Trial coordinators",
+    "title": "Lack of Blinding in the Trial",
+    "summary": "Several key groups cannot be blinded in this trial, which is a common feature of behavioural studies. This includes the participants receiving care, the coaches providing it, and the analysts evaluating the data.",
+    "context": "This is explained in the 'Blinding' section. The protocol acknowledges this limitation and notes that the objective primary outcome (HbA1c) is unlikely to be affected by it."
+  },
+  {
+    "q": "How is physical activity objectively measured in the trial?",
+    "a": "Participants are asked to wear a wrist-worn accelerometer (GENEActiv) for seven consecutive days at both baseline and the six-month follow-up. The devices are blinded, so participants cannot see or interact with their data during the wear period. Data is not collected at 12 months due to previously reported decreased adherence levels in other studies.",
+    "title": "Objective Measurement of Physical Activity",
+    "summary": "In addition to questionnaires, the trial uses a wrist-worn device called an accelerometer to get an objective measure of physical activity. This data is collected at the beginning of the study and again at six months.",
+    "context": "This method is described under 'Data collection and management'. Using an objective measure like an accelerometer is a strength because self-reported activity levels can be inaccurate."
+  },
+  {
+    "q": "What financial incentive is offered to participants for their time?",
+    "a": "Each participant is offered a £10 high street gift voucher at each of their three main appointments: baseline, six months, and 12 months.",
+    "title": "Participant Financial Incentive",
+    "summary": "To acknowledge their contribution to the research, participants are given a £10 gift voucher at each of the three data collection points. This serves as a token of appreciation for their time and effort.",
+    "context": "This detail is included in the 'Data collection and management' section and is a standard practice in many clinical trials to help with retention and recognise participant burden."
+  },
+  {
+    "q": "What are the specific inclusion criteria for participants in the DIAMONDS trial?",
+    "a": "To be eligible for the trial, participants must meet all of the following criteria:\n\n| # | Criterion | Details |\n|---|---|---|\n| 1 | **Age** | 18 years or older and living in the community. |\n| 2 | **SMI Diagnosis** | A confirmed diagnosis of schizophrenia, bipolar disorder, schizoaffective disorder, psychosis, or severe depression. |\n| 3 | **T2DM Diagnosis** | A confirmed diagnosis of Type 2 Diabetes Mellitus. |\n| 4 | **Confirmation** | Both diagnoses must be confirmed by a clinician or stated in the patient's medical records. |",
+    "title": "Participant Inclusion Criteria",
+    "summary": "Eligible participants must be adults living in the community with a confirmed dual diagnosis of a severe mental illness (like schizophrenia or bipolar disorder) and Type 2 Diabetes. Both conditions must be formally documented.",
+    "context": "These criteria are clearly listed in the 'Eligibility criteria' section and define the specific population for which the intervention is being tested."
+  },
+  {
+    "q": "What are the exclusion criteria for the DIAMONDS trial?",
+    "a": "People will be excluded from the trial if they meet any of the following criteria:\n\n1.  Have cognitive impairments that would preclude participation and engagement.\n2.  Have gestational diabetes.\n3.  Have type 1 diabetes.\n4.  Have other types of secondary diabetes.\n5.  Lack capacity to consent to participate in the trial.\n6.  Are currently in an inpatient stay in an acute or mental health hospital.",
+    "title": "Participant Exclusion Criteria",
+    "summary": "The trial excludes individuals who have cognitive impairments, other types of diabetes (like Type 1), or who currently lack the capacity to consent. People who are currently hospital inpatients are also not eligible.",
+    "context": "These criteria are listed in the 'Eligibility criteria' section. They are designed to ensure participant safety and that the intervention is tested on the appropriate population."
+  },
+  {
+    "q": "What treatment does the control group receive in this trial?",
+    "a": "Participants in the control group receive 'treatment as usual'. This includes their standard primary care health checks for SMI and diabetes, community-based mental healthcare through Community Mental Health Teams (CMHTs), and being signposted to any existing generic diabetes self-management programmes.",
+    "title": "Control Group Treatment Protocol",
+    "summary": "The control group continues to receive their standard NHS care for both diabetes and mental illness. They are also informed about existing, non-specialised diabetes education programs, providing a realistic comparison for the new intervention.",
+    "context": "This is detailed in the 'Control group' section. This design allows the researchers to determine if the specialised DIAMONDS intervention is more effective than the care currently available."
+  },
+  {
+    "q": "What are the three distinct categories of participant withdrawal?",
+    "a": "The protocol outlines three specific ways a participant can withdraw from the trial:\n\n| Withdrawal Category | Description |\n|---|---|\n| **1. Withdrawal from follow-ups** | The participant stops providing data at follow-up appointments but may continue the intervention. |\n| **2. Withdrawal from intervention** | The participant stops engaging with the Coach and workbook, but allows follow-up data to continue to be collected. |\n| **3. Full withdrawal** | The participant withdraws from all aspects of the trial, including both the intervention and all data collection. |",
+    "title": "Participant Withdrawal Options",
+    "summary": "Participants have three options if they wish to withdraw, ranging from stopping just the intervention to ceasing all contact and data collection. This flexible approach respects participant autonomy while aiming to retain valuable data where possible.",
+    "context": "These categories are explicitly outlined in the 'Participant withdrawals' section, ensuring a clear and ethical process for participants who no longer wish to continue."
+  },
+  {
+    "q": "What is the planned timeline for the entire DIAMONDS study?",
+    "a": "The overall study is planned to start in September 2022 and finish in September 2025. Recruitment is planned to run from December 2022 to September 2024.",
+    "title": "Overall Study Timeline",
+    "summary": "The full trial is scheduled to take place over a three-year period, from September 2022 to September 2025. Participant recruitment is a key phase planned for the middle portion of this timeline.",
+    "context": "This schedule is provided in the 'Trial design' section, giving a clear overview of the project's major milestones and duration."
+  },
+  {
+    "q": "What four dimensions are measured by the Intervention Fidelity (IF) framework?",
+    "a": "The Intervention Fidelity (IF) framework, based on guidance by Bellg (2004), will measure four key dimensions of the intervention's delivery:\n\n1.  **Adherence:** Whether the content of the intervention sessions was delivered as designed.\n2.  **Quality of delivery:** The manner in which the Coach delivers the programme, including the use of Behaviour Change Techniques.\n3.  **Duration:** The mean, standard deviation, and range of the intervention sessions.\n4.  **Dose:** The number of sessions delivered.",
+    "title": "Intervention Fidelity Framework Dimensions",
+    "summary": "To ensure the intervention is delivered as intended, the study will measure four aspects of fidelity. These are whether the correct content was covered, how well it was delivered, how long sessions lasted, and how many sessions were completed.",
+    "context": "These four dimensions are listed in the 'Intervention fidelity observations' section. This assessment is a critical part of the process evaluation to ensure the trial is testing the intervention in its intended form."
+  },
+  {
+    "q": "What different methods and settings will be used to recruit participants?",
+    "a": "The trial will use a multi-pronged recruitment strategy across several settings:\n\n| Recruitment Method/Setting | Description |\n|---|---|\n| **NHS mental health trusts** | Searching databases and screening caseloads of community mental health teams. |\n| **GP database screening** | General practices will screen their SMI and LTC registers for eligible patients. |\n| **Existing research cohorts** | Contacting individuals from previous studies who gave permission to be re-contacted. |\n| **Third sector and service user groups** | Working with relevant local organisations to promote the trial. |\n| **Self-referral** | Individuals will be able to self-refer into the trial. |",
+    "title": "Participant Recruitment Methods",
+    "summary": "A multi-pronged strategy will be used to recruit participants for the trial. This includes recruitment through NHS mental health teams, GP practices, previous research participant lists, community organisations and self-referral.",
+    "context": "These different pathways are detailed in the 'Setting and recruitment' section. Using multiple methods is essential for reaching the target sample size in a population that can be hard to engage in research."
+  },
+  {
+    "q": "What is the life expectancy gap for people with SMI, and what is the primary cause?",
+    "a": "People with SMI have a life expectancy that is 15–20 years shorter than the general population. This is mainly due to comorbid physical illnesses, such as Type 2 Diabetes.",
+    "title": "SMI Life Expectancy Gap and Cause",
+    "summary": "There is a stark 15-20 year gap in life expectancy for people with severe mental illness. This is not primarily due to mental illness itself but is caused by a higher rate of preventable physical health conditions.",
+    "context": "This critical fact is stated in the 'Introduction' and provides the fundamental justification for the trial, which aims to address this major health inequality."
+  },
+  {
+    "q": "What is the purpose of the trial's embedded process evaluation?",
+    "a": "The process evaluation aims to understand if the intervention was delivered as intended (fidelity) and how its outcomes were produced (mechanisms of action). It will also identify contextual and service-level barriers and enablers to future implementation and scale-up.",
+    "title": "Purpose of the Process Evaluation",
+    "summary": "The trial includes a process evaluation to look beyond *whether* the intervention works to understand *how* and *why* it works. This part of the study will explore the delivery of the intervention and the factors that helped or hindered its success.",
+    "context": "This is described in the 'AIM AND OBJECTIVES' and 'Process evaluation' sections. It provides a qualitative and implementation-focused dimension to the quantitative RCT."
+  },
+  {
+    "q": "How is the trial designed to be inclusive for Urdu-speaking participants?",
+    "a": "The protocol states that the trial incorporates Urdu language materials to improve inclusivity.",
+    "title": "Inclusivity for Urdu Speakers",
+    "summary": "To ensure the trial is accessible to a more diverse population, it includes materials that have been translated into Urdu. This is highlighted as a key strength of the study.",
+    "context": "This is listed as a strength in the 'STRENGTHS AND LIMITATIONS OF THIS STUDY' box. It reflects a conscious effort to improve the reach and relevance of the research."
+  },
+  {
+    "q": "How will the qualitative data from interviews with participants, carers, and coaches be analysed?",
+    "a": "The interview transcripts will undergo an initial thematic analysis using a framework method. Further analysis will then be guided by the Mechanisms of Action (MoA) framework, which extends the Theoretical Domains Framework (TDF), to understand implementation problems and behaviour change.",
+    "title": "Qualitative Data Analysis Method",
+    "summary": "The qualitative data from interviews will be analysed in a structured way using a framework method and thematic analysis. The analysis will be guided by established psychological theories like the Theoretical Domains Framework to understand behaviour change.",
+    "context": "This is detailed in the 'Qualitative evaluation: recruitment, data collection and analysis' section. This systematic approach adds rigor to the qualitative component of the process evaluation."
+  },
+  {
+    "q": "What is the stated perspective of the health economic analysis?",
+    "a": "The health economic analysis will be a within-trial cost-utility analysis conducted from an NHS and personal social services perspective, as recommended by NICE guidance.",
+    "title": "Health Economic Analysis Perspective",
+    "summary": "The trial's economic evaluation will assess cost-effectiveness from the perspective of the NHS and social services. This means it will consider the costs and benefits that fall to the publicly funded health and social care system.",
+    "context": "This is specified in the 'Economic evaluation' section. This perspective is standard for evaluations intended to inform UK health policy decisions."
+  },
+  {
+    "q": "What happens if a participant inadvertently unblinds a data collector?",
+    "a": "If a participant reveals their group allocation to an outcome assessor, or the assessor becomes unblinded for any other reason, this event will be recorded in the outcome assessment case report form (CRF) at that time.",
+    "title": "Procedure for Unblinding Assessors",
+    "summary": "The trial has a clear procedure for when a data collector becomes unblinded. The incident must be formally recorded on the case report form to document the potential for bias.",
+    "context": "This procedure is outlined in the 'Blinding' section. It is an important quality control measure to maintain the integrity of the trial's data."
+  },
+  {
+    "q": "What specific secondary outcomes related to physical health will be measured?",
+    "a": "The trial will measure a broad range of physical health secondary outcomes:\n\n| Outcome | Measurement Method |\n|---|---|\n| Total cholesterol | Blood sample. |\n| Haemoglobin | Blood sample. |\n| Body mass index (BMI) | Physical measurement. |\n| Waist circumference | Physical measurement. |\n| Blood pressure | Physical measurement. |\n| Smoking status | Self-report. |\n| Urinary albumin to creatinine ratio | Urine sample. |",
+    "title": "Physical Health Secondary Outcomes",
+    "summary": "The trial will measure a wide range of secondary physical health outcomes beyond just blood sugar. These include markers for cardiovascular risk like cholesterol and blood pressure, as well as body measurements like BMI and waist circumference.",
+    "context": "This list is provided in the 'Secondary outcomes' section, demonstrating the comprehensive approach to evaluating the intervention's broader impact on physical health."
+  },
+  {
+    "q": "What is the 'Change One Thing' app?",
+    "a": "The 'Change One Thing' app is an optional digital application that participants in the intervention group can use. It supports the daily use of the paper-based 'DIAMONDS Workbook' to help with self-management.",
+    "title": "'Change One Thing' Application",
+    "summary": "The 'Change One Thing' app is a digital tool created for the DIAMONDS intervention. It is an optional component designed to supplement the core workbook and coaching sessions.",
+    "context": "The app is mentioned in 'The DIAMONDS intervention' section. Offering it as an optional tool makes the intervention more flexible and accommodates different preferences for digital technology."
+  },
+  {
+    "q": "What is the trial registration number for this study?",
+    "a": "The trial registration number is ISRCTN22275538.",
+    "title": "Trial Registration Number",
+    "summary": "The DIAMONDS trial is publicly registered with the ISRCTN registry under the number ISRCTN22275538. This registration ensures transparency in the conduct and reporting of the clinical trial.",
+    "context": "This information is provided at the end of the abstract. Public trial registration is a standard requirement for ethical and transparent clinical research."
+  },
+  {
+    "q": "How much more common is Type 2 Diabetes in people with SMI compared to the general population?",
+    "a": "Type 2 Diabetes Mellitus (T2DM) is two to three times more common in people with severe mental illness (SMI) than in the general population.",
+    "title": "Prevalence of T2DM in SMI Population",
+    "summary": "People with SMI are at a significantly higher risk of developing Type 2 Diabetes. The prevalence of the condition in this group is two to three times greater than in the general population.",
+    "context": "This key statistic is stated in both the abstract and the introduction to highlight the scale of the health inequality that the DIAMONDS intervention aims to address."
+  },
+  {
+    "q": "What exploratory subgroup analyses are planned for the trial?",
+    "a": "The trial plans to conduct several exploratory subgroup analyses to investigate differential treatment effects. These include:\n\n*   Different levels of HbA1c at baseline\n*   Ethnicity\n*   Insulin use status",
+    "title": "Planned Subgroup Analyses",
+    "summary": "The trial plans to explore whether the intervention has different effects based on baseline blood sugar levels, ethnicity, and insulin use. These are exploratory analyses, meaning their findings will be interpreted with caution.",
+    "context": "This is mentioned in the 'Subgroup analyses' section. This reflects an awareness of potential health inequalities and clinical differences within the broader trial population."
+  },
+  {
+    "q": "What previous study confirmed the acceptability and feasibility of the DIAMONDS intervention?",
+    "a": "A preceding feasibility study (DIAMONDS Feasibility Study, ISRCTN15328700) confirmed the acceptability and feasibility of the intervention. This allowed the research team to make important changes to study processes before starting this full-scale RCT.",
+    "title": "Preceding Feasibility Study",
+    "summary": "Before launching this large trial, the researchers conducted a smaller feasibility study. This initial study confirmed that the intervention was acceptable to participants and that the trial procedures were practical, leading to refinements for the main RCT.",
+    "context": "This is highlighted as a major strength in the 'STRENGTHS AND LIMITATIONS' section. It shows that the full trial is built on a solid foundation of preliminary work."
+  },
+  {
+    "q": "How will the research team handle the risk of suicide or self-harm encountered during the trial?",
+    "a": "The team has developed a suicide risk protocol. If any risk is encountered, a risk assessment will be conducted. The participant will be advised that if there is a concern of harm to themselves or others, these concerns will need to be passed on to their GP or clinical care team.",
+    "title": "Suicide and Self-Harm Risk Management",
+    "summary": "The trial has a specific protocol for managing suicide or self-harm risk. If a researcher has concerns about a participant's safety, they will conduct a risk assessment and, if necessary, share those concerns with the participant's clinical team.",
+    "context": "This is detailed in the 'Suicide and self-harm risk management' section. It is a critical ethical and safety procedure when conducting research with a vulnerable population."
+  },
+  {
+    "q": "How are 'carers' defined for the purpose of the qualitative evaluation?",
+    "a": "For this study, carers are defined as unpaid individuals who are not subject to working regulations and provide support to a dependent person with whom they have a social relationship, such as a spouse, relative, neighbour, or friend.",
+    "title": "Definition of Carers",
+    "summary": "The study defines carers as people providing unpaid support within a social relationship. This includes family members, friends, or neighbours, and explicitly excludes professional, paid care workers.",
+    "context": "This definition is provided in the 'Carers' subsection of the 'Qualitative evaluation' section. It clarifies who is eligible to participate in the carer interviews for the process evaluation."
+  },
+  {
+    "q": "What is the funding source for this project?",
+    "a": "This project is funded by the National Institute for Health and Care Research (NIHR) Programme for Applied Research, under project number RP-PG-1016-20003. The views expressed are those of the authors and not necessarily the NIHR or Department of Health and Social Care.",
+    "title": "Project Funding Source",
+    "summary": "The DIAMONDS trial is funded by the UK's National Institute for Health and Care Research (NIHR). The protocol specifies the exact grant program and project number.",
+    "context": "This is stated in the 'Funding' section. Acknowledging the funding source is a standard and important part of research transparency."
+  },
+  {
+    "q": "What analysis will be performed to assess the impact of compliance with the intervention?",
+    "a": "Complier Average Causal Effect (CACE) analyses will be performed for the primary outcome. This is to assess the impact of compliance with the intervention on the treatment estimates.",
+    "title": "Analysis of Intervention Compliance",
+    "summary": "To understand the effect of the intervention on those who actually completed it, the researchers will perform a Complier Average Causal Effect (CACE) analysis. This is a type of sensitivity analysis that accounts for non-compliance.",
+    "context": "This statistical technique is mentioned in the 'Sensitivity analyses' section. It goes beyond the standard intention-to-treat analysis to provide a different perspective on the intervention's effectiveness."
+  },
+  {
+    "q": "What is the trial's randomisation ratio?",
+    "a": "Eligible and consenting participants will be randomised on a 1:1 basis to either the DIAMONDS intervention or usual care.",
+    "title": "Randomisation Ratio",
+    "summary": "Participants in the trial will be randomly assigned to one of the two groups with an equal probability. This 1:1 ratio means that for every two participants, one will go to the intervention group and one to the control group.",
+    "context": "This is specified in the 'Assignment of groups' section. A 1:1 ratio is the most common and statistically efficient allocation for a two-arm trial."
+  },
+  {
+    "q": "Why do standard diabetes self-management programmes often fail for people with SMI?",
+    "a": "Programmes designed for the general population do not address the important barriers faced by people with SMI. These barriers include disturbances of thought, perception, affect, and motivation, which influence self-efficacy, literacy, and lifestyle.",
+    "title": "Failure of Standard Diabetes Programmes",
+    "summary": "Standard diabetes education programs are often not suitable for people with SMI because they fail to account for the unique challenges posed by the mental illness. These challenges include symptoms like lack of motivation and cognitive difficulties.",
+    "context": "This rationale is provided in the 'Introduction' and is the core reason why a tailored intervention like DIAMONDS is needed."
+  },
+  {
+    "q": "How will the trial findings be disseminated beyond academic journals?",
+    "a": "The team has a comprehensive dissemination plan to reach a wide audience:\n\n| Dissemination Method | Target Audience |\n|---|---|\n| **Plain language summaries, infographics, audio summaries** | Participants, stakeholders, general public. |\n| **Website and social media channels** | Wider public and professional audiences. |\n| **Conferences and knowledge exchange events** | Academic, clinical, and policy audiences. |\n| **Summary of results distribution** | All trial participants and relevant stakeholders (e.g., commissioners). |",
+    "title": "Dissemination Plan Beyond Academia",
+    "summary": "The research team has a comprehensive plan to share their findings widely. In addition to academic papers, they will create accessible materials like summaries and infographics and use social media and events to reach participants, stakeholders, and the public.",
+    "context": "This is detailed in the 'Ethics and dissemination' section, demonstrating a commitment to impactful dissemination beyond traditional academic outputs."
+  },
+  {
+    "q": "What happens if a participant in the intervention group wishes to stop receiving the intervention early?",
+    "a": "If a participant wishes to stop before the end of the six months, the DIAMONDS Coach will still support them to set longer-term goals and action plans for self-management. The coach will also help them access appropriate support to implement these plans, just as is done for participants who complete the full intervention period.",
+    "title": "Procedure for Early Intervention Withdrawal",
+    "summary": "Even if a participant decides to stop the formal intervention early, they will still receive support from their coach to create a plan for future self-management. This ensures a supportive transition out of the active intervention phase.",
+    "context": "This procedure is outlined in 'The DIAMONDS intervention' section. It reflects the person-centred and supportive ethos of the intervention."
+  },
+  {
+    "q": "What quantitative data will be collected for the process evaluation?",
+    "a": "Quantitative data for the process evaluation will be extracted from several sources to provide a descriptive summary of intervention delivery:\n\n*   Number and length of sessions delivered (mean, SD)\n*   Frequency and date of sessions\n*   Mode of delivery (videocall, phone, in-person)\n*   Number (%) of participants who discussed each intervention content area\n*   Average duration a participant stayed with the same action plan\n*   Average number of intervention content areas covered",
+    "title": "Quantitative Data for Process Evaluation",
+    "summary": "The process evaluation will use quantitative data from coach logs, the app, and fidelity assessments to describe how the intervention was delivered. This includes data on the number, length, frequency, and content of the coaching sessions.",
+    "context": "This is detailed in the 'Quantitative approach: data collection and analysis' section. Using these data sources provides a rich, descriptive summary of intervention implementation."
+  },
+  {
+    "q": "What is the purpose of the trial's 12-month internal pilot phase?",
+    "a": "The trial includes a 12-month internal pilot phase to assess recruitment assumptions and to optimise trial processes before continuing with the full-scale study.",
+    "title": "Purpose of the Internal Pilot Phase",
+    "summary": "The first 12 months of the trial serve as an internal pilot. This phase is designed to check if the recruitment targets are realistic and to fine-tune any study procedures before the majority of participants are enrolled.",
+    "context": "This is mentioned in the 'Trial design' section. An internal pilot is a common feature in large, complex trials to ensure the study is running smoothly and is on track to succeed."
+  },
+  {
+    "q": "How long will anonymised trial data be archived for?",
+    "a": "Anonymised trial data will be securely archived by the University of York for a minimum of 10 years. Personal data will be stored for up to three years after the study ends for dissemination purposes.",
+    "title": "Data Archiving Period",
+    "summary": "After the study is complete, the anonymised data will be securely stored for at least 10 years. This long-term archiving allows for future verification of the results and potential re-use of the data for further research.",
+    "context": "This is specified in the 'Confidentiality and data protection' section and reflects standard good practice for clinical trial data management."
+  },
+  {
+    "q": "What framework will be used to integrate the qualitative and quantitative data in the process evaluation?",
+    "a": "A triangulation protocol will be used to integrate the data. Key findings from qualitative and quantitative sources will be compared using a convergence coding matrix, which categorises the relationship between findings as one of four types:\n\n| Category | Description |\n|---|---|\n| **Agreement** | Convergence in the data from both sources. |\n| **Partial agreement** | Complementary findings but with limited overlap. |\n| **Silence** | No overlap between the quantitative and qualitative data. |\n| **Dissonance** | Disagreement between the data sets. |",
+    "title": "Data Integration Framework",
+    "summary": "The study will use a triangulation protocol and a convergence coding matrix to formally integrate its qualitative and quantitative findings. This framework will allow researchers to see where different data sources agree, disagree, or complement each other.",
+    "context": "This mixed-methods approach is detailed in the 'Integrated analysis' section. It aims to produce a more robust and nuanced understanding than looking at the qualitative and quantitative data in isolation."
+  },
+  {
+    "q": "What was the outcome of the STEPWISE trial mentioned in the paper?",
+    "a": "The STEPWISE trial tested a group structured lifestyle education programme to support weight reduction in people with schizophrenia. The intervention was found to be neither clinically nor cost-effective.",
+    "title": "STEPWISE Trial Outcome",
+    "summary": "The paper references the earlier STEPWISE trial, which was unsuccessful in demonstrating a clinical or cost benefit for its lifestyle intervention. This previous result highlights the significant challenges of improving physical health in this population.",
+    "context": "The STEPWISE trial is discussed in the 'Introduction' to provide context and show that even specifically designed interventions have struggled, reinforcing the need for novel approaches like DIAMONDS."
+  },
+  {
+    "q": "Who is the Chief Investigator of the DIAMONDS trial?",
+    "a": "Najma Siddiqi (NS) led the grant application and, as Chief Investigator, takes overall responsibility for the trial and is the guarantor.",
+    "title": "Chief Investigator of the Trial",
+    "summary": "The Chief Investigator for the DIAMONDS trial is Najma Siddiqi. She is responsible for the overall conduct and integrity of the research.",
+    "context": "This information is provided in the 'Contributors' section, which outlines the roles and responsibilities of the key members of the research team."
+  },
+  {
+    "q": "What are the trial's duty of care procedures?",
+    "a": "The trial will use York Trials Unit (YTU) standard operating procedures to support researchers in reporting instances where there are concerns about a participant's health to their GP or responsible clinical services. Normal NHS indemnity procedures will apply, and the study sponsor (University of York) provides public liability insurance.",
+    "title": "Duty of Care Procedures",
+    "summary": "The trial has a clear 'duty of care' policy. If a researcher becomes concerned about a participant's health during a study visit, they are required to report these concerns to the participant's regular doctor or clinical team.",
+    "context": "This is described in the 'Duty of care' section. It is an important ethical safeguard to ensure participant well-being is prioritised throughout the research process."
+  },
+  {
+    "q": "What is the analysis model for the primary outcome?",
+    "a": "The primary outcome, HbA1c at 12 months, will be analysed using a mixed-effects regression analysis. The model will include baseline HbA1c, treatment group, time, and other covariates as fixed effects, and the DIAMONDS Coach as a random effect, nested within the treatment group.",
+    "title": "Primary Outcome Analysis Model",
+    "summary": "The primary outcome will be analysed using a sophisticated statistical model called a mixed-effects regression. This model will account for baseline values, the treatment group, time, and will also adjust for the fact that different coaches deliver the intervention.",
+    "context": "This is detailed in the 'Primary outcome' subsection of the 'Statistical analysis' section. The choice of this model is appropriate for the trial's design."
+  },
+  {
+    "q": "What is the target sample size for qualitative interviews with participants and carers?",
+    "a": "For the qualitative process evaluation, the research team aims to recruit and interview two key groups:\n\n*   **Participants:** A sample of 20–25 participants who completed the intervention.\n*   **Carers:** A sample of 20–25 carers of service-users participating in the trial.",
+    "title": "Qualitative Interview Sample Sizes",
+    "summary": "For the process evaluation, the researchers plan to conduct in-depth interviews with two groups. They aim to interview 20-25 participants from the intervention group and 20-25 carers of trial participants.",
+    "context": "These target numbers are specified in the 'Qualitative evaluation' section. These sample sizes are typical for qualitative research aiming to achieve thematic saturation."
+  },
+  {
+    "q": "Which committee has oversight of the trial and also acts as the Data Monitoring Committee?",
+    "a": "An independent Programme Steering Committee (PSC) has oversight of the trial. Due to the low-risk nature of the intervention, the PSC will also undertake the role of the Data Monitoring Committee.",
+    "title": "Trial Oversight Committee",
+    "summary": "An independent Programme Steering Committee (PSC) is responsible for the overall oversight of the trial. Unusually, this committee also serves as the Data Monitoring Committee, a decision made because the intervention is considered low-risk.",
+    "context": "This is explained in the 'Trial oversight' section. This structure ensures independent expert supervision of the trial's conduct and safety."
+  },
+  {
+    "q": "What is the rationale for using a central laboratory for blood sample analysis?",
+    "a": "A single, central United Kingdom Accreditation Service registered laboratory will be used for all blood sample analyses. The rationale is to avoid the inadvertent introduction of differences in measurements of HbA1c that could occur from using several different local laboratories.",
+    "title": "Rationale for Central Laboratory Use",
+    "summary": "The trial uses a single central lab to analyse all blood samples to ensure maximum consistency and reliability of the primary outcome data. This eliminates measurement variation between different sites, which is a key strength of the study design.",
+    "context": "This is stated in the 'Primary outcome' section and listed as a strength. It is a crucial quality control measure for a multicentre clinical trial."
+  },
+  {
+    "q": "How did the DIAMONDS Voice group contribute to the trial's design?",
+    "a": "The DIAMONDS Voice group made several critical contributions:\n\n| Contribution Area | Specific Action |\n|---|---|\n| **Intervention Content** | Contributed critically to the content of the intervention itself. |\n| **Intervention Materials** | Contributed to the development of the app and workbook. |\n| **Participant Documents** | Reviewed all participant-facing documentation, including consent forms and questionnaires. |\n| **Study Procedures** | Were consulted about the acceptability of taking blood and other physical health measurements. |\n| **Recruitment** | Advise on recruitment strategies and support recruitment within their networks. |",
+    "title": "Contributions of DIAMONDS Voice",
+    "summary": "The patient and public involvement group, DIAMONDS Voice, contributed extensively to the trial. They were involved in designing the intervention, reviewing all participant-facing documents, advising on recruitment, and will help disseminate the findings.",
+    "context": "The extensive role of this group is detailed in the 'Patient and public involvement (PPI)' section. This demonstrates a deep commitment to co-production in the research process."
+  },
+  {
+    "q": "What is the full title of the trial described in this protocol?",
+    "a": "The full title is 'DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial'.",
+    "title": "Full Trial Title",
+    "summary": "The formal title of the study clearly states that it is a protocol for a randomised controlled trial of a diabetes self-management intervention called DIAMONDS, specifically for people with severe mental illness.",
+    "context": "The full title is provided at the very beginning of the document and precisely describes the nature and scope of the research being planned."
+  },
+  {
+    "q": "What statistical analysis will be used for secondary outcomes?",
+    "a": "Secondary outcomes will be analysed using mixed-effects regression analysis for continuous outcomes and logistic mixed models for categorical outcomes. These models will provide an overall treatment effect over 12 months, as well as estimates at individual time-points (six and 12 months).",
+    "title": "Analysis of Secondary Outcomes",
+    "summary": "The trial will use mixed-effects models to analyse its secondary outcomes, which is consistent with the analysis of the primary outcome. This will allow for an estimation of the intervention's effect over the full year of follow-up.",
+    "context": "This is described in the 'Secondary outcomes' subsection of the 'Statistical analysis' section."
+  },
+  {
+    "q": "What is the role of York Trials Unit (YTU) in the trial?",
+    "a": "York Trials Unit (YTU) has several key roles in the trial's operation:\n\n*   **Randomisation:** YTU provides the central web-based randomisation service.\n*   **Data Management:** YTU receives and processes the paper-based Case Report Forms (CRFs), including scanning, error checking, and validation.\n*   **Safety Procedures:** The trial uses YTU standard operating procedures for things like duty of care and researcher safety.",
+    "title": "Role of York Trials Unit (YTU)",
+    "summary": "York Trials Unit (YTU) provides crucial infrastructure and operational support for the trial. This includes managing the randomisation process, handling data collection and management, and providing standard operating procedures for safety.",
+    "context": "YTU is mentioned multiple times throughout the protocol in sections like 'Assignment of groups', 'Data collection and management', and 'Duty of care'."
+  },
+  {
+    "q": "Which ethical body approved this study?",
+    "a": "This study received ethics approval by the West of Scotland Research Ethics Committee 3 (22/WS/0117).",
+    "title": "Ethical Approval",
+    "summary": "The trial received ethical approval from the West of Scotland Research Ethics Committee 3. This is a mandatory step for conducting clinical research involving human participants in the UK.",
+    "context": "This information is provided in the abstract and the 'Ethics and dissemination' section, confirming the study has passed ethical review."
+  },
+  {
+    "q": "What types of SMI diagnoses are included in the trial?",
+    "a": "The trial includes participants with a range of SMI diagnoses. These are:\n\n*   Schizophrenia\n*   Bipolar disorder\n*   Schizoaffective disorder\n*   Psychosis\n*   Severe depression",
+    "title": "Included SMI Diagnoses",
+    "summary": "The trial is not limited to a single SMI diagnosis and includes a range of conditions. Eligible diagnoses include schizophrenia, bipolar disorder, schizoaffective disorder, psychosis, and severe depression.",
+    "context": "These are listed in the abstract and the 'Eligibility criteria' section, defining the specific mental health population being studied."
+  },
+  {
+    "q": "What are the key topics covered in the DIAMONDS intervention?",
+    "a": "The intervention is a tailored self-management support program that aims to help people with SMI self-manage their diabetes by focusing on several key areas:\n\n| Key Topic | Description |\n|---|---|\n| **Knowledge and skills** | Increasing general knowledge for diabetes self-management. |\n| **Lifestyle** | Providing support to increase physical activity and make healthier food choices. |\n| **Problem Areas** | Identifying and addressing sleep difficulties, barriers to taking medications, and other participant-identified problems. |\n| **Mood** | Supporting participants to manage their diabetes within the context of fluctuating and low mood. |",
+    "title": "Key Intervention Topics",
+    "summary": "The intervention covers a range of topics crucial for diabetes self-management, including diet, exercise, medication, and sleep. Uniquely, it also addresses how to manage diabetes in the context of fluctuating mental health.",
+    "context": "These content areas are explicitly listed in 'The DIAMONDS intervention' section."
+  },
+  {
+    "q": "What is the analysis basis for the trial's statistical analyses?",
+    "a": "Statistical analyses will be conducted on an intention-to-treat basis. This means that all participants will be analysed in the group to which they were originally randomised, regardless of whether they received or completed the intervention.",
+    "title": "Basis of Statistical Analysis",
+    "summary": "The trial will use an intention-to-treat (ITT) analysis. This is a standard and robust approach in clinical trials where participants are analysed in their originally assigned groups, which preserves the benefits of randomisation.",
+    "context": "This is stated in the 'Statistical analysis' section. It is a fundamental principle of RCT methodology."
+  },
+  {
+    "q": "How will the research team collect data from general practices?",
+    "a": "General practices will act as Participant Identification Centres (PICs). They will be asked to screen their SMI and LTC quality and outcomes framework registers for potentially eligible patients. GPs will then confirm eligibility and can approach patients during their annual health checks or via a mailout, asking for consent-to-contact (CTC).",
+    "title": "Data Collection from General Practices",
+    "summary": "GP practices will help identify potential participants by searching their patient registers. They will then approach these individuals to seek their permission to be contacted by the main research team.",
+    "context": "This recruitment pathway is described under 'GP database screening'. It is one of several methods used to reach the target population."
+  },
+  {
+    "q": "What happens to the intervention materials after the six-month intervention period is over?",
+    "a": "Participants will be able to continue engaging with the intervention content after the six-month period and follow-up data collection have concluded. They can do this through continued use of the 'Change One Thing' app and/or the DIAMONDS workbook.",
+    "title": "Post-Intervention Access to Materials",
+    "summary": "After the formal six-month intervention period ends, participants are able to keep and continue using the app and workbook. This allows for ongoing self-management support beyond the duration of the active trial period.",
+    "context": "This is stated in 'The DIAMONDS intervention' section. It reflects the intervention's goal of fostering long-term self-management skills."
+  },
+  {
+    "q": "What is the current version of the trial protocol and its date?",
+    "a": "The current protocol is version 1.3, dated 07 February 2024. There have been three modifications to the protocol since the trial was first approved.",
+    "title": "Current Protocol Version",
+    "summary": "The protocol document describes version 1.3 of the trial plan, dated February 7, 2024. The trial has undergone three approved modifications since its inception.",
+    "context": "This version information is provided in the 'Ethics and dissemination' section, ensuring transparency about the protocol's history and updates."
+  },
+  {
+    "q": "What is the rationale for the original sample size calculation of 450 participants?",
+    "a": "The original sample size of 450 participants (225 per group) was calculated to provide approximately 90% power to detect a clinically meaningful difference of 5.5 mmol/mol (0.5%) in HbA1c at 12 months. This calculation assumed an average cluster size of 10-12 participants per coach, an intraclass correlation of 0.02, and adjusted for 20% attrition.",
+    "title": "Original Sample Size Rationale",
+    "summary": "The initial target of 450 participants was statistically calculated to ensure the trial had a 90% chance of detecting a clinically significant improvement in blood sugar control. The calculation also accounted for potential drop-outs and the clustered nature of the intervention delivery.",
+    "context": "The detailed assumptions for the original sample size calculation are provided in the 'Sample size' section."
+  },
+  {
+    "q": "How will the intervention fidelity be assessed?",
+    "a": "Intervention fidelity will be achieved by having trained observers observe coaching sessions. For each observation, the observer will complete a checklist supported by an intervention fidelity coding manual. This process will be tested for inter-rater reliability to ensure consistency.",
+    "title": "Fidelity Assessment Method",
+    "summary": "To check that the intervention is delivered correctly, trained observers will watch coaching sessions and score them using a standardized checklist and manual. The reliability of these observers will be tested to ensure the fidelity data is accurate.",
+    "context": "This is detailed in the 'Intervention fidelity observations' section. It is a key part of the process evaluation to ensure the trial is testing what it intends to test."
+  },
+  {
+    "q": "Which ethical principle governs consent for participants who may lack capacity?",
+    "a": "The trial protocol specifies that individuals who lack the capacity to consent will be excluded. This is defined by the 2005 Mental Health Capacity Act.",
+    "title": "Consent and Capacity",
+    "summary": "A key exclusion criterion is the lack of capacity to consent, as defined by the UK's 2005 Mental Health Capacity Act. This ensures that all participants have the ability to make an informed and voluntary decision to take part in the research.",
+    "context": "This is listed as exclusion criterion number 5 in the 'Eligibility criteria' section. It is a fundamental ethical requirement for research."
   }
 ]

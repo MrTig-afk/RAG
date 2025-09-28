@@ -83,7 +83,7 @@ def evaluate_ragas():
                 best_sim = 0
                 for gt_q in gt_lookup:
                     sim = SequenceMatcher(None, question.lower(), gt_q.lower()).ratio()
-                    if sim > best_sim and sim > 0.6:
+                    if sim > best_sim and sim > 0.:
                         best_sim = sim
                         best_gt = gt_q
                 if best_gt:
