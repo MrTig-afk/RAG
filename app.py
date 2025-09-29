@@ -68,8 +68,10 @@ def get_conversation_chain(vectorstore):
 # Save/load predictions
 # -----------------------------
 def save_predictions_log():
+    # Combine all QA pairs for saving
+    all_qa_pairs = st.session_state.all_qa_pairs + st.session_state.current_session_qa
     with open(PREDICTIONS_LOG, "w", encoding="utf-8") as f:
-        json.dump(st.session_state.qa_pairs, f, ensure_ascii=False, indent=2)
+        json.dump(all_qa_pairs, f, ensure_ascii=False, indent=2)
 
 def load_predictions_log():
     if os.path.exists(PREDICTIONS_LOG):
@@ -84,18 +86,23 @@ def handle_userinput(user_question):
     try:
         response = st.session_state.conversation({"question": user_question})
         answer = response["answer"]
-        st.session_state.qa_pairs.append({"question": user_question, "answer": answer})
+        # Add to current session for display
+        st.session_state.current_session_qa.append({"question": user_question, "answer": answer})
+        # Save all QA pairs (previous + current session)
         save_predictions_log()
+        # Mark that we've processed this question
+        st.session_state.last_processed_question = user_question
+        st.session_state.should_clear_input = True  # Flag to clear input
     except Exception as e:
         st.error(f"Error processing question: {str(e)}")
 
 # -----------------------------
-# Display chat history
+# Display current chat only (no previous conversations)
 # -----------------------------
-def display_chat_history():
-    if st.session_state.qa_pairs:
-        st.subheader("Conversation")
-        for qa in st.session_state.qa_pairs:
+def display_current_chat():
+    if st.session_state.current_session_qa:
+        # Only show Q&A from the current session
+        for qa in st.session_state.current_session_qa:
             question = qa.get("question") or qa.get("q") or "Unknown question"
             answer = qa.get("answer") or qa.get("a") or "No answer"
             st.write(user_template.replace("{{MSG}}", question), unsafe_allow_html=True)
@@ -110,29 +117,58 @@ def main():
     st.write(css, unsafe_allow_html=True)
     st.header("Chat with multiple PDFs :books:")
 
+    # Initialize session states
+    if "conversation_initialized" not in st.session_state:
+        st.session_state.conversation_initialized = False
+    if "last_processed_question" not in st.session_state:
+        st.session_state.last_processed_question = ""
+    if "user_input" not in st.session_state:
+        st.session_state.user_input = ""
+    if "current_session_qa" not in st.session_state:
+        st.session_state.current_session_qa = []
+    if "all_qa_pairs" not in st.session_state:
+        st.session_state.all_qa_pairs = load_predictions_log()
+    if "should_clear_input" not in st.session_state:
+        st.session_state.should_clear_input = False
+
     # Load vectorstore & conversation
-    if "conversation" not in st.session_state:
+    if not st.session_state.conversation_initialized:
         if os.path.exists(VECTORSTORE_PATH):
-            vectorstore = load_vectorstore(VECTORSTORE_PATH)
-            st.session_state.conversation = get_conversation_chain(vectorstore)
+            try:
+                vectorstore = load_vectorstore(VECTORSTORE_PATH)
+                st.session_state.conversation = get_conversation_chain(vectorstore)
+                st.session_state.conversation_initialized = True
+            except Exception as e:
+                st.error(f"Error initializing conversation: {str(e)}")
         else:
             st.error(f"Vectorstore not found at {VECTORSTORE_PATH}")
             st.info("Run create_pickle.py first")
             return
 
-    # Load previous QA
-    if "qa_pairs" not in st.session_state:
-        st.session_state.qa_pairs = load_predictions_log()
+    # Display only current session chat
+    display_current_chat()
 
-    display_chat_history()
-
+    # Chat input at the bottom
     st.markdown("---")
-    st.subheader("Ask a new question")
-    with st.form(key="question_form", clear_on_submit=True):
-        user_question = st.text_input("Enter your question:", placeholder="Type here...")
-        submit_button = st.form_submit_button("Ask Question")
-
-    if submit_button and user_question:
+    
+    # Clear input if flag is set
+    if st.session_state.should_clear_input:
+        st.session_state.user_input = ""
+        st.session_state.should_clear_input = False
+    
+    # Text input that submits on Enter
+    user_question = st.text_input(
+        "Ask a question:", 
+        placeholder="Type your question here and press Enter...",
+        key="user_input",
+        label_visibility="collapsed"
+    )
+    
+    # Process question when user presses Enter and it's a new question
+    if (user_question and 
+        user_question != st.session_state.last_processed_question and
+        st.session_state.conversation_initialized):
+        
         with st.spinner("Thinking..."):
             handle_userinput(user_question)
         st.experimental_rerun()
@@ -142,12 +178,16 @@ def main():
         st.header("Evaluation & About")
         st.info("Chat with your PDFs using AI.")
 
-        if st.session_state.qa_pairs:
-            st.write(f"Conversation length: {len(st.session_state.qa_pairs)} Q&A pairs")
-            if st.button("Clear Conversation"):
-                st.session_state.qa_pairs = []
-                if os.path.exists(PREDICTIONS_LOG):
-                    os.remove(PREDICTIONS_LOG)
+        total_pairs = len(st.session_state.all_qa_pairs) + len(st.session_state.current_session_qa)
+        if total_pairs > 0:
+            st.write(f"Total Q&A pairs: {total_pairs}")
+            st.write(f"Current session: {len(st.session_state.current_session_qa)}")
+            
+            if st.button("Clear Current Session"):
+                st.session_state.current_session_qa = []
+                st.session_state.last_processed_question = ""
+                st.session_state.user_input = ""
+                st.session_state.should_clear_input = False
                 st.experimental_rerun()
 
             st.markdown("---")
@@ -156,6 +196,8 @@ def main():
                 st.subheader("Evaluation Metrics")
                 if st.button("🚀 Quick Evaluation"):
                     with st.spinner("Evaluating..."):
+                        # Combine all Q&A for evaluation
+                        all_qa = st.session_state.all_qa_pairs + st.session_state.current_session_qa
                         results = evaluate_quick()
                     st.success("Quick Evaluation Complete!")
                     st.write(f"BLEU: {results['bleu']:.4f}")
