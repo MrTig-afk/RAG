@@ -19,7 +19,7 @@ def convert_pdf_files(folder_path):
                 print(f"Error converting {filename}: {e}")
 
 # Usage - replace with your actual folder path
-folder_path = r"D:\MSDS 2nd Sem\Case Studies in Data Science\Assignments\Github\pdfs"  # Windows
+folder_path = r"D:\MS In DataScience\Semester 2\Case Studies\WIL Mini project\RAG\pdfs"  # Windows
 # folder_path = "/path/to/your/folder"   # Linux/Mac
 
 convert_pdf_files(folder_path)

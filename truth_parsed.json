@@ -2362,5 +2362,910 @@
       "summary": "A key exclusion criterion is the lack of capacity to consent, as defined by the UK's 2005 Mental Health Capacity Act. This ensures that all participants have the ability to make an informed and voluntary decision to take part in the research.",
       "context": "This is listed as exclusion criterion number 5 in the 'Eligibility criteria' section. It is a fundamental ethical requirement for research."
     }
+  ],
+  [
+    {
+      "q": "What is the full title and citation information for the DIAMONDS trial protocol article?",
+      "a": "The full title of the article is **DIAMONDS—a diabetes self-management intervention for people with severe mental illness: protocol for an individually randomised controlled multicentre trial**. It was published in the journal *BMJ Open* in 2025, volume 15, issue 3, with the article number e090295. The corresponding DOI is 10.1136/bmjopen-2024-090295.",
+      "title": "Protocol Title and Citation",
+      "summary": "The DIAMONDS protocol, published in BMJ Open (2025), outlines a randomized controlled multicentre trial focused on a diabetes self-management intervention for people with severe mental illness (SMI) and Type 2 diabetes mellitus (T2DM). The article identifies Grace Catherine O’Carroll and Jennifer V E Brown as key authors.",
+      "context": "The source material provides the repository copy information, including the article title, authors, journal name (BMJ Open), year (2025), and key identifiers such as the DOI and ISSN (2044-6055)."
+    },
+    {
+      "q": "What is the primary aim of the DIAMONDS randomized controlled trial (RCT)?",
+      "a": "The primary aim of the DIAMONDS RCT is to **evaluate the clinical and cost effectiveness of a novel, codesigned, supported diabetes self-management programme** for people who have both Type 2 diabetes mellitus (T2DM) and severe mental illness (SMI), compared with usual care.",
+      "title": "Primary Aim of the Trial",
+      "summary": "The main goal of the DIAMONDS RCT is to assess whether the codesigned self-management intervention is clinically and cost-effective for participants living with both T2DM and SMI. This assessment will include an economic evaluation and a process evaluation.",
+      "context": "The trial aims section explicitly states the objective to investigate the clinical and cost-effectiveness of the DIAMONDS intervention against usual care for this specific comorbid population."
+    },
+    {
+      "q": "Which specific diagnoses qualify an individual for the \"severe mental illness (SMI)\" criterion for participation in the DIAMONDS trial?",
+      "a": "The following diagnoses confirm a diagnosis of severe mental illness (SMI) for participant eligibility, provided the diagnosis is confirmed by a clinician or stated in patient medical records:\n\n| Diagnosis Category | Specific Conditions |\n|:---|:---|\n| SMI Diagnoses | Schizophrenia |\n| SMI Diagnoses | Bipolar disorder |\n| SMI Diagnoses | Schizoaffective disorder |\n| SMI Diagnoses | Psychosis |\n| SMI Diagnoses | Severe depression |",
+      "title": "SMI Eligibility Diagnoses",
+      "summary": "Participants must have a diagnosis of severe mental illness confirmed by a clinician or medical records, along with T2DM. The specific SMI diagnoses include schizophrenia, bipolar disorder, schizoaffective disorder, psychosis, and severe depression.",
+      "context": "The eligibility criteria define SMI as long-term mental illnesses such as schizophrenia, bipolar disorder, schizoaffective disorder, psychosis, and severe depression."
+    },
+    {
+      "q": "What is the primary outcome measure for the DIAMONDS trial, and at what time point is the difference between groups analyzed?",
+      "a": "The primary outcome measure is the **adjusted difference in glycated haemoglobin (HbA1c)** between the intervention and control groups. This primary outcome is specifically analyzed at **12 months post-randomisation**. HbA1c is measured from blood samples analyzed at a central masked laboratory.",
+      "title": "Primary Outcome Measure and Timing",
+      "summary": "The primary measure of the trial's success is the change in glycated haemoglobin (HbA1c) levels. The difference between the two treatment groups will be analyzed specifically at 12 months after randomization.",
+      "context": "The protocol specifies that the primary outcome is the difference in HbA1c at 12 months post-randomization, using blood samples sent to a central UK Accreditation Service registered laboratory to ensure consistency and minimize bias."
+    },
+    {
+      "q": "How is the DIAMONDS intervention delivered to participants in the intervention group?",
+      "a": "The DIAMONDS intervention is delivered over a 6-month period by a trained DIAMONDS Coach. The delivery format combines individual sessions and the use of supporting materials:\n\n| Delivery Component | Description |\n|:---|:---|\n| **Duration** | 6 months |\n| **Format** | One-to-one sessions with a trained DIAMONDS Coach |\n| **Core Material** | Paper-based workbook (the 'DIAMONDS Workbook') |\n| **Optional Material** | Digital application ('Change One Thing') |",
+      "title": "Intervention Delivery Format",
+      "summary": "The intervention is a supported diabetes self-management programme delivered one-to-one by a DIAMONDS Coach over six months. It utilizes a paper-based workbook and an optional digital application called 'Change One Thing'.",
+      "context": "The intervention section details the 6-month duration, the one-to-one coaching sessions, and the use of the paper-based workbook, potentially supported by the digital application."
+    },
+    {
+      "q": "What are the planned start and finish dates for the overall DIAMONDS study, and when is recruitment planned to conclude?",
+      "a": "The overall study and recruitment phases have specific scheduled timelines:\n\n| Trial Phase | Planned Start Date | Planned Finish Date |\n|:---|:---|:---|\n| Overall Study | September 2022 | September 2025 |\n| Recruitment | December 2022 | September 2024 |",
+      "title": "Trial Timeline",
+      "summary": "The DIAMONDS study is planned to run from September 2022 to September 2025. The participant recruitment phase is scheduled to last approximately 21 months, starting in December 2022 and ending in September 2024.",
+      "context": "The Methods and Analysis section details the trial design, including the start and finish dates for the overall study and the recruitment period."
+    },
+    {
+      "q": "What inclusion criteria must participants meet to be eligible for the DIAMONDS trial?",
+      "a": "Participants must meet three specific inclusion criteria:\n\n| Criterion Number | Requirement |\n|:---|:---|\n| (1) Age and Location | Be aged 18 years or older and living in the community |\n| (2) Mental Health Diagnosis | Have a diagnosis of severe mental illness (SMI), including schizophrenia, bipolar disorder, schizoaffective disorder, psychosis, or severe depression |\n| (3) Diabetes Diagnosis | Have Type 2 Diabetes Mellitus (T2DM) |",
+      "title": "Participant Inclusion Criteria",
+      "summary": "Inclusion criteria require participants to be adults (18+) living in the community who have a clinician-confirmed diagnosis of both T2DM and a severe mental illness such as schizophrenia or severe depression.",
+      "context": "The eligibility criteria outline the necessary characteristics: age, residency (community), and confirmed diagnoses of both SMI (listing specific conditions) and T2DM."
+    },
+    {
+      "q": "What were the two main reasons Type 2 Diabetes Mellitus (T2DM) is a critical health inequality concern for people with SMI, according to the sources?",
+      "a": "T2DM represents a critical health inequality because it is two to three times more common in people with severe mental illness (SMI) than in the general population. Furthermore, T2DM, when comorbid with SMI, is associated with poorer outcomes compared to individuals who have diabetes alone [12, 6–8]. People with SMI also experience a life expectancy that is 15–20 years shorter, mainly due to comorbid physical illnesses.",
+      "title": "T2DM and SMI Health Inequality",
+      "summary": "T2DM is 2-3 times more prevalent in people with SMI compared to the general population, contributing to significant health inequality. Additionally, the co-occurrence of SMI and diabetes leads to poorer health outcomes than diabetes alone, reflecting the difficulty of managing both conditions simultaneously.",
+      "context": "The introduction highlights that T2DM is highly prevalent in the SMI population and leads to worse outcomes, emphasizing the resulting health inequalities."
+    },
+    {
+      "q": "What are the key elements of diabetes self-management activities mentioned in the source material?",
+      "a": "Diabetes self-management involves several key practices and behaviors that individuals engage in to protect and promote their health. These activities include:\n\n| Self-Management Activity | Description |\n|:---|:---|\n| Improving Diet | Adjusting food intake for better health |\n| Physical Activity | Engaging in exercise |\n| Smoking Cessation | Quitting smoking |\n| Monitoring Blood Glucose | Regularly checking blood sugar levels |\n| Preventing Complications | Taking preventative health measures |\n| Treatment Adherence | Consistently following medication/treatment plans |",
+      "title": "Diabetes Self-Management Components",
+      "summary": "Self-management activities are fundamental to improving clinical outcomes for long-term conditions like diabetes. These include adherence to treatment, monitoring blood glucose, increasing physical activity, improving diet, smoking cessation, and preventing complications.",
+      "context": "The protocol details the components of self-management, emphasizing that most diabetes care relies on these skills and practices."
+    },
+    {
+      "q": "How many participants were originally estimated for the sample size calculation, and what was the reason for the reduction in the target number?",
+      "a": "The original sample size calculation estimated that **450 participants** needed to be randomized, with 225 per group. This calculation aimed for approximately 90% power. However, due to **slower than anticipated recruitment**, the target sample size was amended to **380 participants** (retaining 88% statistical power). The reduction was achieved by including an adjustment for the correlation between baseline and 12 months HbA1c (0.3), reflecting the repeated measures analysis model planned for the primary analysis.",
+      "title": "Sample Size Adjustment",
+      "summary": "The initial target sample size was 450 participants, based on 90% power and a 20% attrition rate. This was reduced to 380 participants because of slower recruitment, achieved by adjusting the calculation to account for the correlation between baseline and 12-month HbA1c values.",
+      "context": "The Sample size and statistical analysis section explains both the original calculation (450 participants) and the revised calculation (380 participants) following discussions with the Programme Steering Committee (PSC) in February 2024."
+    },
+    {
+      "q": "Describe the involvement of the DIAMONDS Voice group in the research.",
+      "a": "DIAMONDS Voice is a service-user and carer group that has been integral to the DIAMONDS programme for several years. This group consists of adults with SMI and family carers. They collaborated on the co-design and refinement of the intervention content and materials (including the app and workbook). For the RCT, they reviewed all participant-facing documentation, advised on recruitment strategies, consulted on the acceptability of physical health measurements (like taking blood), and will support dissemination and knowledge exchange activities.",
+      "title": "Patient and Public Involvement (PPI)",
+      "summary": "DIAMONDS Voice is the service-user and carer group dedicated to supporting the research, comprising individuals with SMI and their family carers. They co-designed the intervention, reviewed all trial documentation, and advised on acceptable methods for data collection and recruitment strategies.",
+      "context": "Patient and Public Involvement (PPI) is highlighted as a strength, noting their critical contribution to intervention development, material refinement, document review, and ongoing guidance on recruitment and dissemination."
+    },
+    {
+      "q": "Where will the DIAMONDS trial be conducted?",
+      "a": "The DIAMONDS trial is a multicentre trial conducted in National Health Service (NHS) mental health trusts across England. Recruitment sites will also include general practices acting as Participant Identification Centres (PICs) and third sector organizations providing support to individuals with SMI and/or diabetes.",
+      "title": "Trial Setting",
+      "summary": "The trial is a multicentre effort taking place in England. The primary settings for the study include NHS mental health trusts, general practices (PICs), and third sector organizations supporting the target population.",
+      "context": "The Methods and analysis section specifies the setting as NHS mental health trusts across England, supplemented by PICs and third sector organizations."
+    },
+    {
+      "q": "What physical health measures, aside from HbA1c, are included as secondary outcomes in the trial?",
+      "a": "Secondary outcomes include a broad clinical and psychosocial profile. The physical health measures collected are:\n\n| Physical Health Measure | Outcome Domain |\n|:---|:---|\n| Total cholesterol | Physical health |\n| Haemoglobin | Physical health |\n| Body mass index (BMI) | Physical health |\n| Waist circumference | Physical health |\n| Blood pressure | Physical health |\n| Smoking status | Physical health |\n| Urinary albumin to creatinine ratio | Diabetes complications |",
+      "title": "Secondary Physical Health Outcomes",
+      "summary": "Secondary outcomes cover physical health, physical activity, mental health, diabetes measures, quality of life, health resource use, and mechanisms of action. Physical health measures specifically include cholesterol, haemoglobin, BMI, waist circumference, blood pressure, smoking status, and urinary albumin to creatinine ratio.",
+      "context": "The secondary outcomes section lists a variety of measures, providing a detailed breakdown of the physical health parameters being tracked during the trial."
+    },
+    {
+      "q": "Who delivers the DIAMONDS intervention, and what are their primary roles?",
+      "a": "The intervention is delivered by a **DIAMONDS Coach**, who is a healthcare professional trained specifically in the delivery of the DIAMONDS intervention. Their primary roles during the one-to-one sessions include focusing on goal setting, action planning, and diabetes self-management education. They also support participants in identifying and addressing key problem areas, such as sleep difficulties, barriers to medication adherence, and managing diabetes within the context of fluctuating and low mood.",
+      "title": "DIAMONDS Coach Role",
+      "summary": "The DIAMONDS Coach, a trained healthcare professional, delivers the intervention over six months. Their role involves facilitating one-to-one sessions focused on action planning, goal setting, diabetes education, and addressing complex barriers like mood fluctuations and medication adherence difficulties.",
+      "context": "The protocol defines the Coach as the intervention facilitator, emphasizing their training and their function in supporting behavioral changes and addressing participant-identified problems."
+    },
+    {
+      "q": "What are the six specific exclusion criteria for participation in the DIAMONDS trial?",
+      "a": "People will be excluded from the DIAMONDS trial if they meet any of the following criteria:\n\n| Exclusion Criterion | Description |\n|:---|:---|\n| 1 | Cognitive impairments that would preclude engagement with the intervention |\n| 2 | Have gestational diabetes |\n| 3 | Have type 1 diabetes |\n| 4 | Have other types of secondary diabetes |\n| 5 | Lack capacity to consent to participate in the trial (as defined by the 2005 Mental Health Capacity Act) |\n| 6 | Are currently in an inpatient stay in an acute or mental health hospital |",
+      "title": "Trial Exclusion Criteria",
+      "summary": "Exclusion criteria ensure participants can engage with the trial and intervention and prevent confounding from different diabetes types or clinical settings. Participants are excluded if they have cognitive impairments precluding engagement, have Type 1, gestational, or other secondary diabetes, lack capacity to consent, or are currently an inpatient.",
+      "context": "The eligibility criteria section lists six specific conditions or statuses that prevent an individual from participating in the trial, focusing on capacity, comorbidities, and current care setting."
+    },
+    {
+      "q": "How often are outcome assessments collected from participants post-randomization?",
+      "a": "Participants will be followed up for one year. Outcomes, including the primary and secondary measures, will be collected at baseline, and then at **six and 12 months post-randomisation**. These data collection appointments occur during meetings with the R&D teams at participating sites.",
+      "title": "Outcome Assessment Schedule",
+      "summary": "Outcome data are collected at three main time points: baseline, six months post-randomization, and 12 months post-randomization. The follow-up period lasts for one year.",
+      "context": "The trial design specifies that participants are followed up for one year, with assessments scheduled at six and 12 months after baseline randomization."
+    },
+    {
+      "q": "How is physical activity objectively measured during the trial, and at which time points is this objective measurement collected?",
+      "a": "Physical activity is objectively measured using a **wrist-worn accelerometer** (GENEActiv, Activinsights, Kimbolton, UK). Participants are asked to wear the device for seven days. Objective accelerometer data is collected only at **baseline and six months follow-up**. Data is not collected at the 12-month follow-up because previous studies reported decreased adherence levels following six months of wear.",
+      "title": "Objective Physical Activity Measurement",
+      "summary": "Physical activity is objectively measured using a GENEActiv wrist-worn accelerometer worn for seven days. This objective data collection occurs only at baseline and the six-month follow-up, excluding the 12-month mark due to anticipated decreased adherence.",
+      "context": "The data collection section details the use of the GENEActiv accelerometer for objective physical activity measures, specifying the wear duration and the time points of collection."
+    },
+    {
+      "q": "What methods will be used to disseminate the findings of the DIAMONDS study beyond academic audiences?",
+      "a": "The dissemination plan includes various methods to communicate findings broadly:\n\n| Dissemination Method | Target Audience |\n|:---|:---|\n| Peer-reviewed, academic, and professional journals | Clinicians and academics |\n| **Plain language summaries** | Participants and stakeholders |\n| **Infographics and audio summaries on the website** | General public and stakeholders |\n| Conferences and dissemination events | Stakeholders and professionals |\n| Summary of results distributed to participants | Participants |\n| Social media channels and websites | General public and wider audience |\n| Knowledge exchange events | Widespread communication |",
+      "title": "Dissemination Strategy",
+      "summary": "Findings will be published academically, but results will also be shared widely through non-academic channels. Methods include distributing plain language summaries to participants and stakeholders, utilizing social media and websites, and creating infographics and audio summaries.",
+      "context": "The Ethics and dissemination section outlines the comprehensive strategy for sharing results, targeting both academic and non-academic audiences."
+    },
+    {
+      "q": "What is the definition of a 'carer' used for the purpose of the qualitative evaluation interviews in the DIAMONDS RCT?",
+      "a": "For the purpose of the qualitative evaluation, carers are defined as **unpaid carers** who are not subject to working regulations. They must provide support to a dependent person with whom they have a social relationship, such as a spouse, other relative, neighbor, friend, or other non-kin. Furthermore, only carers of service-users who are participating in the DIAMONDS RCT will be eligible for the interviews.",
+      "title": "Definition of Carer for Qualitative Interviews",
+      "summary": "The study defines carers as unpaid individuals, not subject to working regulations, who provide support to a dependent person they know socially, such as family or friends. Crucially, they must be the carer of a participant currently enrolled in the DIAMONDS RCT.",
+      "context": "The qualitative evaluation section provides a specific definition of carers for recruitment into the semi-structured interviews."
+    },
+    {
+      "q": "What is the rationale for using a central masked laboratory for analyzing blood samples for the primary outcome (HbA1c)?",
+      "a": "The primary outcome (glycated haemoglobin: HbA1c) is measured from blood samples analyzed at a central masked laboratory. The rationale for using a single central laboratory is **to avoid the inadvertent introduction of differences in measurements of HbA1c** that might occur through the use of several local laboratories. This process helps mitigate measurement bias.",
+      "title": "Rationale for Central HbA1c Analysis",
+      "summary": "A central, UK Accreditation Service registered laboratory is utilized for all blood sample analyses, including the primary outcome HbA1c. This ensures that differences in measurements due to variation among multiple local laboratories are avoided, thereby improving the reliability of the primary outcome.",
+      "context": "The Primary outcome section details the procedure for HbA1c measurement and the reasoning behind selecting one central, accredited laboratory."
+    },
+    {
+      "q": "What is the name of the digital application that participants in the DIAMONDS intervention group can optionally use?",
+      "a": "The optional digital application provided to participants in the DIAMONDS intervention group is called **'Change One Thing'**. It is intended to support the daily use of the paper-based workbook.",
+      "title": "Optional Digital Application",
+      "summary": "The intervention materials include a paper-based workbook and an optional digital application. The name of this optional digital application is 'Change One Thing'.",
+      "context": "The DIAMONDS intervention description mentions the materials, including the workbook and the optional digital app ('Change One Thing')."
+    },
+    {
+      "q": "List the four types of organizations/settings that will be used for participant recruitment in the DIAMONDS trial.",
+      "a": "Participants will be recruited from a variety of settings across England:\n\n| Recruitment Setting | Description |\n|:---|:---|\n| NHS mental health trusts | Primary sites for identifying and consenting patients |\n| General practices (GPs) | Acting as Participant Identification Centres (PICs) |\n| Third sector organisations | Groups providing support to individuals with SMI and/or diabetes |\n| Existing research cohorts | Individuals from previous related studies who consented to be contacted |",
+      "title": "Trial Recruitment Settings",
+      "summary": "Recruitment uses a multicentre approach across four main types of settings: NHS mental health trusts, General practices (as PICs), relevant local third sector organizations, and individuals from existing research cohorts who previously provided consent.",
+      "context": "The Setting and recruitment section details the various sources used to identify and enroll participants."
+    },
+    {
+      "q": "Describe the process for obtaining written informed consent from potential participants identified via NHS mental health trusts.",
+      "a": "Potential participants identified via NHS mental health trusts receive a study information pack containing an invitation letter and a short patient information sheet (PIS). They are given the opportunity to discuss questions with the research team (in person or over the phone). Following this, they receive the full PIS. A few days later, they are contacted to arrange a face-to-face meeting with the research team, where they have a further opportunity to ask questions. If the individual agrees to participate in the trial, they are then asked to give **written informed consent**.",
+      "title": "Consent Procedure via NHS Trusts",
+      "summary": "Recruitment from NHS trusts uses a staged consent process. Initial contact provides a short PIS and an invitation. Following discussions, a full PIS is given, leading to a face-to-face meeting where written informed consent is obtained from those wishing to participate.",
+      "context": "The protocol describes the detailed process for engaging and consenting patients identified through secondary care sites."
+    },
+    {
+      "q": "What is the required statistical power and significance level assumed for the sample size calculation after revision?",
+      "a": "The revised sample size target of 380 participants retains a statistical power of **88%**. All other assumptions remain the same as the original calculation. The statistical significance level for analyses will be set at the **5% level** (unless otherwise detailed in the Statistical Analysis Plan).",
+      "title": "Statistical Parameters",
+      "summary": "After the sample size revision reduced the required number of participants to 380, the statistical power retained was 88%. The statistical significance level used for analyses throughout the trial is 5%.",
+      "context": "The Sample size and statistical analysis sections confirm the revised power, the significance level, and the basis for the calculations."
+    },
+    {
+      "q": "What is the duration of the DIAMONDS intervention delivery period?",
+      "a": "The DIAMONDS intervention is delivered by a Coach over a period of **6 months**. Participants in the intervention group receive one-to-one sessions focusing on goal setting and diabetes self-management education during this period.",
+      "title": "Intervention Duration",
+      "summary": "The supported diabetes self-management program lasts for a total duration of six months, delivered through individual sessions with a trained DIAMONDS Coach.",
+      "context": "The protocol confirms the intervention length in relation to the coaching sessions and the overall trial timeline."
+    },
+    {
+      "q": "What is the ratio used for the individual randomization of eligible participants?",
+      "a": "Eligible and consenting participants will be randomized on a **1:1 basis**. The randomization process assigns participants either to the DIAMONDS intervention group or to the usual care control group. This assignment is managed centrally using computer-generated permuted blocks of randomly varying size.",
+      "title": "Randomization Ratio",
+      "summary": "The trial utilizes an individually randomized controlled design, assigning participants equally (1:1 ratio) to either the DIAMONDS intervention or the usual care arm. The randomization is managed by York Trials Unit (YTU) using a web-based service.",
+      "context": "The Assignment of groups section specifies the randomization ratio and method."
+    },
+    {
+      "q": "What components are included in the 'usual care' provided to the control group participants?",
+      "a": "Participants allocated to the control group receive **usual care for people with SMI and diabetes**. This usual care includes primary care health checks specific to SMI and diabetes, along with community-based mental healthcare delivered through Community Mental Health Teams (CMHTs). Control group participants are also eligible to self-enrol in existing generic diabetes self-management education programs recommended by the National Institute for Health and Care Excellence (NICE).",
+      "title": "Control Group: Usual Care",
+      "summary": "The control group continues to receive usual care, which encompasses routine primary care health checks for both SMI and diabetes, alongside support from CMHTs. They may also be signposted to existing, NICE-recommended generic diabetes self-management education programs.",
+      "context": "The control group section describes the standard care components they receive, emphasizing that participants may access generic, existing programs."
+    },
+    {
+      "q": "How are data collectors (R&D staff) blinded during the trial, and which staff members are intentionally unblinded?",
+      "a": "Efforts are made to maintain blinding for staff responsible for outcome assessment and data collection. However, due to the nature of the behavioral intervention, several groups cannot be blinded:\n\n| Personnel Group | Blinding Status | Rationale/Role |\n|:---|:---|:---|\n| R&D staff (Data collectors) | Blinded (Efforts made to maintain) | Collect outcome data; unblinding incidents recorded in CRF |\n| Participants | Unblinded | They know whether they receive the intervention or not |\n| Intervention Facilitators | Unblinded | DIAMONDS Coaches deliver the intervention |\n| Trial Statisticians | Unblinded | Responsible for final analysis |\n| Health Economists | Unblinded | Responsible for economic analysis |\n| Programme Manager/Coordinators | Unblinded | Coordinate the trial but are not involved in data analysis |",
+      "title": "Blinding Status in the Trial",
+      "summary": "Data collection staff are actively kept blinded to treatment allocation, with any accidental unblinding recorded. However, participants and intervention facilitators (Coaches) must be unblinded. Trial statisticians, health economists, and key coordination staff are also intentionally unblinded.",
+      "context": "The Blinding section clarifies that while data collectors are blinded, the nature of the behavioral intervention prevents blinding for participants and coaches."
+    },
+    {
+      "q": "What financial incentive is offered to participants for attending their appointments?",
+      "a": "Each participant is offered a **£10 high street gift voucher**. This incentive is provided at the three main data collection appointments: baseline, six months, and 12 months.",
+      "title": "Participant Incentives",
+      "summary": "Participants receive a £10 high street gift voucher as an incentive. This incentive is offered upon attendance at each of the three scheduled assessment appointments: baseline, six months, and 12 months.",
+      "context": "The protocol mentions the financial offering provided to participants for completing their required appointments."
+    },
+    {
+      "q": "What are the four core objectives the tailored DIAMONDS intervention aims to address for people with T2DM and SMI?",
+      "a": "The co-designed DIAMONDS intervention aims to support self-management through the following four primary goals:\n\n| Objective | Focus Area |\n|:---|:---|\n| 1 | Increasing knowledge and skills for diabetes self-management |\n| 2 | Providing support to increase physical activity levels and make healthier food choices |\n| 3 | Identifying and addressing sleep difficulties, barriers to taking medications, and other key participant-identified problems |\n| 4 | Supporting participants to manage their diabetes within the context of fluctuating and low mood |",
+      "title": "Core Intervention Objectives",
+      "summary": "The intervention is tailored to address specific needs of people with SMI and T2DM. Key objectives include improving knowledge and skills, supporting physical activity and diet, addressing barriers like medication adherence and sleep, and managing diabetes symptoms in the context of fluctuating mood.",
+      "context": "The DIAMONDS intervention section outlines the specific ways the intervention attempts to help participants self-manage their diabetes, tailored to their comorbid conditions."
+    },
+    {
+      "q": "If a participant withdraws from the DIAMONDS trial, what are the three categories of withdrawal defined in the protocol?",
+      "a": "The protocol defines three distinct categories for participant withdrawal:\n\n| Withdrawal Category | Definition |\n|:---|:---|\n| **Withdrawal from follow-ups** | Participant stops attending assessment appointments |\n| **Withdrawal from intervention** | Participant stops engaging with Coaches and the workbook/app, but follow-up data collection may continue |\n| **Full withdrawal** | Participant terminates all involvement in the trial |",
+      "title": "Participant Withdrawal Categories",
+      "summary": "Participants can withdraw at any point without penalty to their usual care. The three categories of withdrawal defined are withdrawal solely from follow-ups, withdrawal solely from the intervention (coaching/workbook), or full withdrawal from the study entirely.",
+      "context": "The Participant withdrawals section specifies the different types of withdrawal and the consequences for data retention (data collected up to the point of withdrawal is retained for analysis)."
+    },
+    {
+      "q": "What specific measure is used to assess quality of life as a secondary outcome?",
+      "a": "Quality of life is measured as a secondary outcome. Although the full details are in the supplemental appendix, one specific tool mentioned in relation to the participant pathway is the **EuroQol 5 Dimension 5 Level (EQ-5D-5L)**. The economic evaluation also uses the NHS and personal social services perspective as recommended by NICE guidance.",
+      "title": "Quality of Life Measurement",
+      "summary": "The trial collects quality of life data as a secondary outcome. The participant pathway diagram specifically references the EQ-5D-5L tool, which is a standard instrument used in health economic evaluations.",
+      "context": "The secondary outcomes mention quality of life. The participant pathway diagram (Figure 1) lists EQ-5D-5L, citing reference 61, as an outcome measure."
+    },
+    {
+      "q": "What were the key assumptions used in the initial sample size calculation that resulted in a target of 450 participants?",
+      "a": "The initial calculation aimed for 90% power, assuming a 5% significance level, to detect a clinically meaningful difference of 5.5 mmol/mol (0.5%) in HbA1c at 12 months. Key assumptions included:\n\n| Assumption Category | Parameter Value |\n|:---|:---|\n| Clinically Meaningful Difference in HbA1c | 5.5 mmol/mol (0.5%) |\n| Required Statistical Power | Approximately 90% |\n| Significance Level | 5% |\n| Estimated Attrition Rate | 20% |\n| Average Coach Cluster Size | 10–12 participants per Coach |\n| Intraclass Correlation (ICC) | 0.02 (in the intervention group) |",
+      "title": "Initial Sample Size Assumptions",
+      "summary": "The initial sample size target of 450 participants was based on detecting an HbA1c difference of 5.5 mmol/mol with 90% power. This required assuming a 20% attrition rate and an average cluster size of 10–12 participants per Coach, alongside an intraclass correlation of 0.02.",
+      "context": "The Sample size section details the parameters used in the calculation, derived from previous diabetes trials and NICE guidance."
+    },
+    {
+      "q": "What organization provided the ethical approval for this study, and what is the protocol version number?",
+      "a": "The study received ethics approval from the **West of Scotland Research Ethics Committee 3**. The reference number for this approval is 22/WS/0117. The current protocol version reported in the document is **version 1.3 (dated 07.02.2024)**.",
+      "title": "Ethics Approval and Protocol Version",
+      "summary": "Ethical approval for the DIAMONDS trial was granted by the West of Scotland Research Ethics Committee 3. The protocol has undergone three modifications since approval, with the current version being 1.3, dated February 7, 2024.",
+      "context": "The Ethics and dissemination section confirms the approving body and the specific protocol version being described in the paper."
+    },
+    {
+      "q": "What specific steps are taken to manage the risk of suicide and self-harm during participant encounters?",
+      "a": "A **suicide risk protocol** has been developed for the monitoring of suicide and self-harm risk during all encounters with study participants. If any risk to participants (due to expressed thoughts of self-harm or suicide) is encountered, a risk assessment will be conducted. Crucially, participants will be advised beforehand that if a concern of risk of harm to themselves or others arises, this concern **will need to be passed on to another party**, such as their General Practitioner (GP) or clinical care team.",
+      "title": "Suicide and Self-Harm Risk Management",
+      "summary": "The trial utilizes a defined suicide risk protocol for monitoring self-harm and suicide risk during all participant encounters. Participants are informed that if risk concerns are identified during assessment, these concerns must be escalated to their GP or clinical care team.",
+      "context": "The safety protocols include specific measures for managing suicide and self-harm risk, prioritizing external clinical reporting if risk is identified."
+    },
+    {
+      "q": "What type of analysis will be used for the primary outcome (HbA1c at 12 months post-randomisation)?",
+      "a": "The primary outcome, HbA1c at 12 months, will be analyzed using a **mixed-effects regression analysis**. This model will include HbA1c values at both six and 12 months follow-up as the dependent variables. Fixed effects will include baseline HbA1c, randomized treatment group, time, a treatment group-by-time interaction, and other important baseline covariates. Crucially, the DIAMONDS Coach who delivered the intervention will be included as a **random effect**, nested within the treatment group.",
+      "title": "Primary Outcome Statistical Analysis",
+      "summary": "The primary outcome (HbA1c at 12 months) will be analyzed using mixed-effects regression analysis. This model accounts for repeated measures (6 and 12 months) and incorporates the DIAMONDS Coach as a random effect, nested within the treatment group, to adjust for potential cluster effects.",
+      "context": "The Statistical analysis section provides a detailed description of the model specified for the primary outcome."
+    },
+    {
+      "q": "What organization is responsible for providing the central web-based randomisation service?",
+      "a": "The **York Trials Unit (YTU)** is responsible for providing the central web-based randomisation service. R&D teams at the participating sites will use this service to assign participant allocations after confirming eligibility and consent.",
+      "title": "Randomization Service Provider",
+      "summary": "Randomization is managed centrally by the York Trials Unit (YTU). They provide a secure, web-based service utilized by the site R&D teams to assign participants to either the intervention or usual care group.",
+      "context": "The Assignment of groups section identifies YTU as the provider of the central randomization service."
+    },
+    {
+      "q": "What happens if a participant wishes to stop receiving the intervention before the end of the planned six months?",
+      "a": "If a participant decides to stop engaging with the intervention before the six-month completion period, the DIAMONDS Coach will still provide support. This continued support focuses on helping the participant **set longer-term goals and action plans** for self-management and assisting them in accessing appropriate support to implement these plans.",
+      "title": "Early Intervention Discontinuation",
+      "summary": "If a participant opts to stop the intervention early, the Coach supports them by helping set longer-term self-management goals and action plans. The Coach also assists the participant in accessing the necessary support to follow through on these plans.",
+      "context": "The intervention section addresses the procedure for participants who discontinue the intervention before the expected end date."
+    },
+    {
+      "q": "What is the defined perspective for the within-trial cost-utility analysis (economic evaluation)?",
+      "a": "The health economic analysis will take the form of a within-trial cost-utility analysis. The perspective used for this evaluation, as recommended by National Institute for Health and Care Excellence (NICE) guidance, is the **NHS and personal social services perspective**. This analysis will be undertaken over a 12-month period.",
+      "title": "Economic Evaluation Perspective",
+      "summary": "The economic evaluation is a cost-utility analysis conducted over 12 months. It adopts the NHS and personal social services perspective, in line with recommendations from NICE guidance.",
+      "context": "The Economic evaluation section specifies the type of analysis (cost-utility) and the perspective (NHS and personal social services) based on NICE guidelines."
+    },
+    {
+      "q": "What quantitative data sources will be used in the process evaluation to descriptively summarize intervention delivery?",
+      "a": "The quantitative approach of the process evaluation will use data extracted from three specific sources to summarize intervention delivery:\n\n| Data Source | Type of Data Summarized |\n|:---|:---|\n| Coach session logs | Number, date, mode, and length of sessions delivered |\n| Change One Thing app content management system | Content areas covered and duration participant stayed with action plans |\n| Intervention Fidelity (IF) assessments | Measures related to adherence, quality, duration, and dose |",
+      "title": "Process Evaluation Quantitative Data Sources",
+      "summary": "Quantitative data for the process evaluation will be sourced from Coach session logs, Intervention Fidelity assessments, and the content management system of the Change One Thing app. This data will summarize delivery metrics like session frequency, mode, length, and content coverage.",
+      "context": "The quantitative approach section lists the data sources and the specific metrics to be extracted and descriptively summarized, such as session number and content areas covered."
+    },
+    {
+      "q": "Which types of secondary diabetes diagnoses lead to exclusion from the trial?",
+      "a": "Participants diagnosed with either **gestational diabetes** or **type 1 diabetes** are excluded from the DIAMONDS trial. Furthermore, participants who have **other types of secondary diabetes** are also excluded. The trial is specifically focused on Type 2 diabetes mellitus (T2DM) comorbid with Severe Mental Illness (SMI).",
+      "title": "Diabetes Exclusion Types",
+      "summary": "The trial focuses exclusively on Type 2 diabetes (T2DM) in conjunction with SMI. Consequently, individuals with Type 1 diabetes, gestational diabetes, or any other form of secondary diabetes are ineligible to participate.",
+      "context": "The exclusion criteria section lists specific diabetes types that disqualify potential participants, emphasizing the focus on T2DM."
+    },
+    {
+      "q": "What is the expected life expectancy deficit for people with severe mental illness compared to the general population?",
+      "a": "People with severe mental illness (SMI) experience a life expectancy that is **15–20 years shorter** than the general population. This substantial reduction in life expectancy is mainly attributed to comorbid physical illnesses, such as diabetes and cardiovascular disease [6–8, 12].",
+      "title": "SMI Life Expectancy Deficit",
+      "summary": "Individuals with SMI face a life expectancy reduction of 15–20 years compared to the general population. This mortality gap is primarily driven by comorbid physical illnesses, including high rates of diabetes [6–8, 12].",
+      "context": "The introduction provides statistics on the health inequalities faced by people with SMI, citing the shortened life expectancy and the cause."
+    },
+    {
+      "q": "What two key concepts guide the further analysis of the qualitative data collected from participants, carers, and coaches?",
+      "a": "After the initial thematic analysis is completed using a framework method, further analysis of the qualitative data (interviews/focus groups) will be guided by the **Mechanisms of Action (MoA) framework** that extends the **Theoretical Domains Framework (TDF)**. The TDF offers a robust theoretical basis for understanding implementation problems and guiding process evaluations of behavioral change interventions.",
+      "title": "Qualitative Analysis Frameworks",
+      "summary": "Following initial thematic analysis, subsequent qualitative data analysis is guided by the Mechanisms of Action (MoA) framework. This MoA framework is an extension of the Theoretical Domains Framework (TDF), which is commonly used to investigate implementation issues in health interventions.",
+      "context": "The Qualitative evaluation: recruitment, data collection and analysis section specifies the initial analysis method and the subsequent theoretical frameworks guiding deeper analysis."
+    },
+    {
+      "q": "How is the DIAMONDS intervention adapted to improve inclusivity for non-English speakers?",
+      "a": "A key strength noted in the protocol is that the trial incorporates **Urdu language materials**. This provision is intended specifically to improve inclusivity for participants who may not speak English.",
+      "title": "Inclusivity Measures",
+      "summary": "To improve inclusivity, the DIAMONDS trial developed and incorporated Urdu language materials for the intervention. This is listed as one of the key strengths of the study design.",
+      "context": "The STRENGTHS AND LIMITATIONS OF THIS STUDY section explicitly highlights the inclusion of Urdu language materials as a measure to enhance inclusivity."
+    },
+    {
+      "q": "What is the specific aim of the Complier Average Causal Effect (CACE) analysis planned for the primary outcome?",
+      "a": "A **Complier Average Causal Effect (CACE)** analysis will be performed for the primary outcome. The specific aim of this analysis is to **assess the impact of compliance with the intervention on treatment estimates**.",
+      "title": "CACE Analysis Purpose",
+      "summary": "The CACE analysis is a type of sensitivity analysis performed on the primary outcome. Its function is to evaluate how compliance levels among participants affect the estimated treatment effects of the DIAMONDS intervention.",
+      "context": "The Sensitivity analyses section describes CACE analysis as a method to account for noncompliance in randomized controlled trials."
+    },
+    {
+      "q": "What is the role of the Programme Steering Committee (PSC) in the trial oversight structure, particularly concerning data monitoring?",
+      "a": "The independent Programme Steering Committee (PSC) has **overall oversight of the trial**. Due to the assessment that this is a **low-risk trial**, the PSC will also undertake the combined role of the **Data Monitoring Committee**. Additionally, the PSC was consulted and approved the amendment to reduce the target sample size from 450 to 380 participants in February 2024.",
+      "title": "PSC Role and Oversight",
+      "summary": "The PSC provides overall trial oversight. Because the trial is considered low-risk, the PSC also serves as the Data Monitoring Committee. The PSC is responsible for approving major protocol changes, such as the revised sample size.",
+      "context": "The Trial oversight section explains the dual role of the PSC, and the sample size section confirms their involvement in amending the target recruitment figure."
+    },
+    {
+      "q": "Describe the staged consent procedure mentioned in the recruitment methodology.",
+      "a": "The recruitment methodology utilizes a staged consent procedure. This process involves initial contact where potential participants receive a short Patient Information Sheet (PIS) and an invitation letter, allowing them to discuss initial questions. They then receive the full PIS. Consent to Contact (CTC) may be obtained at an early stage via phone or form, particularly if identified by a GP. Finally, a face-to-face meeting is arranged to ensure the participant has a full opportunity to ask questions, before they are asked to provide written informed consent.",
+      "title": "Staged Consent Procedure",
+      "summary": "The staged consent process involves several steps to ensure informed participation. It moves from providing short information and obtaining initial consent-to-contact (CTC) to arranging a face-to-face meeting where the participant is fully briefed before providing final written informed consent.",
+      "context": "The recruitment methods describe the staged process employed, reflecting input from the DIAMONDS Voice group to make participant-facing documents accessible."
+    },
+    {
+      "q": "What are the four specific measures included in the Intervention Fidelity (IF) framework for the DIAMONDS RCT?",
+      "a": "The Intervention Fidelity (IF) framework, guided by the recommendations of Bellg (2004), measures four key dimensions related to intervention delivery:\n\n| IF Measure | Description |\n|:---|:---|\n| **Adherence** | Whether the content of the intervention sessions was delivered as designed |\n| **Quality of delivery** | Use of Behaviour Change Techniques and the manner/behaviour of the Coach delivering the programme |\n| **Duration** | The mean, standard deviation (SD), and range of intervention sessions |\n| **Dose** | The number of sessions delivered to the participant |",
+      "title": "Intervention Fidelity Framework",
+      "summary": "The IF framework measures how closely the intervention was delivered according to the protocol. The four key measures are adherence (content delivered), quality of delivery (BCT use/Coach behavior), duration (session length metrics), and dose (number of sessions).",
+      "context": "The process evaluation section details the components of the IF framework, developed in consultation with experts and refined based on the feasibility study."
+    },
+    {
+      "q": "How will the relationship between qualitative and quantitative data findings be categorized during the integrated analysis?",
+      "a": "An integrated analysis using a triangulation protocol will compare quantitative data (like IF assessments) with qualitative data (interviews). The relationship between findings from these paired data sets will be categorized into four types:\n\n| Relationship Category | Definition |\n|:---|:---|\n| **Agreement (Convergence)** | Findings demonstrate overlap and align between data sets |\n| **Partial Agreement (Complementary)** | Findings offer different perspectives but show limited overlap |\n| **Silence** | There is no overlap between the qualitative and quantitative data findings |\n| **Dissonance** | Findings show disagreement between the qualitative and quantitative data sets |",
+      "title": "Integrated Analysis Categorization",
+      "summary": "The integrated analysis employs a triangulation protocol to compare qualitative themes with quantitative data analogues. The relationships are categorized as agreement (convergence), partial agreement (complementary), silence (no overlap), or dissonance (disagreement).",
+      "context": "The Integrated analysis section describes the methodology for combining the mixed-methods data using a convergence coding matrix."
+    },
+    {
+      "q": "What are the specific measures of mental health included as secondary outcomes, based on the cited scale acronyms?",
+      "a": "Secondary outcomes include measures of mental health. The participant pathway diagram (Figure 1) lists several standardized scales used for measuring mental health and related concerns:\n\n| Scale Acronym | Full Name / Description |\n|:---|:---|\n| **BPRS** | Brief Psychiatric Rating Scale |\n| **PHQ-9** | Patient Health Questionnaire-9 (depression severity measure) |\n| **PAID** | Problem Areas in Diabetes Scale |\n| **SDSCA** | Summary of Diabetes Self-Care Activities Scale |",
+      "title": "Secondary Mental Health and Diabetes Scales",
+      "summary": "Secondary outcomes assess mental health using validated instruments. These include the Brief Psychiatric Rating Scale (BPRS) and the Patient Health Questionnaire-9 (PHQ-9) for assessing depression severity. Diabetes-specific psychosocial issues are measured using the PAID and SDSCA scales.",
+      "context": "The secondary outcomes mention mental health measures, and Figure 1 explicitly lists the scales used (BPRS, EQ-5D-5L, IPAQ, PAID, PHQ-9, SDSCA) with their corresponding reference numbers."
+    },
+    {
+      "q": "What are the responsibilities of General Practices (GPs) acting as Participant Identification Centres (PICs) during recruitment?",
+      "a": "GPs operating as PICs play a crucial role in identifying potential participants. Their responsibilities include:\n\n| Responsibility | Action Taken |\n|:---|:---|\n| **Database Screening** | Consulting SMI and Long-Term Condition (LTC) registers using Quality and Outcomes Framework (QOF) data to identify eligible patients |\n| **Eligibility Confirmation** | GPs checking lists produced by database searches to confirm patient eligibility |\n| **Patient Approach** | Approaching potential participants during their annual health checks |\n| **Information Dissemination** | Initially sending study information documents (usually via mail) |\n| **Consent to Contact (CTC)** | Obtaining CTC from interested patients (via return form or phone call) and passing this information to the research teams at mental health trusts |",
+      "title": "GP/PIC Recruitment Responsibilities",
+      "summary": "General Practices (GPs) act as PICs by screening SMI and LTC registers to identify eligible patients. They confirm eligibility, approach patients (e.g., during annual checks), provide initial study documents, and obtain Consent-to-Contact (CTC) before referring interested individuals to the mental health research teams.",
+      "context": "The GP database screening section details the specific duties performed by General Practices involved in participant identification."
+    },
+    {
+      "q": "How long will anonymized trial data and personal participant data be stored following the study's conclusion?",
+      "a": "Data storage adheres to GDPR and UK Policy Framework regulations. The storage periods vary based on data type:\n\n| Data Type | Storage Location/Entity | Minimum Retention Period |\n|:---|:---|:---|\n| **Anonymised Trial Data** | University of York (UoY) | Minimum of 10 years |\n| **Personal Data of Participants** | UoY (secure storage) | Up to three years after the study has ended |",
+      "title": "Data Retention Policy",
+      "summary": "Anonymized trial data will be securely archived by the University of York (UoY) for a minimum of 10 years. Personal data, however, will be stored for a shorter duration—up to three years after the study concludes—specifically for the purpose of disseminating findings.",
+      "context": "The Confidentiality and data protection section outlines the data retention plan in accordance with regulatory requirements."
+    },
+    {
+      "q": "Who is responsible for reviewing serious adverse events (SAEs) reported during the trial?",
+      "a": "All Serious Adverse Events (SAEs) are required to be reported immediately to the **Chief Investigator**. The SAEs will then be reviewed by a **clinician who is independent of the DIAMONDS study team**. Following this review, all SAEs must be reported to the Sponsor (UoY) and the Research Ethics Committee (REC) in line with their respective guidelines.",
+      "title": "SAE Review Responsibility",
+      "summary": "SAEs are reported to the Chief Investigator, but the critical safety review is conducted by a clinician who is independent of the DIAMONDS study team. SAEs are subsequently reported to the Sponsor and the REC.",
+      "context": "The Adverse event reporting, harms and participant withdrawals section specifies the flow of SAE reporting and who undertakes the independent clinical review."
+    },
+    {
+      "q": "What types of analysis, beyond the primary mixed-effects regression, are planned for secondary outcomes relating to physical and mental health?",
+      "a": "Secondary outcomes, including those relating to physical health, mental health, and diabetes measures, will generally be analyzed using mixed-effects regression analysis for continuous outcomes. For categorical outcomes (like smoking status), **logistic mixed models** will be used. These models will include assessments at all available time points (baseline, 6, and 12 months) and will provide both an overall treatment effect over 12 months and estimates at individual time points.",
+      "title": "Secondary Outcome Statistical Analysis",
+      "summary": "Secondary outcomes are primarily analyzed using mixed-effects regression for continuous data. For categorical outcomes, such as smoking status, logistic mixed models will be employed. Both methods provide overall and time-point specific treatment effect estimates.",
+      "context": "The Secondary outcomes section details the general statistical modeling approach for continuous and categorical secondary measures."
+    },
+    {
+      "q": "What exploratory subgroup analyses are planned for the primary outcome, HbA1c?",
+      "a": "Two specific exploratory subgroup analyses are planned for the primary outcome:\n\n| Subgroup Analysis | Rationale/Focus |\n|:---|:---|\n| **HbA1c at baseline** | To explore differential treatment effects based on different levels of glycated haemoglobin at the start of the trial |\n| **Ethnicity** | To assess if treatment effects vary across different ethnic groups |\n| **Insulin use status** | To assess if treatment effects differ based on whether the participant uses insulin |",
+      "title": "Exploratory Subgroup Analyses",
+      "summary": "Exploratory subgroup analyses will investigate differential treatment effects based on baseline HbA1c levels, ethnicity, and insulin use status. Results from these analyses will be treated cautiously and detailed in advance in the Statistical Analysis Plan (SAP).",
+      "context": "The Subgroup analyses section lists the three proposed exploratory analyses to investigate heterogeneity of treatment effects."
+    },
+    {
+      "q": "What steps are taken by the R&D staff at participating NHS mental health trusts to identify potentially eligible patients?",
+      "a": "R&D staff at secondary care sites (NHS mental health trusts) employ two main methods for identification and screening:\n\n| Identification Method | Action |\n|:---|:---|\n| **Database Searches** | Running searches in existing databases for potentially eligible patients |\n| **Caseload Screening** | Screening Community Mental Health Team (CMHT) caseloads using the predefined eligibility criteria |\n| **Direct Referral** | Receiving direct referrals from consultants, CMHTs, or through discharge meetings with inpatient wards |",
+      "title": "Patient Identification in NHS Trusts",
+      "summary": "Authorized R&D staff in NHS mental health trusts identify eligible patients by running database searches and systematically screening CMHT caseloads using the trial criteria. Direct referrals from consultants or inpatient discharge meetings also serve as identification routes.",
+      "context": "The recruitment section dedicated to NHS mental health trusts outlines the specific actions taken by research staff to generate lists of potential participants."
+    },
+    {
+      "q": "What are the components of the DIAMONDS intervention materials?",
+      "a": "The intervention materials were co-designed with service users and carers (DIAMONDS Voice). The materials consist of:\n\n| Material Type | Description |\n|:---|:---|\n| **Paper-based workbook** | Known as the 'DIAMONDS Workbook'; used for daily self-management activities and goal setting |\n| **Digital application** | Known as 'Change One Thing'; this is an optional support tool for daily use |",
+      "title": "Intervention Materials",
+      "summary": "The intervention utilizes core educational and self-management materials developed through co-design. These materials include a paper-based 'DIAMONDS Workbook' and an optional digital application called 'Change One Thing'.",
+      "context": "The description of the DIAMONDS intervention details how the content is delivered and the materials used to support the participant over the six-month period."
+    },
+    {
+      "q": "What is the difference in prevalence of Type 2 Diabetes Mellitus (T2DM) in people with Severe Mental Illness (SMI) compared to the general population?",
+      "a": "Type 2 diabetes mellitus (T2DM) is **two to three times more common** in people with severe mental illness (SMI) than it is in the general population. This high prevalence contributes significantly to the health inequalities observed in this cohort.",
+      "title": "T2DM Prevalence in SMI",
+      "summary": "The prevalence of T2DM in individuals with SMI is substantially higher than in the general population. Specifically, T2DM is reported to be two to three times more common in people with SMI.",
+      "context": "The introduction provides comparative statistics on the prevalence of T2DM in the target population."
+    },
+    {
+      "q": "What is the registration number for the DIAMONDS trial (RCT)?",
+      "a": "The DIAMONDS trial is registered with the ISRCTN (International Standard Randomised Controlled Trial Number) system. The registration number is **ISRCTN22275538**.",
+      "title": "Trial Registration Number",
+      "summary": "The DIAMONDS randomized controlled trial is registered under the ISRCTN system. Its official registration number is ISRCTN22275538.",
+      "context": "The trial registration number is listed immediately following the main Abstract/Ethics sections."
+    },
+    {
+      "q": "What organization is the sponsor of the DIAMONDS trial, and which organization funds the project?",
+      "a": "The sponsor of the trial is the **University of York (UoY)**. The project is funded by the **National Institute for Health and Care Research (NIHR) Programme for Applied Research** (project number RP-PG-1016-20003).",
+      "title": "Sponsor and Funding Source",
+      "summary": "The University of York acts as the trial Sponsor. The funding for the DIAMONDS project is provided by the National Institute for Health and Care Research (NIHR) Programme for Applied Research.",
+      "context": "The Acknowledgements section thanks the trial Sponsor (University of York), and the Funding section details the specific NIHR grant."
+    },
+    {
+      "q": "What characteristics of SMI influence a patient's capacity for self-management, according to the sources?",
+      "a": "SMI is characterized by disturbances of thought, perception, affect, and motivation. These disturbances significantly influence several critical factors necessary for successful self-management, including **self-efficacy, literacy, lifestyle, behavior, and family life** [14, 31–34].",
+      "title": "SMI Impact on Self-Management",
+      "summary": "SMI involves disturbances in thought, perception, motivation, and affect. These characteristics negatively affect a patient’s capacity for effective diabetes self-management by compromising their self-efficacy, literacy, lifestyle choices, and behavior [14, 31–34].",
+      "context": "The protocol explains that standard diabetes self-management programs often fail this population because they do not account for the barriers created by SMI symptoms."
+    },
+    {
+      "q": "What evidence supports the feasibility of the DIAMONDS intervention leading into this full-scale RCT?",
+      "a": "The DIAMONDS RCT follows on from the **DIAMONDS Feasibility Study (ISRCTN15328700)**. This prior study confirmed the **acceptability and feasibility of the intervention** to both participants and DIAMONDS Coaches. The findings from the feasibility study also allowed the research team to make important changes and refinements to some study processes and the intervention itself before commencing the full-scale RCT.",
+      "title": "Feasibility Study Background",
+      "summary": "The acceptability and feasibility of the intervention were confirmed by the preceding DIAMONDS Feasibility Study. Findings from this feasibility work allowed researchers to refine study processes and the intervention design prior to launching the full RCT.",
+      "context": "The Strengths and Limitations section highlights the feasibility study as a justification for proceeding with the full RCT."
+    },
+    {
+      "q": "What kind of monitoring activities will be centralized and undertaken regularly during the data collection phase?",
+      "a": "A range of centralized monitoring activities will be undertaken during data collection. These include:\n\n| Monitoring Activity | Purpose |\n|:---|:---|\n| Eligibility checks | Ensuring participants meet inclusion/exclusion criteria |\n| Consent checks | Verifying proper consent procedures were followed |\n| Safety checks | Reviewing adverse events and participant well-being |\n| Regular site contact | Discussion of any issues encountered during data collection |",
+      "title": "Centralized Monitoring Activities",
+      "summary": "Centralized monitoring activities will ensure compliance and safety across sites. These checks focus on confirming participant eligibility and consent validity, performing safety reviews, and maintaining regular contact with site teams to resolve any issues.",
+      "context": "The Data collection and management section describes the ongoing quality control measures enforced by the coordinating unit (YTU)."
+    },
+    {
+      "q": "What is the expected average cluster size used in the original sample size calculation, and why is this relevant to the statistical analysis?",
+      "a": "The original sample size calculation assumed an average cluster size of **10–12 participants per DIAMONDS Coach**. This is relevant because the intervention is delivered by the coaches (clustered intervention). Therefore, the statistical analysis for the primary outcome uses a mixed-effects regression model that includes the DIAMONDS Coach as a **random effect nested within the treatment group**. This accounts for the potential correlation of outcomes among participants receiving care from the same coach (intraclass correlation, ICC).",
+      "title": "Coach Clustering in Analysis",
+      "summary": "The calculation assumed 10–12 participants per Coach, reflecting the clustered delivery nature of the intervention. To account for this clustering effect, the primary analysis model includes the DIAMONDS Coach as a random effect nested within the treatment group.",
+      "context": "The sample size description includes the cluster size assumption, and the primary outcome analysis method confirms that the Coach variable is handled as a random effect."
+    },
+    {
+      "q": "What are the secondary outcomes related to physical activity (both objective and self-report)?",
+      "a": "Secondary outcomes include measures of physical activity:\n\n| Measurement Method | Details |\n|:---|:---|\n| **Objective Measurement** | Recorded with a wrist-worn accelerometer (GENEActiv) at baseline and 6 months |\n| **Self-Report** | Recorded using a questionnaire, likely the International Physical Activity Questionnaire (IPAQ) listed in Figure 1 |",
+      "title": "Secondary Physical Activity Measures",
+      "summary": "Physical activity is assessed using both objective and self-report measures. Objective data is gathered via a GENEActiv accelerometer worn for seven days at baseline and six months, while self-reported activity is collected using a questionnaire such as the IPAQ.",
+      "context": "The secondary outcomes section lists physical activity measured by accelerometer and self-report, supported by the measurement detail in the data collection section and the acronym IPAQ in Figure 1."
+    },
+    {
+      "q": "What organization provides standard public liability insurance to meet the potential legal liability arising from the design and management of the research?",
+      "a": "The **Sponsor (University of York, UoY)** will provide standard public liability insurance. This insurance is intended to meet the potential legal liability of the sponsor for harm to participants that arises specifically from the **design and management of the research**.",
+      "title": "Sponsor Insurance Provision",
+      "summary": "The trial Sponsor, the University of York, provides standard public liability insurance. This insurance covers potential legal liabilities for harm to participants resulting from the design and management of the research itself.",
+      "context": "The Duty of care section details the insurance responsibilities, distinguishing between NHS indemnity for clinical care and UoY insurance for design/management."
+    },
+    {
+      "q": "What methods are used to achieve Intervention Fidelity (IF) during the delivery of the DIAMONDS intervention?",
+      "a": "Intervention Fidelity (IF) will be achieved primarily through observation and standardized documentation. The methods include:\n\n| Fidelity Method | Description |\n|:---|:---|\n| **Observer Training** | Training observers specifically to monitor intervention sessions |\n| **Checklist Completion** | Trained observers completing a checklist during each session observation |\n| **Coding Manual** | Using an IF coding manual developed by the Leicester Diabetes Centre/University of Leicester team to support the checklist |\n| **Inter-Rater Reliability** | Testing and refining the checklist and manual until the necessary level of agreement is reached among observers |",
+      "title": "Achieving Intervention Fidelity",
+      "summary": "Intervention fidelity is ensured by training observers to use a checklist supported by an IF coding manual during session observations. Inter-rater reliability testing is used during development to ensure consistent application of the coding manual.",
+      "context": "The Intervention fidelity observations section details the specific operational steps taken to measure and ensure the intervention is delivered consistently."
+    },
+    {
+      "q": "How does the protocol address the limitation that participants will know their group allocation?",
+      "a": "Participants will know whether they receive the intervention or not, which is a known limitation that could impact their responses regarding patient-reported outcomes or involvement in the trial. The protocol addresses this limitation in two ways:\n\n| Mitigation Strategy | Action/Rationale |\n|:---|:---|\n| **Primary Outcome Measure** | The primary outcome (HbA1c) is measured from blood samples analyzed at a central masked laboratory, making it unlikely to be affected by the participants' knowledge of their allocation |\n| **Blinding R&D Staff** | Efforts will be made to ensure R&D staff responsible for data collection (especially patient-reported outcomes) remain blinded to the allocation |",
+      "title": "Mitigating Unblinding Limitations",
+      "summary": "Since participants cannot be blinded, this is acknowledged as a risk to patient-reported outcomes. The risk is mitigated by using an objective, masked biological measure (HbA1c analyzed centrally) for the primary outcome, and by ensuring that the R&D staff collecting sensitive data remain blinded.",
+      "context": "The Strengths and Limitations section acknowledges the unblinding of participants and coaches, while the primary outcome and blinding sections describe mechanisms to reduce associated bias."
+    },
+    {
+      "q": "What is the expected duration and content focus for the qualitative interviews/focus groups conducted with the DIAMONDS Coaches?",
+      "a": "All Coaches who complete their intervention sessions will be invited to take part in interviews or focus groups. These Coach interviews are expected to last approximately **30 minutes**. The content will explore questions around:\n\n| Coach Interview Focus |\n|:---|\n| The DIAMONDS Coach training program |\n| Experiences delivering the intervention |\n| Engagement with Coach support |\n| Barriers and enablers to implementing the intervention in existing health and care services |",
+      "title": "Coach Interview Details",
+      "summary": "All Coaches will be interviewed or participate in focus groups upon intervention completion, with sessions expected to last 30 minutes. The focus will be on their training experience, the delivery process, coach support mechanisms, and identifying systemic barriers or enablers to future implementation.",
+      "context": "The protocol details the methodology for the qualitative evaluation, including cohort recruitment, expected interview length, and thematic focus."
+    },
+    {
+      "q": "What is the specific target difference in HbA1c (in both mmol/mol and percentage) that the trial is powered to detect?",
+      "a": "The sample size calculation was based on detecting a clinically meaningful difference of **5.5 mmol/mol**. This difference corresponds to **0.5%** in HbA1c. This target difference was chosen based on evidence from diabetes self-management trials in the general population and NICE guideline recommendations.",
+      "title": "Target HbA1c Difference",
+      "summary": "The trial is designed to detect a clinically meaningful difference in the primary outcome, HbA1c. This targeted difference is defined as 5.5 mmol/mol, equivalent to 0.5%.",
+      "context": "The Sample size section specifies the magnitude of difference in HbA1c required for the trial to achieve adequate statistical power."
+    },
+    {
+      "q": "How is the data collected for the primary and secondary blood outcomes (HbA1c, haemoglobin, cholesterol) managed after collection at the site?",
+      "a": "Blood samples for the primary (HbA1c) and secondary (haemoglobin and cholesterol) outcomes are collected by an appropriately trained member of staff at the site. These samples are then **sent to a central laboratory for analysis**. The laboratory returns the test results (recorded as both mmol/mol and %) to the study team at the University of York (UoY).",
+      "title": "Blood Sample Collection and Analysis",
+      "summary": "Trained staff collect blood samples at the participating sites for HbA1c, haemoglobin, and cholesterol measurements. These samples are centrally analyzed by a masked laboratory, which then reports the results to the UoY study team.",
+      "context": "The data collection and management section details the procedure for handling biological samples, ensuring centralized, consistent analysis."
+    },
+    {
+      "q": "What is the timeframe for which AEs and SAEs will be recorded during the trial?",
+      "a": "Adverse Events (AEs) and Serious Adverse Events (SAEs) will be recorded by the R&D team at the sites. The reporting period for both AEs and SAEs will run from the moment of **study entry up to the last follow-up visit**.",
+      "title": "Adverse Event Reporting Period",
+      "summary": "The safety reporting window for Adverse Events (AEs) and Serious Adverse Events (SAEs) spans the entire duration of a participant's involvement. This period begins at study entry (consent/randomization) and extends until the final 12-month follow-up visit.",
+      "context": "The Adverse event reporting section specifies the exact start and end points for recording safety incidents."
+    },
+    {
+      "q": "What are the names of some of the authors/contributors associated with the DIAMONDS trial protocol?",
+      "a": "Key authors and contributors listed for the protocol include:\n\n| Author/Contributor |\n|:---|\n| Grace Catherine O’Carroll |\n| Jennifer V E Brown |\n| Claire Carswell |\n| Charlie Peck |\n| Gregor Russell |\n| R A Ajjan |\n| Najma Siddiqi (Chief Investigator) |\n| Peter A Coventry |\n| Richard Ian Gregory Holt |\n| David Osborn |",
+      "title": "Protocol Authors",
+      "summary": "The protocol was authored by a large multicentre team. Key individuals include Grace Catherine O’Carroll, Jennifer V E Brown, and Najma Siddiqi, who served as the Chief Investigator and takes overall responsibility for the trial.",
+      "context": "The author listing spans several sections and affiliations, identifying the core research team members."
+    },
+    {
+      "q": "How is the accelerometer data processed once collected, and what output metric is calculated?",
+      "a": "Accelerometer data (collected at baseline and six months) will be analyzed using the **R-package GGIR**. This package performs signal processing, including auto-calibration, detection of abnormal values, and detection of non-wear time. The key physical activity metric calculated is the **average magnitude of dynamic acceleration**, specifically the **Euclidean norm minus one g (ENMO)**.",
+      "title": "Accelerometer Data Processing",
+      "summary": "Raw accelerometer data is processed using the specialized R-package GGIR. This process involves calibration and non-wear detection to ensure data quality. The final output metric used for analysis is the average magnitude of dynamic acceleration (ENMO).",
+      "context": "The Secondary outcomes section details the specific software (GGIR) and the core metric (ENMO) used for analyzing the objective physical activity data."
+    },
+    {
+      "q": "What are the potential limitations of the study regarding participant blinding and their impact on outcomes?",
+      "a": "A key limitation is that **participants will know whether they receive the intervention or not**. This lack of masking could potentially impact their responses regarding **patient-reported outcomes (PROs)**. However, the protocol mitigates impact on the primary outcome (HbA1c) by using centralized laboratory analysis, which is masked from group allocation.",
+      "title": "Trial Limitations: Unblinding",
+      "summary": "The non-masked nature of the behavioral intervention means participants know their group allocation, potentially biasing patient-reported outcomes. This inherent limitation is addressed by using objective biological data (HbA1c) analyzed centrally and blindly for the primary measure.",
+      "context": "The Strengths and Limitations section acknowledges the difficulty in blinding participants and its possible effect on self-reported data."
+    },
+    {
+      "q": "What is the purpose of the 12-month internal pilot phase embedded within the trial design?",
+      "a": "The trial design includes a **12-month internal pilot phase**. The primary purpose of this phase is to **assess recruitment assumptions** and to **optimise trial processes**. Full details of the pilot phase are available in online supplemental appendix 3.",
+      "title": "Internal Pilot Phase Objective",
+      "summary": "The 12-month internal pilot phase is designed to assess the validity of recruitment assumptions and to refine and optimize the overall trial processes before full execution.",
+      "context": "The Trial design section clarifies that the RCT is structured with an embedded pilot phase aimed at operational optimization."
+    },
+    {
+      "q": "What specific health resource use data is collected as a secondary outcome?",
+      "a": "Health resource use is listed as a secondary outcome. The specific tools used to measure resource use include the **EuroQol 5 Dimension 5 Level (EQ-5D-5L)**, which is typically used to generate utility scores for QALYs, and the citation of the **Unit Costs of Health and Social Care** (2021) suggests detailed costing data will be utilized. The economic evaluation takes an NHS and personal social services perspective.",
+      "title": "Health Resource Use Outcomes",
+      "summary": "Health resource use is tracked to inform the economic evaluation. The EQ-5D-5L questionnaire gathers data relevant to calculating Quality Adjusted Life Years (QALYs), and established unit costs are applied to calculate the total resource consumption from the NHS and personal social services perspective.",
+      "context": "Health resource use is identified among the secondary outcomes. The economic evaluation section and the cited measures confirm the cost utility perspective."
+    },
+    {
+      "q": "What are the guidelines followed by the research team for fieldwork and lone working safety?",
+      "a": "The research team will use the **York Trials Unit (YTU) standard operating procedures** and/or the **University of York (UoY) Department of Health Sciences policy for fieldwork and lone working**. All researchers tasked with fieldwork must undertake **lone worker training** and conduct a risk assessment with their line manager regarding the specific tasks to be carried out.",
+      "title": "Researcher Safety and Lone Working",
+      "summary": "Researcher safety in the field is governed by the standard operating procedures of YTU and the UoY Health Sciences department. Researchers must undergo lone worker training and complete a risk assessment with their manager prior to commencing fieldwork.",
+      "context": "The safety section addresses researcher safety, particularly for fieldwork staff who may conduct appointments at participants' homes."
+    },
+    {
+      "q": "How is the collection of patient-reported outcomes (PROs) and other documentation managed and checked for accuracy?",
+      "a": "Non-blood secondary outcomes (which often include PROs) are collected through **paper-based Case Report Forms (CRFs)**. These CRFs are returned to the York Trials Unit (YTU) and then scanned using specialist software. The collected data is checked against the hard copy CRF, followed by error checking and validation checks against the database. Discrepancies identified during validation or receipt prompt queries raised with the site staff.",
+      "title": "CRF Data Management and Quality Control",
+      "summary": "Patient-reported outcomes are documented on paper CRFs, which are sent to YTU for centralized scanning and data entry. Accuracy is maintained by checking the scanned data against the hard copies, running error checks, and querying any discrepancies found during validation with the site staff.",
+      "context": "The Data collection and management section details the process of handling paper forms and ensuring data quality."
+    },
+    {
+      "q": "What is the specific type of licence under which the DIAMONDS protocol article is distributed?",
+      "a": "The article is distributed as an open access article under the terms of the **Creative Commons Attribution (CC BY) licence**, specifically the **CC BY 4.0 Unported license**. This license permits others to copy, redistribute, remix, transform, and build upon the work, even commercially, provided they credit the original authors, link to the licence, and indicate if changes were made.",
+      "title": "Article Licensing",
+      "summary": "The protocol article is distributed under the Creative Commons Attribution (CC BY 4.0) license. This is an open access agreement allowing wide reuse, including commercial use, provided proper credit and licensing details are maintained.",
+      "context": "The Reuse and Open access sections provide the details and terms of the Creative Commons license."
+    },
+    {
+      "q": "What is the expected sample size and recruitment target for the participant and carer cohorts in the qualitative evaluation?",
+      "a": "The qualitative evaluation involves conducting semi-structured interviews or focus groups with participants and carers. The recruitment targets are:\n\n| Cohort | Target Sample Size | Selection Criteria |\n|:---|:---|:---|\n| **Participants** | 20–25 individuals | Selected to reflect a range of age, gender, baseline outcomes, comorbidities, and engagement levels |\n| **Carers** | 20–25 individuals | Must be the unpaid carer of a service-user participating in the RCT; selected by research staff at the trusts |",
+      "title": "Qualitative Sample Sizes",
+      "summary": "The research team aims to recruit 20–25 participants and 20–25 carers for the qualitative interviews/focus groups. Participants will be purposively sampled to ensure variety in demographics and intervention engagement.",
+      "context": "The Qualitative evaluation section outlines the targeted number of interviews for both the participant cohort and the carer cohort."
+    },
+    {
+      "q": "If a participant randomized to the intervention group is hospitalized, under what condition would the intervention be discontinued?",
+      "a": "A reason for the discontinuation of the intervention (coaching sessions and workbook use) is if the participant **remains an inpatient that takes them beyond the six month mark**. Although being an inpatient is an exclusion criterion for recruitment, if hospitalization occurs mid-trial, the intervention may cease if the stay is prolonged past the delivery period.",
+      "title": "Intervention Discontinuation due to Hospitalization",
+      "summary": "The intervention is discontinued if a participant is hospitalized for a duration that extends beyond the six-month delivery period. Although acute inpatients are ineligible for recruitment, hospitalization during the trial may lead to cessation of the coaching sessions.",
+      "context": "The protocol lists hospitalization extending past the six-month mark as a reason for intervention discontinuation."
+    },
+    {
+      "q": "What key concept from the field of complex interventions will the process evaluation draw upon to assess fidelity and outcomes?",
+      "a": "The process evaluation will draw on a mixed-methods approach and utilize best practice methodology for process evaluations. It will specifically identify and assess key dimensions related to what intervention activity and content was delivered, and how, drawing on the guidance set out by the **Medical Research Council (MRC) guidance for process evaluation of complex interventions**.",
+      "title": "Process Evaluation Methodology",
+      "summary": "The DIAMONDS process evaluation utilizes a mixed-methods approach grounded in best practices, particularly drawing on the guidance provided by the Medical Research Council (MRC) for evaluating complex interventions.",
+      "context": "The Process evaluation section references the MRC guidance (Moore GF, et al., 2015) as the foundation for its methodology."
+    },
+    {
+      "q": "What is the difference between data collected for secondary outcomes related to continuous measures versus categorical measures, in terms of statistical analysis?",
+      "a": "Secondary outcomes are analyzed using mixed-effects models.\n\n| Outcome Type | Statistical Model |\n|:---|:---|\n| **Continuous Outcomes** (e.g., cholesterol, BMI, scores from scales) | Mixed-effects regression analysis |\n| **Categorical Outcomes** (e.g., smoking status, diabetes complications status) | Logistic mixed models |",
+      "title": "Statistical Models for Secondary Outcomes",
+      "summary": "Continuous secondary outcomes, such as physical health measures, will be analyzed using mixed-effects regression analysis. Categorical secondary outcomes, representing binary or nominal data, will be analyzed using logistic mixed models.",
+      "context": "The Secondary outcomes section specifies the two primary statistical models used based on whether the data type is continuous or categorical."
+    },
+    {
+      "q": "Why is supporting self-management considered fundamental to improving clinical outcomes in diabetes, especially for people with SMI?",
+      "a": "Supporting self-management is fundamental to improving clinical outcomes for diabetes, in common with other long-term conditions (LTCs). This is because **most diabetes care falls to self-management**. While self-management education programs are proven to be clinically and cost-effective for the general population [13, 19, 21–24], support is rarely offered or effective for people with SMI due to the unique barriers posed by their mental health condition.",
+      "title": "Importance of Self-Management",
+      "summary": "Self-management is crucial for diabetes care because individuals are primarily responsible for their daily treatment. Although effective for the general population, standard programs often fail those with SMI due to overlapping challenges like motivation and self-efficacy.",
+      "context": "The Introduction emphasizes the critical role of self-management in diabetes care and explains why existing support structures often fail the SMI population."
+    },
+    {
+      "q": "How did the DIAMONDS team ensure participant-facing documents were accessible and appropriate?",
+      "a": "All participant-facing documents, including consent forms, invitation letters, and questionnaires, were produced and reviewed in collaboration with **DIAMONDS Voice**, the service user and carer group. This collaborative approach ensured the documents were acceptable and appropriate for the target population.",
+      "title": "Document Co-design",
+      "summary": "The research team collaborated with DIAMONDS Voice, the service user and carer group, to develop and review all participant-facing documentation. This ensured that materials like consent forms and invitation letters were accessible and appropriate.",
+      "context": "The Recruitment section highlights the collaboration with DIAMONDS Voice in producing accessible participant-facing materials."
+    },
+    {
+      "q": "What is the name of the previous trial mentioned that tested a lifestyle education program for weight reduction in people with schizophrenia?",
+      "a": "The previous trial mentioned in the sources that tested a group structured lifestyle education programme for weight reduction in people with schizophrenia was the **STEPWISE trial**. Although the STEPWISE intervention was found to be neither clinically nor cost-effective, it highlighted the challenges inherent in improving physical health outcomes among people with schizophrenia.",
+      "title": "Precedent Trial (STEPWISE)",
+      "summary": "The STEPWISE trial was a precursor study that examined a group structured lifestyle education programme for weight management in people with schizophrenia. While STEPWISE was not effective, it demonstrated the difficulties researchers face in improving physical health in this specific population.",
+      "context": "The AIM AND OBJECTIVES section references the STEPWISE trial as an example highlighting the challenges of addressing health inequalities in people with SMI."
+    },
+    {
+      "q": "In the analysis of the primary outcome, what specific time-related variables will be included as fixed effects?",
+      "a": "The primary outcome analysis, using mixed-effects regression, will include the following time-related variables as fixed effects:\n\n| Fixed Effect Variable | Description |\n|:---|:---|\n| **Time** | Representing the time points of outcome measurement (6 and 12 months) |\n| **Treatment group-by-time interaction** | To assess if the treatment effect changes significantly across the two follow-up time points |",
+      "title": "Time-Related Fixed Effects",
+      "summary": "The mixed-effects model for the primary outcome includes 'time' and a 'treatment group-by-time interaction' as fixed effects. This allows the analysis to capture how the intervention effect evolves between the six-month and 12-month follow-up points.",
+      "context": "The primary outcome analysis description details all fixed and random effects included in the statistical model."
+    },
+    {
+      "q": "Who serves as the Chief Investigator for the DIAMONDS trial, and what is their overall responsibility?",
+      "a": "The Chief Investigator for the DIAMONDS trial is **Najma Siddiqi**. Her overall responsibility is to **lead the grant application** and take **overall responsibility for the trial**. She is also named as the guarantor of the manuscript.",
+      "title": "Chief Investigator",
+      "summary": "Najma Siddiqi serves as the Chief Investigator for the DIAMONDS trial. Her role encompasses leading the grant application and bearing overall responsibility for the management and integrity of the trial.",
+      "context": "The Collaborators and Contributors section identifies Najma Siddiqi and defines her core leadership role."
+    },
+    {
+      "q": "How will the trial statisticians manage and report the amount of missing data in the randomized groups?",
+      "a": "The trial statisticians will report the **amount of missing data for each randomized group**. They will also compare the baseline characteristics of participants who are included in the primary analysis to ensure that missing data has not resulted in any imbalance in important covariates. Missing data will be mitigated by using an analysis model that includes any patient with complete baseline data and valid outcome data at one or more follow-up points.",
+      "title": "Missing Data Management",
+      "summary": "Statisticians will report the extent of missing data by group and compare baseline characteristics to check for imbalance introduced by missing data. Mitigation involves using a statistical model that incorporates all available follow-up data from participants who completed baseline assessments.",
+      "context": "The Sensitivity analyses section addresses the management and reporting strategy for missing data."
+    },
+    {
+      "q": "What is the key difference in data collection between participants identified from NHS mental health trusts versus those identified via General Practices (GPs)?",
+      "a": "The key difference is in the initial approach and contact process:\n\n| Identification Source | Initial Contact / Consent Step |\n|:---|:---|\n| **NHS Mental Health Trusts** | R&D staff provide PIS, lead discussions, and obtain **written informed consent** directly at a face-to-face meeting |\n| **General Practices (PICs)** | GPs initially send study information via mail. They obtain **Consent-to-Contact (CTC)** first, either verbally or via form, and pass the contact details to the mental health research teams, who then follow the full NHS consent process |",
+      "title": "Recruitment Pathway Differences",
+      "summary": "Participants identified directly through NHS trusts engage immediately with the research team for information and consent. Participants identified through GPs (PICs) first grant Consent-to-Contact (CTC) to their practice, and then the research team takes over the full consent procedure.",
+      "context": "The protocol sections describing recruitment from NHS trusts and GP database screening highlight the difference in who manages the initial outreach and the required initial consent type (written consent vs. CTC)."
+    },
+    {
+      "q": "What core element of diabetes care, often recommended for newly diagnosed persons in England, serves as the foundation for the behavioral elements of DIAMONDS?",
+      "a": "The foundation for the behavioral elements of DIAMONDS lies in **'Self-management education'**. In England, diabetes self-management education and support programs are recommended by the National Institute for Health and Care Excellence (NICE) for recently diagnosed persons. These programs typically include educational and behavioral components aimed at increasing knowledge, skills, and capacity for self-management.",
+      "title": "Foundation of Self-Management Education",
+      "summary": "Self-management education is recommended by NICE guidelines in England for people with diabetes. This educational foundation, which integrates educational and behavioral elements to increase knowledge and skills, is central to the supported self-management intervention provided by DIAMONDS.",
+      "context": "The introduction discusses the established practice of self-management education and its proven effectiveness in the general diabetes population."
+    },
+    {
+      "q": "What must be included in the Statistical Analysis Plan (SAP) regarding subgroup analyses, in line with best practice?",
+      "a": "In line with best practice guidelines, the Statistical Analysis Plan (SAP) must detail all planned subgroup analyses in advance. Specifically, the SAP must include the **hypothesised direction of effect** for any subgroup analysis. The results of any subgroup analysis must be treated cautiously.",
+      "title": "Subgroup Analysis Requirements",
+      "summary": "The SAP must detail all subgroup analyses planned, including defining the hypothesized direction of effect in advance, to align with best practice. Due to the exploratory nature of some analyses (e.g., ethnicity), the results must be interpreted cautiously.",
+      "context": "The Subgroup analyses section mandates advance detailing in the SAP and the inclusion of the hypothesized direction of effect, referencing relevant methodological guidance."
+    },
+    {
+      "q": "How long are the qualitative semi-structured interviews/focus groups expected to last for participants and carers?",
+      "a": "The semi-structured interviews or focus groups for both participants and carers are expected to last approximately **45 minutes** each. The interviews with the DIAMONDS Coaches are planned to be shorter, lasting around 30 minutes.",
+      "title": "Qualitative Interview Duration",
+      "summary": "Interviews with participants and carers are designed to last about 45 minutes. Coach interviews are slightly shorter, with an expected duration of 30 minutes.",
+      "context": "The Qualitative evaluation section specifies the target duration for the various interview cohorts."
+    },
+    {
+      "q": "What information will the DIAMONDS Coach session logs provide for the quantitative process evaluation?",
+      "a": "Quantitative data extracted from the Coach session logs will descriptively summarize several metrics related to intervention delivery:\n\n| Metric Extracted from Session Logs | Description |\n|:---|:---|\n| **Number of sessions delivered** | Mean and standard deviation (SD) |\n| **Session length** | Mean and SD of session duration |\n| **Date of sessions** | Used to calculate session frequency |\n| **Mode of delivery** | Frequencies and percentages of delivery via videocall, phone, or in person |",
+      "title": "Coach Session Log Data",
+      "summary": "Coach session logs contribute quantitative data to the process evaluation. This data includes descriptive summaries of the number of sessions, their mean length, frequency calculated from dates, and the mode of delivery (e.g., videocall, phone, in person).",
+      "context": "The quantitative approach section lists the data points summarized from the Coach session logs to analyze the dose and mode of intervention delivery."
+    },
+    {
+      "q": "What is the purpose of conducting a process evaluation alongside the clinical trial?",
+      "a": "The process evaluation is an embedded component of the trial. It serves two primary objectives: 1) to address questions about **whether the intervention was delivered as intended (fidelity)**; and 2) to determine **how outcomes were produced (mechanisms of action, MoAs)**. Additionally, it aims to identify contextual and service-level barriers and enablers to post-trial implementation and scale-up, and whether the intervention can support self-management of other Long-Term Conditions (LTCs) in people with SMI.",
+      "title": "Process Evaluation Objectives",
+      "summary": "The process evaluation uses a mixed-methods approach to understand the intervention's success. Its main goals are assessing intervention fidelity and identifying the mechanisms of action (MoAs) that drive outcomes. It also prepares for future implementation by assessing barriers and enablers.",
+      "context": "The Aim and Objectives and Process evaluation sections detail the rationale and components of the evaluation."
+    },
+    {
+      "q": "What does the protocol state regarding data retention if a participant decides on 'withdrawal from intervention only'?",
+      "a": "If a participant chooses **withdrawal from intervention only**, the research team will **continue to collect follow-up data** from the participant. However, data provided by participants who fully withdraw will be retained for analysis only up until the point of withdrawal.",
+      "title": "Data Retention for Partial Withdrawal",
+      "summary": "If a participant withdraws only from receiving coaching sessions, follow-up data collection will still proceed. This distinction allows researchers to collect outcome data even if the participant no longer engages with the DIAMONDS Coach or workbook.",
+      "context": "The Participant withdrawals section explicitly distinguishes between the three withdrawal categories and the subsequent data collection procedures."
+    },
+    {
+      "q": "How does the DIAMONDS trial protocol ensure that analysis will be conducted in a manner that adheres to the initial treatment allocation?",
+      "a": "The statistical analyses will be conducted on an **intention to treat (ITT) basis**. The ITT principle dictates that all participants are analyzed according to the group to which they were originally randomized, regardless of whether they received the intervention or dropped out.",
+      "title": "Statistical Analysis Principle",
+      "summary": "All statistical analyses for the trial will adhere to the intention to treat (ITT) principle. This means participants are analyzed based on their initial randomization group, regardless of adherence to the intervention.",
+      "context": "The Statistical analysis section specifies the fundamental approach governing data analysis."
+    },
+    {
+      "q": "What mechanism allows researchers to collect data from individuals who previously participated in related research projects?",
+      "a": "Individuals who have previously taken part in related research projects within the research group at the University of York (UoY) and who had previously given **permission to be approached about future opportunities** will be contacted. Those interested must return a **Consent-to-Contact (CTC) form** to the UoY team, who then pass it to the research teams at the mental health trusts to initiate the formal recruitment process.",
+      "title": "Recruitment from Existing Cohorts",
+      "summary": "Recruitment includes contacting individuals from previous related UoY research cohorts who consented to future contact. If interested, they return a CTC form, which initiates the full recruitment and consent process managed by the mental health trust research teams.",
+      "context": "The Identification of potential participants from existing research cohorts section describes this specific recruitment pathway."
+    },
+    {
+      "q": "What is the key ethical difference between an Adverse Event (AE) and a Serious Adverse Event (SAE)?",
+      "a": "An Adverse Event (AE) is defined broadly as **any unexpected effect or untoward clinical event** affecting the participant (i.e., any unfavorable and unintended sign, symptom, or disease). An AE can be directly related, possibly related, or completely unrelated to the intervention. A **Serious Adverse Event (SAE)** is a subset of AEs that meets specific regulatory criteria (e.g., resulting in death, inpatient hospitalization, or persistent disability). All SAEs require immediate reporting to the Chief Investigator and independent clinical review.",
+      "title": "AE vs. SAE Definitions",
+      "summary": "An AE is any unexpected unfavorable clinical occurrence, regardless of its connection to the intervention. An SAE is a subtype of AE that necessitates immediate reporting to the Chief Investigator and review by an independent clinician due to its severe nature.",
+      "context": "The Adverse event reporting section defines AEs and outlines the heightened reporting and review requirements for SAEs."
+    },
+    {
+      "q": "Why is the use of diabetes self-management programs designed for the general population ineffective or inappropriate for people with SMI?",
+      "a": "Diabetes self-management programs designed for the general population often fail this cohort because they **do not address the important barriers** imposed by Severe Mental Illness (SMI) [14, 35–38]. SMI is characterized by symptoms (disturbances of thought, perception, affect, and motivation) that compromise self-efficacy, literacy, and adherence [14, 29, 31–34]. These generic programs fail to overcome these underlying psychiatric and cognitive obstacles.",
+      "title": "Inappropriateness of Generic Programs",
+      "summary": "Generic diabetes programs are largely ineffective for people with SMI because they do not account for the unique barriers caused by SMI symptoms, such as disturbances in motivation, cognition, and affect. These barriers require a tailored approach that standard programs lack.",
+      "context": "The protocol explains that standard diabetes programs research typically excludes people with SMI, and the existing programs do not address the complex barriers related to SMI characteristics."
+    },
+    {
+      "q": "What steps were involved in the development of the DIAMONDS intervention, leading up to the RCT?",
+      "a": "The DIAMONDS intervention was developed using a tailored, co-design approach. The steps included:\n\n| Development Step | Participants/Methodology |\n|:---|:---|\n| **Co-design** | Collaboration with service users, carers (DIAMONDS Voice), and healthcare professionals |\n| **Feasibility Study** | Testing the intervention to confirm acceptability and feasibility |\n| **Refinement** | Adjusting the intervention based on findings from the feasibility study prior to the RCT |",
+      "title": "Intervention Development Process",
+      "summary": "The intervention was developed using a theory- and evidence-based co-design approach involving service users, carers, and healthcare professionals. Its acceptability was confirmed and refined based on findings from a preceding feasibility study.",
+      "context": "The protocol notes the co-design process and the refinement that occurred following the DIAMONDS feasibility study."
+    },
+    {
+      "q": "If a participant has valid outcome data at baseline and one follow-up point, will their data be included in the primary analysis?",
+      "a": "Yes. The amount of missing data will be mitigated by including all data in the primary analysis model. The model is designed to allow the inclusion of **any patient with complete baseline data and valid outcome data at one or more follow-up points** (i.e., either at six months or 12 months, or both).",
+      "title": "Data Inclusion Criteria for Primary Analysis",
+      "summary": "To mitigate missing data bias, the primary analysis model maximizes data inclusion. A participant's data will be used if they have provided complete baseline data and at least one set of valid outcome data (at six or 12 months).",
+      "context": "The Sensitivity analyses section describes how the statistical model is robustly designed to handle partial missing data by leveraging all available follow-up points."
+    },
+    {
+      "q": "What is the policy regarding participants in the intervention group continuing with their current usual care alongside the DIAMONDS intervention?",
+      "a": "Participants allocated to the intervention group **will be permitted to continue with current care alongside the DIAMONDS intervention**. The trial design compares the intervention *plus* usual care against usual care alone.",
+      "title": "Intervention Group Co-treatment",
+      "summary": "Participants receiving the DIAMONDS intervention are allowed to continue accessing and utilizing their current usual care services simultaneously. The trial compares this combined approach against the usual care provided to the control group.",
+      "context": "The protocol clarifies that the intervention is supplementary to existing care pathways."
+    },
+    {
+      "q": "What is the specific methodology that will be used for the initial thematic analysis of the qualitative transcripts?",
+      "a": "The qualitative data, consisting of anonymized and transcribed interviews/focus groups, will undergo an initial thematic analysis. This will be conducted using a **framework method**. This method involves developing an initial coding framework, checking transcripts against it, examining codes across the data set, and then developing broader categories using linking codes.",
+      "title": "Qualitative Coding Methodology",
+      "summary": "The initial analysis of the qualitative data will be performed using the framework method. This process involves developing and checking a coding framework against transcripts, followed by developing broader thematic categories.",
+      "context": "The qualitative analysis section details the specific methodological steps for handling the transcribed data."
+    },
+    {
+      "q": "What are the secondary outcomes that measure mechanisms of action (MoA)?",
+      "a": "Mechanisms of action (MoA) are included as secondary outcomes. MoAs address how outcomes were produced, forming a key part of the embedded process evaluation. These outcomes are likely measured via specific patient-reported scales related to behavioral or cognitive changes, though full details are located in supplemental appendix 1. The MoA framework is explicitly extended from the Theoretical Domains Framework (TDF).",
+      "title": "MoA Secondary Outcomes",
+      "summary": "MoAs are measured as secondary outcomes to determine how the intervention generates its effects. The analysis guiding these outcomes is based on the Theoretical Domains Framework (TDF), which informs the process evaluation.",
+      "context": "The secondary outcomes section lists MoA measures, and the process evaluation explains their role in understanding how results were achieved."
+    },
+    {
+      "q": "What is the key role of the R&D staff in the intervention group after randomization occurs?",
+      "a": "Designated R&D staff are tasked with two specific roles immediately following the randomization process:\n\n| R&D Staff Role |\n|:---|\n| **Randomizing participants** | Using the YTU web-based service to assign allocations |\n| **Coordinating handover** | Managing the transfer of participants allocated to the intervention group to a DIAMONDS Coach |",
+      "title": "R&D Staff Role Post-Randomization",
+      "summary": "Following confirmation of eligibility and consent, R&D staff manage the randomization process. For participants assigned to the intervention arm, these staff are responsible for coordinating the handover to their assigned DIAMONDS Coach.",
+      "context": "The protocol details the division of labor, specifying that R&D staff handle randomization and the subsequent coordination required to initiate the intervention delivery."
+    },
+    {
+      "q": "Who were the primary contributors to the concept and design of the DIAMONDS trial?",
+      "a": "A wide range of contributors were involved in the concept and design, including:\n\n| Primary Contributors (Concept & Design) |\n|:---|\n| Najma Siddiqi (Chief Investigator) |\n| Grace Catherine O’Carroll, Jennifer V E Brown, R A Ajjan, Jan Rasmus Boehnke, Claire Carswell, Peter A Coventry, Michelle Hadjiconstantinou, Catherine Hewitt, Richard Ian Gregory Holt, Vicki Johnson, Ian Kellar, Jinshuo Li, David Osborn, Gregor Russell, Lucy Sheehan, David Shiers, Judith Watson |\n| Laura Mandefield and Charlie Peck |",
+      "title": "Concept and Design Contributors",
+      "summary": "The concept and design involved numerous authors and collaborators from various institutions. Najma Siddiqi, the Chief Investigator, along with core authors like O’Carroll, Brown, and Coventry, were crucial in drafting, interpreting analysis, and developing the trial concept.",
+      "context": "The Contributors section lists individuals involved in the concept and design, distinguishing between those who also drafted the work and those who additionally handled analysis and interpretation (LM and CP)."
+    },
+    {
+      "q": "How does the DIAMONDS intervention support participants in improving their diet and physical activity levels?",
+      "a": "The intervention supports these lifestyle changes through one of its core objectives: **Providing support to increase their physical activity levels and make healthier food choices**. This is delivered during one-to-one sessions with the Coach, who aids the participant in goal setting and action planning. The process evaluation also tracks content areas discussed, confirming whether participants addressed increasing physical activity and making healthier food choices.",
+      "title": "Lifestyle Support in Intervention",
+      "summary": "The DIAMONDS Coach provides one-to-one support focused explicitly on increasing physical activity and promoting healthier food choices. These goals are integrated into the goal setting and action planning central to the intervention structure.",
+      "context": "The detailed objectives of the DIAMONDS intervention outline the specific behavioral support offered by the Coach."
+    },
+    {
+      "q": "How is the quality of delivery of the intervention sessions assessed as part of the Intervention Fidelity framework?",
+      "a": "The quality of delivery is assessed based on two main factors:\n\n| Quality Factor | Assessment Detail |\n|:---|:---|\n| **Behaviour Change Techniques (BCTs)** | Assessment of the Coach's use and integration of BCTs during the session |\n| **Manner/Behavior** | Assessment of the Coach's demeanor and professional behavior while delivering the programme |",
+      "title": "Assessing Intervention Delivery Quality",
+      "summary": "The Intervention Fidelity framework measures quality of delivery by assessing the Coach's effective use of Behaviour Change Techniques (BCTs). It also includes an evaluation of the Coach's professional manner and behavior during the one-to-one sessions.",
+      "context": "The Intervention fidelity observations section defines quality of delivery as one of the four key IF measures."
+    },
+    {
+      "q": "When were the protocol received and accepted for publication?",
+      "a": "The protocol was officially **received on 21 June 2024** and was **accepted on 28 February 2025**.",
+      "title": "Protocol Submission Timeline",
+      "summary": "The DIAMONDS protocol was received by the journal BMJ Open in June 2024. It underwent peer review and was accepted for publication in February 2025.",
+      "context": "The timeline of the manuscript review process is listed immediately preceding the Abstract."
+    },
+    {
+      "q": "What measure is used to assess depression severity as a secondary outcome in the DIAMONDS trial?",
+      "a": "Depression severity is assessed using the **Patient Health Questionnaire-9 (PHQ-9)**. This is a brief, validated measure commonly used for this purpose. The PHQ-9 results contribute to the secondary outcomes related to mental health.",
+      "title": "Depression Severity Measure",
+      "summary": "The secondary outcome measuring mental health includes depression severity, which is assessed using the Patient Health Questionnaire-9 (PHQ-9).",
+      "context": "Figure 1 references the PHQ-9 scale and its corresponding citation which defines it as a brief depression severity measure."
+    },
+    {
+      "q": "What condition must be met for carers to be eligible to participate in the qualitative evaluation interviews?",
+      "a": "Carers are eligible only if they are an unpaid carer providing support to a dependent person with whom they have a social relationship, AND they must be the carer of a **service-user participating in the DIAMONDS RCT**.",
+      "title": "Carer Eligibility for Interviews",
+      "summary": "To be interviewed, carers must be unpaid and supporting a dependent person. Crucially, that dependent person must be actively participating as a service-user in the DIAMONDS randomized controlled trial.",
+      "context": "The Carers section within the qualitative evaluation details the specific eligibility and recruitment pathway for this cohort."
+    },
+    {
+      "q": "What is the key difference between the DIAMONDS intervention and the STEPWISE trial intervention that preceded it?",
+      "a": "The DIAMONDS intervention is a tailored, supported diabetes self-management program targeting T2DM in SMI. The STEPWISE trial, in contrast, focused on a **group structured lifestyle education programme to support weight reduction** in people with schizophrenia. While both aimed at physical health improvement in SMI, DIAMONDS is tailored for diabetes management, whereas STEPWISE focused generally on lifestyle and weight.",
+      "title": "DIAMONDS vs. STEPWISE Focus",
+      "summary": "DIAMONDS is a self-management intervention specifically codesigned for managing Type 2 diabetes in the context of SMI. STEPWISE was a prior trial focusing on group lifestyle education aimed at weight reduction in people with schizophrenia.",
+      "context": "The protocol differentiates DIAMONDS by highlighting that programs specifically for people with SMI and diabetes did not previously exist, citing STEPWISE as a related but different weight management trial."
+    },
+    {
+      "q": "What three characteristics of data will be summarized descriptively by treatment group at baseline?",
+      "a": "Baseline characteristics will be reported descriptively by treatment group. The continuous and categorical data collected will be summarized using the following measures:\n\n| Data Characteristic | Summary Measures |\n|:---|:---|\n| **Continuous data** | Means, SD, medians, and ranges |\n| **Categorical data** | Frequencies and percentages |\n| **Data balance** | Visually inspected, and any imbalance reported |",
+      "title": "Baseline Data Summary",
+      "summary": "Baseline characteristics for both continuous and categorical data will be summarized descriptively by treatment group. Continuous variables will report means, medians, and ranges, while categorical variables will report frequencies and percentages, followed by visual inspection for data imbalance.",
+      "context": "The Statistical analysis section dictates the standard procedures for baseline data reporting."
+    },
+    {
+      "q": "What kind of knowledge exchange activities are planned for disseminating the findings of the trial?",
+      "a": "The dissemination strategy includes several knowledge exchange activities aimed at communicating findings beyond academic audiences. These activities involve: distributing summaries to stakeholders (like commissioners and third sector organizations), attending conferences and dissemination events, and utilizing knowledge exchange events. Members of DIAMONDS Voice will also be involved in these activities.",
+      "title": "Knowledge Exchange Dissemination",
+      "summary": "Knowledge exchange is a key part of the dissemination strategy, aiming to reach non-academic audiences. Activities include stakeholder summaries, conference attendance, and specialized knowledge exchange events, often involving service-user representatives.",
+      "context": "The Ethics and dissemination section confirms the commitment to utilizing knowledge exchange events and distributing targeted summaries."
+    },
+    {
+      "q": "Which specific professional affiliations are involved in supporting the DIAMONDS trial, according to the sources?",
+      "a": "The trial involves collaboration across various academic and NHS organizations:\n\n| Organization Type | Examples of Affiliations |\n|:---|:---|\n| **University Departments** | University of York (UoY), University of Dundee, University of Leeds, University College London, University of Southampton, University of Sheffield, Keele University |\n| **NHS Trusts / Clinical Centers** | Bradford District Care NHS Foundation Trust, Leicester Diabetes Centre, University Hospitals of Leicester NHS Trust, Greater Manchester Mental Health NHS Foundation Trust |\n| **Research Centers** | NIHR Biomedical Research Centre (Leicester & Southampton), Hull York Medical School |",
+      "title": "Trial Affiliations",
+      "summary": "The DIAMONDS trial is a multicentre effort involving numerous affiliations across the UK. Key contributors are drawn from major institutions including the University of York, various NHS Foundation Trusts (like Bradford District Care), and specialized research centers (e.g., Leicester Diabetes Centre).",
+      "context": "The numbered Author affiliations at the end of the article list the multiple academic departments, NHS trusts, and research centers contributing to the study."
+    },
+    {
+      "q": "What key information must R&D staff record if an outcome assessor becomes unblinded to a participant's treatment allocation?",
+      "a": "Should an outcome assessor become unblinded, either because a participant inadvertently reveals their allocation or for any other reason, this information **will be recorded in the outcome assessment Case Report Form (CRF) at the relevant time**.",
+      "title": "Recording Blinding Status",
+      "summary": "If an outcome assessor is unblinded to a participant's group allocation, this event must be documented. The assessor is required to record the unblinding incident in the outcome assessment Case Report Form (CRF).",
+      "context": "The Blinding section specifies the protocol for handling and documenting accidental unblinding events."
+    },
+    {
+      "q": "How does the DIAMONDS trial address the challenges of accessing clinically and cost-effective healthcare for individuals with both mental and physical illnesses?",
+      "a": "The protocol acknowledges that accessing clinically and cost-effective healthcare for individuals with comorbid mental and physical illnesses is recognized as challenging. The trial addresses this by evaluating a novel, co-designed intervention specifically tailored for people with SMI and T2DM. Furthermore, the study includes an embedded **economic evaluation** to assess the **cost-effectiveness** of the DIAMONDS intervention compared to usual care.",
+      "title": "Addressing Comorbidity Challenges",
+      "summary": "The symptoms and treatments for SMI and physical illness often interact negatively, complicating care. The trial directly addresses this challenge by testing a tailored, codesigned intervention and utilizing an embedded economic evaluation to determine if this specialized support is both clinically and cost-effective.",
+      "context": "The introduction highlights the difficulty of providing care to this complex population, setting the context for the trial's dual focus on clinical outcomes and cost-effectiveness."
+    },
+    {
+      "q": "What is the specific methodology used in the integrated analysis to compare qualitative and quantitative findings?",
+      "a": "The integrated analysis employs a **triangulation protocol** using a **convergence coding matrix**. This methodology involves:\n\n| Step | Description |\n|:---|:---|\n| **Data Pairing** | Key findings from IF assessments, patient interviews, carer interviews, and coach interviews/focus groups are compared in pairs |\n| **Analogue Identification** | Investigating whether analogues (comparable data points) can be identified in the quantitative data for each qualitative theme |\n| **Categorization** | Categorizing the relationship between paired findings into agreement, partial agreement, silence, or dissonance |",
+      "title": "Integrated Analysis Triangulation Method",
+      "summary": "The integrated analysis uses a triangulation protocol with a convergence coding matrix to systematically compare findings from the qualitative interviews and the quantitative fidelity data. This allows the research team to categorize the relationship between different data types as agreement, complementary, silence, or disagreement.",
+      "context": "The Integrated analysis section describes the specific technique used to combine the mixed-methods data sources."
+    },
+    {
+      "q": "What is the clinical definition of a Severe Mental Illness (SMI) that makes self-management difficult for this population?",
+      "a": "SMI is defined as encompassing long-term mental illnesses such as schizophrenia, schizoaffective disorder, bipolar disorder, and severe depression. Clinically, SMI is characterized by **disturbances of thought, perception, affect, and motivation**. These disturbances act as significant barriers, influencing self-efficacy, literacy, lifestyle, and behavior necessary for effective diabetes self-management.",
+      "title": "Clinical Definition of SMI Barriers",
+      "summary": "SMI includes long-term conditions like schizophrenia and severe depression. These illnesses are defined by disturbances in thought, perception, affect, and motivation, which create substantial barriers affecting a person's ability to maintain self-efficacy and adhere to lifestyle changes required for diabetes care.",
+      "context": "The definition and impact of SMI are detailed in the introduction and aim sections to explain why generic diabetes interventions are inadequate."
+    },
+    {
+      "q": "If the trial statisticians detect data imbalance due to missing data, how will this be addressed?",
+      "a": "The statisticians will visually inspect the baseline data and report any imbalance detected. They will compare the baseline characteristics of participants included in the primary analysis to ensure that missing data have not produced imbalance in important covariates. The use of the mixed-effects regression analysis model inherently mitigates some missing data issues by utilizing all available outcome data points.",
+      "title": "Addressing Data Imbalance",
+      "summary": "Statisticians will visually inspect and report any baseline data imbalance, particularly comparing participants included versus excluded from the primary analysis due to missing data. The primary analysis model itself is designed to maximize the inclusion of partial data to reduce imbalance effects.",
+      "context": "The statistical plan requires descriptive reporting of data balance and explains how the analysis model accounts for missing data."
+    },
+    {
+      "q": "What is the ultimate fate of the intervention content (app and workbook) for participants who complete the six-month intervention period?",
+      "a": "Participants who complete the six-month intervention period are supported by the Coach to set longer-term goals and action plans for self-management, similar to those who discontinue early. Furthermore, participants will be able to **continue engaging with intervention content after follow-up data are collected** through continued use of the **app and/or workbook**.",
+      "title": "Post-Intervention Content Access",
+      "summary": "Upon completing the six-month intervention, participants retain access to the core materials, including the workbook and the optional digital app. This allows them to continue utilizing the intervention content for self-management even after the formal coaching period and data collection conclude.",
+      "context": "The intervention section confirms that the materials remain available to participants after the study phases, facilitating long-term self-management."
+    },
+    {
+      "q": "What are the three main time points for blood sample collection?",
+      "a": "Blood samples are collected by trained staff at participating sites. The three main time points for collecting these samples (which measure primary and secondary biological outcomes like HbA1c and cholesterol) are:\n\n| Time Point | Schedule |\n|:---|:---|\n| **Baseline** | Before randomization/intervention starts |\n| **Six months** | Post-randomization assessment |\n| **12 months** | Post-randomization assessment (Final follow-up) |",
+      "title": "Blood Sample Collection Schedule",
+      "summary": "Blood samples for primary (HbA1c) and secondary biological outcomes are collected at three appointments: baseline, six months, and 12 months post-randomization. These samples are sent to a central masked lab for analysis.",
+      "context": "The protocol clearly defines the follow-up periods and the data collection schedule."
+    },
+    {
+      "q": "Why is the use of Urdu language materials highlighted as a strength of this study?",
+      "a": "The incorporation of Urdu language materials is listed as a specific **strength of the study**. This measure was implemented to **improve inclusivity**, acknowledging the diverse linguistic needs within the target population of people with SMI and T2DM.",
+      "title": "Urdu Material Inclusion",
+      "summary": "The inclusion of Urdu language intervention materials is considered a strength of the trial design. This adaptation aims specifically to enhance inclusivity and accessibility for non-English speaking participants.",
+      "context": "The strengths and limitations section explicitly cites the incorporation of Urdu materials as an advantage."
+    },
+    {
+      "q": "Which specific professional affiliations are involved in the development and fidelity assessment of the intervention materials?",
+      "a": "The development and refinement of the intervention fidelity (IF) framework, including the checklist and coding manual, involved collaboration with experts from two specialized centers:\n\n| Professional Center | Role in IF |\n|:---|:---|\n| **Leicester Diabetes Centre (LDC)** | Involvement in determining and refining the IF framework and developing the coding manual |\n| **University of Leicester (UoL)** | Involvement in determining and refining the IF framework and developing the coding manual |",
+      "title": "Intervention Fidelity Collaboration",
+      "summary": "The Intervention Fidelity framework and associated coding manual were developed and refined through discussions with the research team at the Leicester Diabetes Centre (LDC) and the University of Leicester (UoL).",
+      "context": "The Intervention fidelity observations section specifies the involvement of the LDC and UoL teams in developing IF procedures."
+    },
+    {
+      "q": "What are the full names of the scales represented by the acronyms BPRS, PAID, and SDSCA used in the secondary outcomes?",
+      "a": "The full names of these standardized scales used in the trial are:\n\n| Acronym | Full Scale Name |\n|:---|:---|\n| **BPRS** | Brief Psychiatric Rating Scale |\n| **PAID** | Problem Areas in Diabetes Scale |\n| **SDSCA** | Summary of Diabetes Self-Care Activities Scale |",
+      "title": "Secondary Outcome Scale Names",
+      "summary": "Secondary measures include the Brief Psychiatric Rating Scale (BPRS) for general psychiatric status. Diabetes-specific scales include the Problem Areas in Diabetes Scale (PAID) and the Summary of Diabetes Self-Care Activities Scale (SDSCA).",
+      "context": "Figure 1 lists these acronyms, and the corresponding references provide the full names and description of the measures used."
+    },
+    {
+      "q": "What key information will the Change One Thing app content management system provide for the quantitative process evaluation?",
+      "a": "If utilized by participants, the Change One Thing app content management system will provide data for the quantitative process evaluation. This data will descriptively summarize:\n\n| Metric Extracted from App System | Description |\n|:---|:---|\n| **Intervention Content Areas** | List of content areas covered, with number and percentage of participants who discussed each area |\n| **Action Plan Duration** | Average duration a participant stayed with the same action plan/content area |\n| **Total Content Coverage** | Average number of intervention content areas covered across the workbook and/or app during the total intervention period |",
+      "title": "App Content Data for Process Evaluation",
+      "summary": "The content management system for the Change One Thing app yields quantitative data on participant engagement. Key metrics extracted include the specific content areas covered, the average time spent on action plans, and the total volume of content accessed via the app or workbook.",
+      "context": "The quantitative approach section details the specific data metrics extracted from the digital content management system."
+    },
+    {
+      "q": "Who is included in the DIAMONDS Research Team collaborators?",
+      "a": "The DIAMONDS research team collaborators, listed separately from the main authors, include:\n\n| Collaborator Name |\n|:---|\n| Rowena Jacobs |\n| Judy Wright |\n| Tim Doran |\n| Keith Double |\n| Angela Ross |\n| Simon Gilbody |\n| Simon Walker |\n| Mark Dawson |\n| Patrick Doherty |\n| Sarah Alderson |",
+      "title": "Research Team Collaborators",
+      "summary": "The DIAMONDS Research Team includes collaborators such as Rowena Jacobs, Tim Doran, and Sarah Alderson, among others, who contributed to the study.",
+      "context": "The Collaborators section provides a distinct list of individuals comprising the wider DIAMONDS research team."
+    }
   ]
 ]
